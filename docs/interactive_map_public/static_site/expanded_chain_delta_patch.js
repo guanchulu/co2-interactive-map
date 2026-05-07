@@ -44,6 +44,7 @@
 
   async function run() {
     await waitReady();
+    await new Promise((resolve) => setTimeout(resolve, 1500));
     const [delta, summary] = await Promise.all([
       fetch(DELTA_URL).then((r) => r.ok ? r.json() : null).catch(() => null),
       fetch(SUMMARY_URL).then((r) => r.ok ? r.json() : null).catch(() => null),
