@@ -1,0 +1,170 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1420" height="980" viewBox="0 0 1420 980">
+<style>text{font-family:Arial,Helvetica,sans-serif;} .mono{font-family:Consolas,monospace;}</style>
+<rect x="0.0" y="0.0" width="1420.0" height="980.0" rx="0.0" fill="#ffffff" stroke="none" stroke-width="1.0"/>
+<rect x="0.0" y="0.0" width="1420.0" height="92.0" rx="0.0" fill="#ffffff" stroke="none" stroke-width="1.0"/>
+<text x="42.0" y="42.0" font-size="25" font-weight="700" text-anchor="start" fill="#243033">Figure 1. Decision problem and current baseline failure</text>
+<text x="42.0" y="68.0" font-size="13" font-weight="400" text-anchor="start" fill="#627176">The paper starts from a hard constraint: captured CO2 has many possible destinations, but current conditions do not make them broadly profitable.</text>
+<rect x="40.0" y="120.0" width="420.0" height="300.0" rx="6.0" fill="#ffffff" stroke="#dfe6e8" stroke-width="1.0"/>
+<text x="56.0" y="148.0" font-size="16" font-weight="700" text-anchor="start" fill="#243033">A</text>
+<text x="82.0" y="148.0" font-size="14" font-weight="700" text-anchor="start" fill="#243033">What happens to one captured tonne?</text>
+<text x="72.0" y="176.0" font-size="9" font-weight="800" text-anchor="start" fill="#243033">One captured tonne is tested against feasible routes.</text>
+<text x="72.0" y="192.0" font-size="8" font-weight="600" text-anchor="start" fill="#627176">Modelled large point-source pool: 7.0 GtCO2/yr.</text>
+<text x="72.0" y="207.0" font-size="7" font-weight="500" text-anchor="start" fill="#627176">Not total China emissions.</text>
+<rect x="72.0" y="222.0" width="96.0" height="86.0" rx="7.0" fill="#e9f2f5" stroke="#b9ced7" stroke-width="1.1"/>
+<text x="120.0" y="247.0" font-size="17" font-weight="800" text-anchor="middle" fill="#243033">1 t CO2</text>
+<text x="120.0" y="267.0" font-size="8" font-weight="700" text-anchor="middle" fill="#627176">from a source</text>
+<text x="120.0" y="283.0" font-size="8" font-weight="700" text-anchor="middle" fill="#627176">quality + cost</text>
+<text x="120.0" y="325.0" font-size="7" font-weight="600" text-anchor="middle" fill="#627176">coal  5.2, steel 1.4 Gt/yr</text>
+<line x1="168.0" y1="258.0" x2="205.0" y2="258.0" stroke="#dce6e8" stroke-width="2.4" opacity="1.00" stroke-linecap="round"/>
+<text x="186.0" y="249.0" font-size="7" font-weight="700" text-anchor="middle" fill="#627176">test</text>
+<rect x="205.0" y="195.0" width="110.0" height="146.0" rx="7.0" fill="#ffffff" stroke="#d5e0e2" stroke-width="1.0"/>
+<text x="260.0" y="214.0" font-size="9" font-weight="800" text-anchor="middle" fill="#243033">route candidates</text>
+<rect x="222.0" y="224.0" width="76.0" height="14.0" rx="4.0" fill="#225f74" stroke="none" stroke-width="1"/>
+<text x="260.0" y="234.0" font-size="6" font-weight="800" text-anchor="middle" fill="#ffffff">storage</text>
+<rect x="222.0" y="242.0" width="76.0" height="14.0" rx="4.0" fill="#3d8f63" stroke="none" stroke-width="1"/>
+<text x="260.0" y="252.0" font-size="6" font-weight="800" text-anchor="middle" fill="#ffffff">mineral</text>
+<rect x="222.0" y="260.0" width="76.0" height="14.0" rx="4.0" fill="#c97836" stroke="none" stroke-width="1"/>
+<text x="260.0" y="270.0" font-size="6" font-weight="800" text-anchor="middle" fill="#ffffff">SAF</text>
+<rect x="222.0" y="278.0" width="76.0" height="14.0" rx="4.0" fill="#7d63a6" stroke="none" stroke-width="1"/>
+<text x="260.0" y="288.0" font-size="6" font-weight="800" text-anchor="middle" fill="#ffffff">chemical</text>
+<rect x="222.0" y="296.0" width="76.0" height="14.0" rx="4.0" fill="#aab4b8" stroke="none" stroke-width="1"/>
+<text x="260.0" y="306.0" font-size="6" font-weight="800" text-anchor="middle" fill="#ffffff">defer</text>
+<rect x="222.0" y="314.0" width="76.0" height="14.0" rx="4.0" fill="#6f7c80" stroke="none" stroke-width="1"/>
+<text x="260.0" y="324.0" font-size="6" font-weight="800" text-anchor="middle" fill="#ffffff">CO2 hub</text>
+<line x1="315.0" y1="258.0" x2="348.0" y2="258.0" stroke="#dce6e8" stroke-width="2.4" opacity="1.00" stroke-linecap="round"/>
+<text x="332.0" y="249.0" font-size="7" font-weight="700" text-anchor="middle" fill="#627176">score</text>
+<rect x="348.0" y="215.0" width="82.0" height="86.0" rx="7.0" fill="#f4f7f7" stroke="#d5e0e2" stroke-width="1.0"/>
+<text x="389.0" y="236.0" font-size="10" font-weight="800" text-anchor="middle" fill="#243033">LP selects</text>
+<rect x="360.0" y="249.0" width="58.0" height="10.0" rx="3.0" fill="#e2ece8" stroke="none" stroke-width="1"/>
+<text x="389.0" y="257.0" font-size="6" font-weight="800" text-anchor="middle" fill="#627176">margin</text>
+<rect x="360.0" y="262.0" width="58.0" height="10.0" rx="3.0" fill="#e2ece8" stroke="none" stroke-width="1"/>
+<text x="389.0" y="270.0" font-size="6" font-weight="800" text-anchor="middle" fill="#627176">capacity</text>
+<rect x="360.0" y="275.0" width="58.0" height="10.0" rx="3.0" fill="#e2ece8" stroke="none" stroke-width="1"/>
+<text x="389.0" y="283.0" font-size="6" font-weight="800" text-anchor="middle" fill="#627176">city cap</text>
+<rect x="360.0" y="288.0" width="58.0" height="10.0" rx="3.0" fill="#e2ece8" stroke="none" stroke-width="1"/>
+<text x="389.0" y="296.0" font-size="6" font-weight="800" text-anchor="middle" fill="#627176">durable</text>
+<text x="72.0" y="366.0" font-size="9" font-weight="800" text-anchor="start" fill="#243033">Output: selected route, hub aggregation, or defer/no-build.</text>
+<text x="72.0" y="384.0" font-size="8" font-weight="500" text-anchor="start" fill="#627176">This is the allocation unit used in every city-year.</text>
+<rect x="500.0" y="120.0" width="420.0" height="300.0" rx="6.0" fill="#ffffff" stroke="#dfe6e8" stroke-width="1.0"/>
+<text x="516.0" y="148.0" font-size="16" font-weight="700" text-anchor="start" fill="#243033">B</text>
+<text x="542.0" y="148.0" font-size="14" font-weight="700" text-anchor="start" fill="#243033">Current scenario best margin</text>
+<text x="525.0" y="182.0" font-size="9" font-weight="600" text-anchor="start" fill="#627176">China 2030</text>
+<rect x="555.0" y="168.0" width="150.0" height="15.0" rx="2.0" fill="#b9525f" stroke="none" stroke-width="1"/>
+<text x="715.0" y="180.0" font-size="9" font-weight="700" text-anchor="start" fill="#243033">-169.1</text>
+<text x="525.0" y="206.0" font-size="9" font-weight="600" text-anchor="start" fill="#627176">SAF export</text>
+<rect x="595.0" y="192.0" width="110.0" height="15.0" rx="2.0" fill="#b9525f" stroke="none" stroke-width="1"/>
+<text x="715.0" y="204.0" font-size="9" font-weight="700" text-anchor="start" fill="#243033">-123.9</text>
+<text x="525.0" y="230.0" font-size="9" font-weight="600" text-anchor="start" fill="#627176">low H2</text>
+<rect x="606.3" y="216.0" width="98.7" height="15.0" rx="2.0" fill="#b9525f" stroke="none" stroke-width="1"/>
+<text x="715.0" y="228.0" font-size="9" font-weight="700" text-anchor="start" fill="#243033">-111.3</text>
+<text x="525.0" y="254.0" font-size="9" font-weight="600" text-anchor="start" fill="#627176">high policy</text>
+<rect x="616.3" y="240.0" width="88.7" height="15.0" rx="2.0" fill="#b9525f" stroke="none" stroke-width="1"/>
+<text x="715.0" y="252.0" font-size="9" font-weight="700" text-anchor="start" fill="#243033">-100.0</text>
+<text x="525.0" y="278.0" font-size="9" font-weight="600" text-anchor="start" fill="#627176">DAC credit</text>
+<rect x="624.1" y="264.0" width="80.9" height="15.0" rx="2.0" fill="#b9525f" stroke="none" stroke-width="1"/>
+<text x="715.0" y="276.0" font-size="9" font-weight="700" text-anchor="start" fill="#243033">-91.2</text>
+<text x="525.0" y="302.0" font-size="9" font-weight="600" text-anchor="start" fill="#627176">cheap power + product</text>
+<rect x="640.4" y="288.0" width="64.6" height="15.0" rx="2.0" fill="#b9525f" stroke="none" stroke-width="1"/>
+<text x="715.0" y="300.0" font-size="9" font-weight="700" text-anchor="start" fill="#243033">-72.8</text>
+<text x="525.0" y="326.0" font-size="9" font-weight="600" text-anchor="start" fill="#627176">2050 learning</text>
+<rect x="669.0" y="312.0" width="36.0" height="15.0" rx="2.0" fill="#b9525f" stroke="none" stroke-width="1"/>
+<text x="715.0" y="324.0" font-size="9" font-weight="700" text-anchor="start" fill="#243033">-40.5</text>
+<text x="525.0" y="350.0" font-size="9" font-weight="600" text-anchor="start" fill="#627176">breakthrough</text>
+<rect x="703.4" y="336.0" width="1.6" height="15.0" rx="2.0" fill="#b9525f" stroke="none" stroke-width="1"/>
+<text x="715.0" y="348.0" font-size="9" font-weight="700" text-anchor="start" fill="#243033">-1.8</text>
+<line x1="705.0" y1="162.0" x2="705.0" y2="365.0" stroke="#9aa6aa" stroke-width="1"/>
+<rect x="960.0" y="120.0" width="380.0" height="300.0" rx="6.0" fill="#ffffff" stroke="#dfe6e8" stroke-width="1.0"/>
+<text x="976.0" y="148.0" font-size="16" font-weight="700" text-anchor="start" fill="#243033">C</text>
+<text x="1002.0" y="148.0" font-size="14" font-weight="700" text-anchor="start" fill="#243033">Closest break-even routes</text>
+<line x1="1119.4" y1="165.0" x2="1119.4" y2="375.0" stroke="#9aa6aa" stroke-width="1"/>
+<text x="985.0" y="192.1" font-size="10" font-weight="500" text-anchor="start" fill="#243033">Storage</text>
+<rect x="1119.4" y="180.1" width="0.6" height="15.0" rx="0.0" fill="#d9a441" stroke="none" stroke-width="1.0"/>
+<text x="1125.0" y="192.1" font-size="9" font-weight="600" text-anchor="start" fill="#627176">1.8</text>
+<text x="985.0" y="234.1" font-size="10" font-weight="500" text-anchor="start" fill="#243033">Mineralization</text>
+<rect x="1119.4" y="222.1" width="14.8" height="15.0" rx="0.0" fill="#d9a441" stroke="none" stroke-width="1.0"/>
+<text x="1139.2" y="234.1" font-size="9" font-weight="600" text-anchor="start" fill="#627176">40.5</text>
+<text x="985.0" y="276.1" font-size="10" font-weight="500" text-anchor="start" fill="#243033">RWGS-CO</text>
+<rect x="1119.4" y="264.1" width="138.8" height="15.0" rx="0.0" fill="#d9a441" stroke="none" stroke-width="1.0"/>
+<text x="1263.2" y="276.1" font-size="9" font-weight="600" text-anchor="start" fill="#627176">379.0</text>
+<text x="985.0" y="318.1" font-size="10" font-weight="500" text-anchor="start" fill="#243033">E-formate</text>
+<rect x="1119.4" y="306.1" width="163.8" height="15.0" rx="0.0" fill="#d9a441" stroke="none" stroke-width="1.0"/>
+<text x="1288.2" y="318.1" font-size="9" font-weight="600" text-anchor="start" fill="#627176">447.3</text>
+<text x="985.0" y="360.1" font-size="10" font-weight="500" text-anchor="start" fill="#243033">FT-SAF</text>
+<rect x="1119.4" y="348.1" width="166.4" height="15.0" rx="0.0" fill="#d9a441" stroke="none" stroke-width="1.0"/>
+<text x="1290.8" y="360.1" font-size="9" font-weight="600" text-anchor="start" fill="#627176">454.4</text>
+<rect x="40.0" y="470.0" width="1300.0" height="300.0" rx="6.0" fill="#ffffff" stroke="#dfe6e8" stroke-width="1.0"/>
+<text x="56.0" y="498.0" font-size="16" font-weight="700" text-anchor="start" fill="#243033">D</text>
+<text x="82.0" y="498.0" font-size="14" font-weight="700" text-anchor="start" fill="#243033">Current-to-2060 evidence matrix</text>
+<rect x="70.0" y="525.0" width="126.0" height="24.0" rx="2.0" fill="#eef4f3" stroke="#ffffff" stroke-width="0.5"/>
+<text x="78.0" y="541.0" font-size="8" font-weight="800" text-anchor="start" fill="#627176">metric</text>
+<rect x="200.0" y="525.0" width="126.0" height="24.0" rx="2.0" fill="#eef4f3" stroke="#ffffff" stroke-width="0.5"/>
+<text x="208.0" y="541.0" font-size="8" font-weight="800" text-anchor="start" fill="#627176">current screen</text>
+<rect x="330.0" y="525.0" width="126.0" height="24.0" rx="2.0" fill="#eef4f3" stroke="#ffffff" stroke-width="0.5"/>
+<text x="338.0" y="541.0" font-size="8" font-weight="800" text-anchor="start" fill="#627176">2060 city screen</text>
+<rect x="460.0" y="525.0" width="126.0" height="24.0" rx="2.0" fill="#eef4f3" stroke="#ffffff" stroke-width="0.5"/>
+<text x="468.0" y="541.0" font-size="8" font-weight="800" text-anchor="start" fill="#627176">2060 LP</text>
+<rect x="70.0" y="553.0" width="126.0" height="28.0" rx="2.0" fill="#ffffff" stroke="#ffffff" stroke-width="0.5"/>
+<text x="78.0" y="574.0" font-size="8" font-weight="600" text-anchor="start" fill="#243033">positive units</text>
+<rect x="200.0" y="553.0" width="126.0" height="28.0" rx="2.0" fill="rgb(229,196,191)" stroke="#ffffff" stroke-width="0.5"/>
+<text x="208.0" y="574.0" font-size="8" font-weight="700" text-anchor="start" fill="#243033">0/8 scen.</text>
+<rect x="330.0" y="553.0" width="126.0" height="28.0" rx="2.0" fill="rgb(178,217,206)" stroke="#ffffff" stroke-width="0.5"/>
+<text x="338.0" y="574.0" font-size="8" font-weight="700" text-anchor="start" fill="#243033">154/167 cities</text>
+<rect x="460.0" y="553.0" width="126.0" height="28.0" rx="2.0" fill="#d9ece3" stroke="#ffffff" stroke-width="0.5"/>
+<text x="468.0" y="574.0" font-size="8" font-weight="700" text-anchor="start" fill="#243033">177 Mt managed</text>
+<rect x="70.0" y="585.0" width="126.0" height="28.0" rx="2.0" fill="#ffffff" stroke="#ffffff" stroke-width="0.5"/>
+<text x="78.0" y="606.0" font-size="8" font-weight="600" text-anchor="start" fill="#243033">best margin</text>
+<rect x="200.0" y="585.0" width="126.0" height="28.0" rx="2.0" fill="rgb(229,196,191)" stroke="#ffffff" stroke-width="0.5"/>
+<text x="208.0" y="606.0" font-size="8" font-weight="700" text-anchor="start" fill="#243033">-1.8 USD/t</text>
+<rect x="330.0" y="585.0" width="126.0" height="28.0" rx="2.0" fill="rgb(178,217,206)" stroke="#ffffff" stroke-width="0.5"/>
+<text x="338.0" y="606.0" font-size="8" font-weight="700" text-anchor="start" fill="#243033">1554 USD/t</text>
+<rect x="460.0" y="585.0" width="126.0" height="28.0" rx="2.0" fill="#d9ece3" stroke="#ffffff" stroke-width="0.5"/>
+<text x="468.0" y="606.0" font-size="8" font-weight="700" text-anchor="start" fill="#243033">450 USD/t</text>
+<rect x="70.0" y="617.0" width="126.0" height="28.0" rx="2.0" fill="#ffffff" stroke="#ffffff" stroke-width="0.5"/>
+<text x="78.0" y="638.0" font-size="8" font-weight="600" text-anchor="start" fill="#243033">durable CO2</text>
+<rect x="200.0" y="617.0" width="126.0" height="28.0" rx="2.0" fill="rgb(229,196,191)" stroke="#ffffff" stroke-width="0.5"/>
+<text x="208.0" y="638.0" font-size="8" font-weight="700" text-anchor="start" fill="#243033">0 Mt/yr</text>
+<rect x="330.0" y="617.0" width="126.0" height="28.0" rx="2.0" fill="rgb(178,217,206)" stroke="#ffffff" stroke-width="0.5"/>
+<text x="338.0" y="638.0" font-size="8" font-weight="700" text-anchor="start" fill="#243033">city potential</text>
+<rect x="460.0" y="617.0" width="126.0" height="28.0" rx="2.0" fill="#d9ece3" stroke="#ffffff" stroke-width="0.5"/>
+<text x="468.0" y="638.0" font-size="8" font-weight="700" text-anchor="start" fill="#243033">137 Mt/yr</text>
+<rect x="70.0" y="649.0" width="126.0" height="28.0" rx="2.0" fill="#ffffff" stroke="#ffffff" stroke-width="0.5"/>
+<text x="78.0" y="670.0" font-size="8" font-weight="600" text-anchor="start" fill="#243033">profit pool</text>
+<rect x="200.0" y="649.0" width="126.0" height="28.0" rx="2.0" fill="rgb(229,196,191)" stroke="#ffffff" stroke-width="0.5"/>
+<text x="208.0" y="670.0" font-size="8" font-weight="700" text-anchor="start" fill="#243033">0 BUSD/yr</text>
+<rect x="330.0" y="649.0" width="126.0" height="28.0" rx="2.0" fill="rgb(178,217,206)" stroke="#ffffff" stroke-width="0.5"/>
+<text x="338.0" y="670.0" font-size="8" font-weight="700" text-anchor="start" fill="#243033">screening</text>
+<rect x="460.0" y="649.0" width="126.0" height="28.0" rx="2.0" fill="#d9ece3" stroke="#ffffff" stroke-width="0.5"/>
+<text x="468.0" y="670.0" font-size="8" font-weight="700" text-anchor="start" fill="#243033">79.7 BUSD/yr</text>
+<line x1="610.0" y1="663.0" x2="1040.0" y2="663.0" stroke="#93a0a4" stroke-width="1"/>
+<line x1="727.3" y1="540.0" x2="727.3" y2="671.0" stroke="#243033" stroke-width="1.5"/>
+<text x="727.3" y="686.0" font-size="8" font-weight="700" text-anchor="middle" fill="#243033">0</text>
+<rect x="612.0" y="663.0" width="54.6" height="0.0" rx="2.0" fill="rgb(142,99,114)" stroke="#ffffff" stroke-width="0.5"/>
+<rect x="670.6" y="653.4" width="35.1" height="9.6" rx="2.0" fill="rgb(203,172,169)" stroke="#ffffff" stroke-width="0.5"/>
+<text x="688.2" y="648.4" font-size="8" font-weight="700" text-anchor="middle" fill="#627176">10</text>
+<rect x="709.7" y="660.1" width="15.5" height="2.9" rx="2.0" fill="rgb(239,215,202)" stroke="#ffffff" stroke-width="0.5"/>
+<text x="717.5" y="655.1" font-size="8" font-weight="700" text-anchor="middle" fill="#627176">3</text>
+<rect x="729.3" y="662.0" width="15.5" height="1.0" rx="2.0" fill="rgb(225,241,229)" stroke="#ffffff" stroke-width="0.5"/>
+<text x="737.0" y="657.0" font-size="8" font-weight="700" text-anchor="middle" fill="#627176">1</text>
+<rect x="748.8" y="652.5" width="35.1" height="10.5" rx="2.0" fill="rgb(205,228,213)" stroke="#ffffff" stroke-width="0.5"/>
+<text x="766.4" y="647.5" font-size="8" font-weight="700" text-anchor="middle" fill="#627176">11</text>
+<rect x="787.9" y="548.0" width="54.6" height="115.0" rx="2.0" fill="rgb(173,207,187)" stroke="#ffffff" stroke-width="0.5"/>
+<text x="815.2" y="543.0" font-size="8" font-weight="700" text-anchor="middle" fill="#627176">120</text>
+<rect x="846.5" y="651.5" width="54.6" height="11.5" rx="2.0" fill="rgb(134,182,156)" stroke="#ffffff" stroke-width="0.5"/>
+<text x="873.9" y="646.5" font-size="8" font-weight="700" text-anchor="middle" fill="#627176">12</text>
+<rect x="905.2" y="663.0" width="54.6" height="0.0" rx="2.0" fill="rgb(94,156,124)" stroke="#ffffff" stroke-width="0.5"/>
+<rect x="963.8" y="653.4" width="74.2" height="9.6" rx="2.0" fill="rgb(49,126,87)" stroke="#ffffff" stroke-width="0.5"/>
+<text x="1000.9" y="648.4" font-size="8" font-weight="700" text-anchor="middle" fill="#627176">10</text>
+<text x="610.0" y="701.0" font-size="7" font-weight="600" text-anchor="middle" fill="#627176">-600</text>
+<text x="727.3" y="701.0" font-size="7" font-weight="600" text-anchor="middle" fill="#627176">0</text>
+<text x="844.5" y="701.0" font-size="7" font-weight="600" text-anchor="middle" fill="#627176">600</text>
+<text x="961.8" y="701.0" font-size="7" font-weight="600" text-anchor="middle" fill="#627176">1200</text>
+<text x="1040.0" y="701.0" font-size="7" font-weight="600" text-anchor="middle" fill="#627176">1600</text>
+<text x="825.0" y="534.0" font-size="10" font-weight="800" text-anchor="middle" fill="#243033">2060 city margin distribution</text>
+<text x="1090.0" y="541.0" font-size="10" font-weight="800" text-anchor="start" fill="#243033">2060 best-family count</text>
+<rect x="1090.0" y="561.0" width="185.0" height="15.0" rx="2.0" fill="#3d8f63" stroke="none" stroke-width="1"/>
+<text x="1285.0" y="573.0" font-size="8" font-weight="700" text-anchor="start" fill="#243033">mineralization 131</text>
+<rect x="1090.0" y="591.0" width="31.1" height="15.0" rx="2.0" fill="#c97836" stroke="none" stroke-width="1"/>
+<text x="1285.0" y="603.0" font-size="8" font-weight="700" text-anchor="start" fill="#243033">thermochemical 22</text>
+<rect x="1090.0" y="621.0" width="19.8" height="15.0" rx="2.0" fill="#225f74" stroke="none" stroke-width="1"/>
+<text x="1285.0" y="633.0" font-size="8" font-weight="700" text-anchor="start" fill="#243033">storage 14</text>
+</svg>

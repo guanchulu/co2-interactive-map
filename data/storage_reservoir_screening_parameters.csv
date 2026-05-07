@@ -1,0 +1,4 @@
+storage_id,region,boundary_code,basin_name,depth_m,thickness_m,porosity_fraction,permeability_md,temperature_c,initial_pressure_mpa,max_bottomhole_pressure_mpa,salinity_g_l,injectivity_tco2_per_day_per_well,well_spacing_km,max_well_count,pressure_model_type,source,evidence_grade,notes
+STORAGE_QH,Qinghai,,Qaidam screening basin,,,,,,,,,,reduced_order_placeholder,figshare_storage_capacity,C,Add reservoir pressure simulation parameters before final publication.
+STORAGE_NX,Ningxia,,Ordos western screening basin,,,,,,,,,,reduced_order_placeholder,figshare_storage_capacity,C,Add injectivity and pressure-interference model.
+STORAGE_GS,Gansu,,Hexi corridor screening basin,,,,,,,,,,reduced_order_placeholder,figshare_storage_capacity,C,Placeholder row for reduced-order reservoir screening.

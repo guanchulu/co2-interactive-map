@@ -1,0 +1,29 @@
+# Python cache and local environments
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Local secrets and machine-specific config
+.env
+.env.*
+
+# Generated model outputs
+output/
+data/real_inputs/
+data/real_inputs_*/
+data/real_inputs*/
+
+# Large downloaded raw datasets; keep normalized processed interfaces in git.
+data/raw/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp

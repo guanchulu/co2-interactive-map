@@ -1,0 +1,1697 @@
+change,locode,name,name_wo_diacritics,subdivision,function,status,date,iata,coordinates,remarks,latitude,longitude,is_water_port
+,CNARS,Aershan,Aershan,NM,--3-----,AS,1401,,,,,,0
+,CNAHK,Aheitubieke,Aheitubieke,XJ,--3-----,AS,1401,,,,,,0
+,CNAID,Aidian,Aidian,GX,--3-----,AS,1601,,2149N 10701E,,21.816667,107.016667,0
+,CNAKU,Aksu,Aksu,XJ,---4----,RL,1401,,3840N 07540E,,38.666667,75.666667,0
+,CNAKL,Alatawshankou,Alatawshankou,XJ,-23---7-,AS,1601,,4511N 08226E,,45.183333,82.433333,0
+,CNAAT,Altay,Altay,XJ,-234----,RL,2107,,4752N 08807E,,47.866667,88.116667,0
+=,CN,Amoy = Xiamen Gaoqi International Apt,Amoy = Xiamen Gaoqi International Apt,,,,,,,,,,0
+,CNANJ,Anji,Anji,ZJ,--3--6--,AS,2001,,3038N 11940E,,30.633333,119.666667,0
+,CNAKA,Ankang,Ankang,SN,-234----,RL,2107,,,,,,0
+,CNANN,Anning,Anning,YN,-23-----,RL,0607,,2454N 10229E,,24.900000,102.483333,0
+,CNANP,Anping,Anping,LN,-2------,RL,1401,,4109N 12305E,,41.150000,123.083333,0
+,CNAPP,Anpu,Anpu,GD,1-------,RL,1401,,2123N 10950E,,21.383333,109.833333,1
+,CNAQG,Anqing,Anqing,AH,123-----,AS,2107,,3031N 11702E,,30.516667,117.033333,1
+,CNANQ,Anqiu,Anqiu,SD,1-3-----,RL,0601,,3625N 11911E,,36.416667,119.183333,1
+,CNASN,Anshan,Anshan,LN,-2------,AS,1601,,4107N 12300E,,41.116667,123.000000,0
+,CNAOG,Anshan Teng'ao Apt,Anshan Teng'ao Apt,LN,---4-6--,RL,1401,,4110N 12302E,,41.166667,123.033333,0
+,CNANS,Anshun,Anshun,GZ,-23-----,RL,0501,,2615N 10556E,,26.250000,105.933333,0
+,CNANT,Anting,Anting,SH,1----6--,RL,1107,,3118N 12109E,,31.300000,121.150000,1
+,CNANX,"Anxi,Quanzhou","Anxi,Quanzhou",FJ,-23--6--,,2307,,2504N 11812E,,25.066667,118.200000,0
+,CNAYS,Anyang,Anyang,HA,-----6--,AS,1407,,,,,,0
+,CNAJG,Aojiang Pt,Aojiang Pt,ZJ,1-------,AS,1401,,2735N 12027E,,27.583333,120.450000,1
+,CNASW,Aoshanwei,Aoshanwei,SD,1----6--,RQ,1001,,3621N 12040E,,36.350000,120.666667,1
+,CNART,Arhaxat,Arhaxat,NM,--3-----,AS,1401,,,,,,0
+,CNASM,Asjman,Asjman,11,--3-----,RQ,0901,,,,,,0
+,CNBCO,Bacao,Bacao,GZ,1-------,RL,1401,,2528N 10547E,,25.466667,105.783333,1
+,CNBDG,Badong,Badong,HB,1-------,RL,1401,,3102N 11023E,,31.033333,110.383333,1
+,CNBGG,Bagong,Bagong,GZ,--3-----,RL,0607,,2658N 10840E,,26.966667,108.666667,0
+,CNBAH,Bahe,Bahe,HB,1-------,RL,1401,,,,,,1
+,CNBCG,Baiceng,Baiceng,GZ,1-------,RL,1401,,2526N 10548E,,25.433333,105.800000,1
+¦,CNBAI,Baicheng,Baicheng,JL,-23-----,RL,2407,,4537N 12250E,coordinates,45.616667,122.833333,0
+,CNBLO,Bailuo,Bailuo,HB,1-------,RL,1401,,,,,,1
+,CNBMJ,Baimajing,Baimajing,HI,1-3-----,RL,1401,,1942N 10913E,,19.700000,109.216667,1
+,CNIMA,Baimao,Baimao,SD,1-------,RL,1401,,3501N 11836E,,35.016667,118.600000,1
+,CNBSE,Baise,Baise,GX,1-------,RL,1401,,,,,,1
+¦,CNBSH,Baishan,Baishan,JL,-23--6--,RL,2407,,4156N 12625E,coordinates,41.933333,126.416667,0
+,CNBSI,Baishi,Baishi,HL,1-------,RL,1401,,,,,,1
+,CNBYG,Baiyang,Baiyang,HB,1-------,RL,1401,,3026N 11131E,,30.433333,111.516667,1
+,CNBYU,Baiyun,Baiyun,GD,--3-----,RL,1401,,2515N 11404E,,25.250000,114.066667,0
+,CNBKT,Baketu,Baketu,XJ,--3-----,AS,1401,,,,,,0
+,CNBLI,Bali,Bali,HB,1-------,RL,1401,,,,,,1
+,CNBPX,Bangda,Bangda,XZ,---4----,RL,0907,,3033N 09707E,,30.550000,97.116667,0
+,CNBON,Bao'an,Bao'an,GD,--3-----,RL,0307,,2455N 11223E,,24.916667,112.383333,0
+,CNBDZ,Baoding,Baoding,HE,-----6--,AS,1401,,3851N 11530E,,38.850000,115.500000,0
+,CNBOJ,Baoji,Baoji,SN,-----6--,AS,1401,,3422N 10709E,,34.366667,107.150000,0
+,CNBQI,Baoqing,Baoqing,HL,-----6--,RL,1107,,4619N 13212E,,46.316667,132.200000,0
+,CNBAN,Baoshan,Baoshan,YN,--3-----,AS,1501,,2507N 09909E,,25.116667,99.150000,0
+,CNBSD,Baoshan Pt,Baoshan Pt,SH,1-------,AS,1601,,3125N 12129E,,31.416667,121.483333,1
+,CNBOT,Baotou,Baotou,NM,-----6--,AS,1601,,4039N 10949E,,40.650000,109.816667,0
+,CNBYI,Baoying,Baoying,32,--3-----,RL,0901,,3313N 11918E,,33.216667,119.300000,0
+,CNBSP,Basuo Pt,Basuo Pt,HI,1-------,AS,1407,,1900N 10837E,,19.000000,108.616667,1
+,CNBAU,Baxu,Baxu,JS,1-------,RL,1401,,,,,,1
+,CNBYA,Bayan,Bayan,HL,1-------,RL,1401,,4605N 12724E,,46.083333,127.400000,1
+,CNBYO,Bayan Obo,Bayan Obo,NM,-2------,RL,1401,,4146N 10958E,,41.766667,109.966667,0
+¦,CNRLK,Bayannur,Bayannur,NM,-234-6--,AA,2407,,4044N 10722E,,40.733333,107.366667,0
+,CNBSX,Bayin,Bayin,NM,-23-----,RL,1401,,3633N 10412E,,36.550000,104.200000,0
+,CNBYQ,Bayuquan,Bayuquan,LN,1-------,AS,1407,,,,,,1
+,CNBAZ,Bazhou,Bazhou,13,--3-----,RL,0901,,3906N 11623E,,39.100000,116.383333,0
+,CNBIC,Beicun,Beicun,GD,1-------,AS,1401,,,,,,1
+,CNBHY,Beihai,Beihai,GX,-234----,AS,2107,,2132N 10917E,,21.533333,109.283333,0
+,CNBIH,Beihai Pt,Beihai Pt,GX,1-------,AS,1601,,2128N 10907E,,21.466667,109.116667,1
+,CNBIJ,Beijiao,Beijiao,GD,1-------,AS,1601,,2255N 11312E,,22.916667,113.200000,1
+,CNBJO,Beijiao,Beijiao,FJ,--3-----,RL,0907,,2621N 11955E,,26.350000,119.916667,0
+,CNBJS,Beijing,Beijing,BJ,-23456--,AS,1601,,3955N 11624E,,39.916667,116.400000,0
+,CNBJZ,Beijing Railway Station,Beijing Railway Station,BJ,-2------,AS,1601,,,,,,0
+,CNPEK,Beijing Shoudu International Apt,Beijing Shoudu International Apt,BJ,---4----,AS,1601,,,,,,0
+,CNBJD,Beijingdong Railway Station,Beijingdong Railway Station,BJ,-2------,AS,1601,,,,,,0
+,CNBJX,Beijingxi Railway Station,Beijingxi Railway Station,BJ,-2------,AS,1601,,,,,,0
+,CNBLU,Beiliu,Beiliu,SX,--3-----,RL,0601,,3529N 11233E,,35.483333,112.550000,0
+,CNBEI,Beilun,Beilun,ZJ,1-3-----,RQ,0407,,2956N 12153E,,29.933333,121.883333,1
+,CNBLG,Beilun Pt,Beilun Pt,ZJ,1-------,AS,1407,,,,,,1
+,CNSXB,Beitan,Beitan,GD,1-------,AS,1407,,2122N 11015E,,21.366667,110.250000,1
+,CNBIY,Beiyao,Beiyao,GD,1-------,RL,1401,,,,,,1
+,CNBZN,Beizhen,Beizhen,21,-----6--,RL,0901,,4126N 12143E,,41.433333,121.716667,0
+,CNBBU,Bengbu,Bengbu,AH,-----6--,AS,1401,,3256N 11721E,,32.933333,117.350000,0
+,CNBXS,Benxi,Benxi,LN,-----6--,AS,1407,,,,,,0
+,CNPHB,Bijia,Bijia,GD,1-------,AS,1407,,2237N 11451E,,22.616667,114.850000,1
+,CNBCA,Binchuan,Binchuan,YN,--3-----,RL,0607,,2549N 10034E,,25.816667,100.566667,0
+,CNBHX,Binhai,Binhai,JS,1-------,AS,1601,,3343N 11937E,,33.716667,119.616667,1
+,CNBYN,Binyang,Binyang,FJ,123-----,RL,1401,,2715N 12020E,,27.250000,120.333333,1
+,CNBIN,Binzhou,Binzhou,SD,--3-----,RL,9901,,,,,,0
+,CNBOA,Boao,Boao,HI,1-------,RL,1401,,,,,,1
+,CNBOB,Bobai,Bobai,45,--3-----,RL,0901,,2216N 10958E,,22.266667,109.966667,0
+,CNDBX,Bohe,Bohe,GD,1-------,AS,1407,,2131N 11100E,,21.516667,111.000000,1
+,CNBOO,Boluo,Boluo,GD,-23-----,RL,0907,,2310N 11416E,,23.166667,114.266667,0
+,CNBOS,Bose,Bose,45,--3-----,RL,0901,,2353N 10636E,,23.883333,106.600000,0
+,CNBXI,Boxing,Boxing,37,--3-----,RL,0901,,3708N 11805E,,37.133333,118.083333,0
+,CNBZG,Bozhong,Bozhong,TJ,1-----7-,AS,1401,,3827N 11826E,,38.450000,118.433333,1
+,CNBOZ,Bozhou,Bozhou,34,--3-----,RL,0901,,3352N 11546E,,33.866667,115.766667,0
+,CNBHE,Buhe,Buhe,HB,1-------,RL,1401,,,,,,1
+,CNBUJ,Buji,Buji,GD,-23-----,RL,9805,,,,,,0
+,CNBUR,Burang,Burang,XZ,--3-----,AS,1601,,,,,,0
+,CNBRJ,Burqin,Burqin,XJ,--3-----,RL,1401,,4743N 08653E,,47.716667,86.883333,0
+,CNCYB,Caiyuanba,Caiyuanba,CQ,--3-----,RL,1401,,,,,,0
+,CNCGN,Cangnan,Cangnan,ZJ,--3-----,RQ,1001,,2730N 12023E,,27.500000,120.383333,0
+,CNGSA,Cangshan,Cangshan,SD,1-3-----,RL,0601,,3451N 11803E,,34.850000,118.050000,1
+,CNCGW,Cangwu,Cangwu,GX,1-3-----,RL,1401,,2329N 11119E,,23.483333,111.316667,1
+,CNCGX,Cangxi,Cangxi,51,--3-----,RL,0901,,3143N 10555E,,31.716667,105.916667,0
+,CNCGY,Cangyuan,Cangyuan,YN,--3-----,AS,1401,,2310N 09913E,,23.166667,99.216667,0
+,CNCZZ,Cangzhou,Cangzhou,HE,-----6--,AS,1401,,3818N 11652E,,38.300000,116.866667,0
+=,CN,Canton = Guangzhou Baiyun International Apt,Canton = Guangzhou Baiyun International Apt,,,,,,,,,,0
+,CNCFD,Caofeidian Pt,Caofeidian Pt,HE,1-------,AS,1401,,3857N 11832E,,38.950000,118.533333,1
+,CNCJG,Caojing,Caojing,SH,1-3-----,RL,0401,,3047N 12124E,,30.783333,121.400000,1
+,CNCEK,Ceke,Ceke,NM,--3-----,AS,1401,,4228N 10109E,,42.466667,101.150000,0
+,CNCEX,Cenxi,Cenxi,45,--3-----,RL,0901,,2254N 11049E,,22.900000,110.816667,0
+,CNCAW,Chaiwan,Chaiwan,JS,--3-----,RL,0507,,3228N 12033E,,32.466667,120.550000,0
+,CNCHO,Chang on,Chang on,GD,0-------,RQ,9705,,,,,,0
+,CNFKC,Changan,Changan,GD,-----6--,RQ,0907,,2353N 11154E,,23.883333,111.900000,0
+,CNCHN,Chang'an,Chang'an,SN,--3-----,RQ,9705,,,,,,0
+,CNCGB,Changbai,Changbai,JL,--3-----,AS,1601,,4126N 12821E,,41.433333,128.350000,0
+,CNCGP,Changbang,Changbang,SH,--3-----,RL,0907,,3055N 12101E,,30.916667,121.016667,0
+,CNCGC,Changchun,Changchun,JL,-2-45---,AS,1601,,4354N 12519E,,43.900000,125.316667,0
+,CNCGQ,Changchun Longjia International Apt,Changchun Longjia International Apt,JL,---4----,AS,1601,,,,,,0
+,CNCCD,Changchun Xinglong,Changchun Xinglong,JL,-23-56--,AS,2101,,,,,,0
+,CNCDO,Changdao,Changdao,SD,--3-----,RL,0207,,3755N 12044E,,37.916667,120.733333,0
+,CNCGD,Changde,Changde,HN,-----6--,AS,2001,,2902N 11151E,,29.033333,111.850000,0
+,CNCDH,Changdianhekou,Changdianhekou,LN,1-------,AS,1401,,4025N 12448E,,40.416667,124.800000,1
+,CNCNI,Changhai Dachangshandao Apt,Changhai Dachangshandao Apt,LN,---4----,RL,1401,,,,,,0
+,CNCAH,Changhua,Changhua,HI,1-------,RL,1401,,,,,,1
+,CNCJS,Changji,Changji,XJ,--3--6--,AS,2001,,,,,,0
+=,CN,Changjiagang = Zhangjiagang,Changjiagang = Zhangjiagang,,,,,,,,,,0
+,CNCLZ,Changjiang Lizu Zizhixian,Changjiang Lizu Zizhixian,HI,--3-----,RL,1401,,,,,,0
+,CNCGJ,Changjing,Changjing,JS,1-------,RL,1401,,,,,,1
+,CNCHA,Changle,Changle,FJ,--3-----,RL,0207,,2419N 11655E,,24.316667,116.916667,0
+,CNCGI,Changliu,Changliu,HI,--3-----,RL,1401,,2001N 11012E,,20.016667,110.200000,0
+,CNCPI,Changping,Changping,GD,-2------,AS,1601,,2259N 11359E,,22.983333,113.983333,0
+,CNCSH,Changsha,Changsha,HN,12-45---,AS,1701,,2812N 11259E,,28.200000,112.983333,1
+,CNCNA,Changsha,Changsha,GD,--3--6--,RL,0507,,2412N 11609E,,24.200000,116.150000,0
+,CNCSX,Changsha Huanghua International Apt,Changsha Huanghua International Apt,HN,---4----,AS,1601,,,,,,0
+,CNCSD,Changshadibg Railway Station,Changshadibg Railway Station,HN,-2------,AS,1601,,,,,,0
+,CNCSJ,Changshou,Changshou,JS,1-------,RL,1401,,,,,,1
+,CNCSO,Changshou,Changshou,CQ,1-------,RL,1401,,,,,,1
+,CNCGS,Changshu Pt,Changshu Pt,JS,1-------,AS,1601,,3139N 12043E,,31.650000,120.716667,1
+,CNCNT,Changtu,Changtu,21,-----6--,RL,0901,,1246N 12406E,,12.766667,124.100000,0
+,CNCIH,Changzhi,Changzhi,SX,---4----,RL,1401,,3611N 11308E,,36.183333,113.133333,0
+,CNCZX,Changzhou,Changzhou,JS,1234----,AS,2107,,3147N 11958E,,31.783333,119.966667,1
+,CNCON,Chaoan,Chaoan,GD,--3-----,RL,1401,,,,,,0
+,CNCHU,Chaohu,Chaohu,AH,123-----,RL,0601,,3136N 11751E,,31.600000,117.850000,1
+,CNCTM,Chaotianmen,Chaotianmen,CQ,--3-----,RL,1401,,,,,,0
+,CNCYN,Chaoyang,Chaoyang,LN,-234----,RL,1401,,,,,,0
+,CNCHY,Chaoyang Pt,Chaoyang Pt,GD,1-------,AS,1601,,2316N 11636E,,23.266667,116.600000,1
+,CNCOZ,Chaozhou,Chaozhou,GD,123-----,AS,2107,,2340N 11638E,,23.666667,116.633333,1
+=,CN,Chefoo = Yantai Laishan International Apt,Chefoo = Yantai Laishan International Apt,,,,,,,,,,0
+,CNCBG,Chen Barag,Chen Barag,NM,1-------,RL,1401,,,,,,1
+,CNCUN,Chencun,Chencun,GD,1-3-----,RL,0601,,2257N 11314E,,22.950000,113.233333,1
+,CNCHE,Chengaogang,Chengaogang,FJ,1-------,AS,1407,,,,,,1
+,CNCHH,Chengcheng,Chengcheng,14,--3-----,RL,0901,,3511N 10955E,,35.183333,109.916667,0
+,CNCNG,Chengde,Chengde,HE,123-----,RL,0907,,4058N 11756E,,40.966667,117.933333,1
+,CNCDU,Chengdu,Chengdu,SC,-2-45---,AS,1601,,3040N 10404E,,30.666667,104.066667,0
+,CNCDZ,Chengdu Railway Station,Chengdu Railway Station,SC,-2------,AS,1601,,,,,,0
+,CNCTU,Chengdu Shuangliu International Apt,Chengdu Shuangliu International Apt,SC,---4----,AS,1601,,,,,,0
+,CNCHG,Chenghai,Chenghai,GD,--3-----,RQ,9705,,,,,,0
+,CNCJI,Chengjiang,Chengjiang,JS,1-------,RL,1401,,,,,,1
+,CNCLJ,Chenglingji Pt,Chenglingji Pt,HN,1-------,AS,1407,,2926N 11309E,,29.433333,113.150000,1
+,CNCHX,Chengxi,Chengxi,SH,1-------,RL,1401,,3155N 12014E,,31.916667,120.233333,1
+,CNCIG,Chenjiagang,Chenjiagang,JS,1-------,RL,1401,,,,,,1
+,CNCJN,Chenjian,Chenjian,44,--3-----,RQ,0901,,,,,,0
+,CNCJP,Chenjiaping,Chenjiaping,CQ,--3-----,RL,1401,,,,,,0
+¦,CNCNZ,Chenzhou,Chenzhou,HN,--3-----,AS,2407,,2547N 11301E,,25.783333,113.016667,0
+,CNCBI,Chibi,Chibi,HB,1-------,RL,1401,,,,,,1
+,CNCFS,Chifeng,Chifeng,NM,-----6--,AS,1407,,,,,,0
+,CNCKA,Chikan,Chikan,GD,-23--6--,RL,0607,,2116N 11020E,,21.266667,110.333333,0
+=,CN,Chinkiang = Zhenjiang,Chinkiang = Zhenjiang,,,,,,,,,,0
+,CNCWN,Chiwan Pt,Chiwan Pt,GD,1-------,AS,1601,,2229N 11353E,,22.483333,113.883333,1
+,CNCHI,Chizhou,Chizhou,AH,123-----,AS,2107,,3039N 11728E,,30.650000,117.466667,1
+,CNCGM,Chongming,Chongming,SH,1-------,AS,1401,,3138N 12124E,,31.633333,121.400000,1
+,CNCQI,Chongqing,Chongqing,CQ,12-45---,AS,1601,,2935N 10633E,,29.583333,106.550000,1
+,CNCKG,Chongqing Jiangbei International Apt,Chongqing Jiangbei International Apt,CQ,---4----,AS,1601,,,,,,0
+,CNCHQ,Chongqing Pt,Chongqing Pt,CQ,1-------,AS,1401,,,,,,1
+,CNCQD,Chongqingdong Railway Station,Chongqingdong Railway Station,CQ,-2------,AS,1601,,,,,,0
+,CNQZC,Chongwu,Chongwu,FJ,1-------,AS,1407,,,,,,1
+,CNCXN,Chongxing,Chongxing,HI,--3-----,RL,1401,,1924N 11036E,,19.400000,110.600000,0
+,CNCGH,Chongzhou,Chongzhou,SC,--3-----,RQ,0907,,3043N 10333E,,30.716667,103.550000,0
+,CNCGZ,Chongzuo,Chongzuo,GX,1-------,RL,1401,,,,,,1
+,CNCHS,Chuanshan,Chuanshan,ZJ,1-------,RL,1401,,,,,,1
+,CNCUM,Chumen,Chumen,ZJ,1-3-----,RL,1401,,,,,,1
+,CNUNA,Chunan,Chunan,33,--3-----,RL,0901,,2936N 11902E,,29.600000,119.033333,0
+,CNCUA,Chunhua,Chunhua,SN,--3-----,RQ,0907,,3448N 10834E,,34.800000,108.566667,0
+,CNCXI,Chuxiong,Chuxiong,YN,--3-----,RL,1401,,2502N 10132E,,25.033333,101.533333,0
+,CNCHZ,Chuzhou,Chuzhou,AH,123-----,RL,0507,,3219N 11817E,,32.316667,118.283333,1
+,CNCUZ,Chuzhuangsi,Chuzhuangsi,AH,--3-----,RL,0201,,3352N 11702E,,33.866667,117.033333,0
+,CNCCH,Cicheng,Cicheng,ZJ,--3-----,RL,1401,,2959N 12127E,,29.983333,121.450000,0
+,CNCIV,Civet / Guandong,Civet / Guandong,GD,1----6--,RQ,1001,,2216N 11304E,,22.266667,113.066667,1
+,CNCIX,Cixi,Cixi,ZJ,1-3--6--,RL,0407,,3010N 12114E,,30.166667,121.233333,1
+,CNCNH,Conghua,Conghua,GD,--3-----,RL,1401,,,,,,0
+,CNCJA,Congjiang,Congjiang,GZ,1-------,RL,1401,,,,,,1
+,CNCTN,Cuntan,Cuntan,CQ,--3-----,RL,1107,,2937N 10637E,,29.616667,106.616667,0
+,CNDCB,DA CHAN BAY,DA CHAN BAY,GD,1----6--,RL,1701,,2232N 11352E,,22.533333,113.866667,1
+,CNDAN,Daan,Daan,JL,1-------,AS,1401,,4357N 12951E,,43.950000,129.850000,1
+,CNDCH,Dachang,Dachang,13,--3-----,RL,0901,,3952N 11658E,,39.866667,116.966667,0
+,CNDDD,Dadeng I.,Dadeng I.,FJ,1-------,AS,1401,,2432N 11819E,,24.533333,118.316667,1
+,CNDIZ,Dadingzi,Dadingzi,HL,1-------,RL,1401,,,,,,1
+,CNDDK,Dadukou,Dadukou,AH,1-------,RL,1401,,,,,,1
+,CNDFG,Dafeng,Dafeng,JS,123-----,AS,2107,,3311N 12028E,,33.183333,120.466667,1
+,CNAGG,Dagang,Dagang,GD,--3-----,RQ,0907,,2248N 11324E,,22.800000,113.400000,0
+,CNDAA,Dagang,Dagang,JS,1-3-----,RL,9901,,,,,,1
+,CNDHP,Dahuangpu,Dahuangpu,GD,1-------,RL,1401,,,,,,1
+=,CN,Dairen = Dalian Zhoushuizi International Apt,Dairen = Dalian Zhoushuizi International Apt,,,,,,,,,,0
+,CNDJI,Dajing,Dajing,ZJ,1-------,RL,1401,,,,,,1
+,CNDLG,Dalang,Dalang,GD,--3-----,RL,0601,,2426N 11230E,,24.433333,112.500000,0
+,CNALI,Dali,Dali,GD,--3-----,RL,0607,,2307N 11305E,,23.116667,113.083333,0
+,CNDLU,Dali,Dali,YN,-234----,RL,2107,,,,,,0
+,CNDAL,Dalian,Dalian,LN,12-45---,AS,2007,,3855N 12136E,,38.916667,121.600000,1
+,CNDAG,Dalian Pt,Dalian Pt,LN,1-------,AS,1601,,,,,,1
+,CNDLC,Dalian Zhoushuizi International Apt,Dalian Zhoushuizi International Apt,LN,---4----,AS,1601,,,,,,0
+,CNDLN,Dalingshan,Dalingshan,GD,--3-----,RL,0212,,2253N 11349E,,22.883333,113.816667,0
+,CNDLD,Dalu Island,Dalu Island,LN,1-------,AS,1601,,3944N 12343E,,39.733333,123.716667,1
+,CNDLO,Daluo,Daluo,YN,--3-----,AS,1401,,2140N 10003E,,21.666667,100.050000,0
+¦,CNDMY,Damaiyu,Damaiyu,ZJ,1-------,AS,2407,,2805N 12109E,coordinates,28.083333,121.150000,1
+,CNDDG,Dandong,Dandong,LN,1234----,AS,2107,,,a.k.a Donggang,,,1
+,CNDDZ,Dandong,Dandong,LN,123----B,AS,1601,,4008N 12422E,,40.133333,124.366667,1
+,CNDNS,Danshui,Danshui,GD,--3-----,RL,9705,,,,,,0
+,CNFZL,Dantou,Dantou,FJ,1-------,AS,1407,,,,,,1
+,CNDNT,Dantu,Dantu,JS,1-------,RL,1401,,,,,,1
+,CNDNY,Danyang,Danyang,JS,--3-----,RQ,1007,,3200N 11934E,,32.000000,119.566667,0
+,CNDNZ,Danzao,Danzao,GD,--3-----,RL,9901,,,,,,0
+,CNDZM,Danzhimatou,Danzhimatou,LN,1-------,AS,1401,,,,,,1
+,CNDHU,Danzhou,Danzhou,GX,123--6--,RL,0601,,2522N 10926E,,25.366667,109.433333,1
+,CNDZO,Danzhou,Danzhou,HI,--3-----,RL,1401,,1934N 10924E,,19.566667,109.400000,0
+,CNDJO,Daojiao,Daojiao,GD,1-3-----,RL,0601,,,,,,1
+,CNDPG,Dapeng,Dapeng,GD,1-3-----,RL,0601,,2236N 11430E,,22.600000,114.500000,1
+,CNDQD,Daqindao,Daqindao,SD,1-------,RL,1401,,,,,,1
+,CNDQG,Daqing,Daqing,HL,-2------,AS,1601,,4636N 12501E,,46.600000,125.016667,0
+,CNDSA,Dasha,Dasha,HB,1-------,RL,1401,,,,,,1
+,CNDST,Dasha,Dasha,GD,--3-----,RL,1401,,2306N 11327E,,23.100000,113.450000,0
+,CNDAS,Dashihuagang,Dashihuagang,21,1-------,RL,0901,,3854N 12136E,,38.900000,121.600000,1
+,CNDSO,Dasong,Dasong,ZJ,1-------,RL,1401,,,,,,1
+,CNDTZ,Dataizi,Dataizi,LN,1-------,AS,1401,,,,,,1
+,CNDTG,Datian,Datian,FJ,--3-----,RL,9901,,,,,,0
+,CNDAT,Datong,Datong,SX,-----6--,AS,1601,,4006N 11317E,,40.100000,113.283333,0
+,CNDAW,Dawa,Dawa,21,-----6--,RL,0901,,4059N 12204E,,40.983333,122.066667,0
+,CNDWN,Dawan,Dawan,SD,1-------,RL,1401,,,,,,1
+,CNDWA,Dawang,Dawang,44,--3-----,RL,0901,,2245N 11129E,,22.750000,111.483333,0
+,CNDKO,Dawukou,Dawukou,NX,--3-----,RL,1107,,3920N 10623E,,39.333333,106.383333,0
+,CNDAX,Daxie Pt,Daxie Pt,ZJ,1-------,AS,1601,,2953N 12157E,,29.883333,121.950000,1
+,CNPKX,Daxing,Daxing,BJ,---4-6--,AS,2001,,3930N 11625E,,39.500000,116.416667,0
+,CNDXU,Daxu,Daxu,GX,1-------,RL,1401,,,,,,1
+,CNDYW,Dayaowan,Dayaowan,LN,1-------,AS,1407,,,,,,1
+,CNDAY,Dayawan,Dayawan,GD,1-------,AS,1601,,2240N 11440E,,22.666667,114.666667,1
+,CNDYI,Dayi,Dayi,JS,1-------,RL,1401,,,,,,1
+,CNDAZ,Daze,Daze,GD,--3--6--,RL,0501,,2231N 11258E,,22.516667,112.966667,0
+,CNDZY,Dazhaoying,Dazhaoying,HK,--3--6--,RL,0901,,3516N 11346E,,35.266667,113.766667,0
+,CNDZU,Dazu,Dazu,SC,---4----,RL,1401,,,,,,0
+,CNDEF,Defeng,Defeng,GZ,1-3-----,RL,0601,,2613N 10907E,,26.216667,109.116667,1
+,CNLUM,Dehong Mangshi,Dehong Mangshi,YN,-234----,RL,2107,,,,,,0
+,CNDEA,Dehua,Dehua,35,-----6--,RL,0901,,2523N 11756E,,25.383333,117.933333,0
+,CNDHA,Dehua,Dehua,GZ,--3-----,RL,0601,,2628N 10844E,,26.466667,108.733333,0
+,CNDEH,Dehui,Dehui,22,-----6--,RL,0901,,4432N 12542E,,44.533333,125.700000,0
+,CNDEN,Dengta,Dengta,21,--3-----,RL,0901,,4125N 12319E,,41.416667,123.316667,0
+,CNDEI,Deqing,Deqing,33,--3-----,RL,0901,,3032N 12004E,,30.533333,120.066667,0
+,CNDEQ,Deqing,Deqing,GD,--3-----,RL,0207,,2309N 11145E,,23.150000,111.750000,0
+,CNDEX,Dexing,Dexing,JX,--3-----,RQ,0907,,2854N 11734E,,28.900000,117.566667,0
+,CNDEY,Deyang,Deyang,SC,-23-----,RL,0407,,3108N 10424E,,31.133333,104.400000,0
+,CNDZS,Dezhou,Dezhou,HE,-----6--,AS,1407,,,,,,0
+,CNDEZ,Dezhou,Dezhou,SD,1-3-----,RL,0507,,3726N 11617E,,37.433333,116.283333,1
+,CNDBI,Dianbai,Dianbai,GD,--3-----,RL,1401,,2128N 11105E,,21.466667,111.083333,0
+,CNDDP,Didu,Didu,GD,1-------,AS,1401,,,,,,1
+,CNDIA,Digang,Digang,AH,1-------,RL,1401,,,,,,1
+,CNDGA,Dingan,Dingan,HI,--3-----,RL,1401,,1946N 11022E,,19.766667,110.366667,0
+,CNDCE,Dingcheng,Dingcheng,HI,--3-----,RL,1401,,1941N 11019E,,19.683333,110.316667,0
+,CNDGH,Dinghu,Dinghu,44,--3-----,RL,0901,,2309N 11233E,,23.150000,112.550000,0
+,CNDGX,Dingxi,Dingxi,GS,-----6--,RL,1107,,3534N 10437E,,35.566667,104.616667,0
+,CNDIG,Diqing Shangri-La,Diqing Shangri-La,YN,-234----,RL,2107,,,,,,0
+,CNDBG,Dongbang,Dongbang,JS,1-------,RL,1401,,,,,,1
+,CNDCN,Dongchen,Dongchen,44,--3-----,RQ,0901,,,,,,0
+,CNDDW,Dongdaiwan,Dongdaiwan,FJ,1-------,AS,1401,,2614N 11937E,,26.233333,119.616667,1
+,CNDFA,Dongfang,Dongfang,HI,123-----,RL,1401,,1903N 10856E,,19.050000,108.933333,1
+,CNDFN,Dongfeng,Dongfeng,SD,12------,RL,1401,,,,,,1
+,CNDGN,Donggang,Donggang,TJ,1-------,AS,1601,,3953N 12408E,,39.883333,124.133333,1
+,CNDGU,Donggu,Donggu,FJ,1-------,AS,1401,,,,,,1
+,CNDGG,Dongguan,Dongguan,GD,123-----,AS,2107,,2302N 11345E,,23.033333,113.750000,1
+,CNDGO,Dongguo,Dongguo,44,-----6--,RL,0901,,2040N 11010E,,20.666667,110.166667,0
+,CNDNG,Donghai,Donghai,GD,1-3--6--,RL,0407,,2257N 11538E,,22.950000,115.633333,1
+,CNDOH,Donghu,Donghu,GD,--3-----,RL,1401,,,,,,0
+,CNDJA,Dongjiakou,Dongjiakou,SD,1-3-----,AA,2201,,3536N 11946E,,35.600000,119.766667,1
+,CNDJG,Dongjiang Port Area,Dongjiang Port Area,TJ,1-------,AS,1601,,,,,,1
+¦,CNDJK,Dongjiangkou,Dongjiangkou,GD,12------,AS,2407,,3535N 11947E,,35.583333,119.783333,1
+,CNDJT,Dongjiaotou Pt,Dongjiaotou Pt,GD,1-------,AS,1601,,2020N 11025E,,20.333333,110.416667,1
+,CNDKG,Dongkeng,Dongkeng,JX,--3-----,RL,0907,,2737N 11412E,,27.616667,114.200000,0
+,CNDGL,"Dongli ,Tianjing","Dongli ,Tianjing",TJ,--3--6--,AA,2301,,3905N 11718E,,39.083333,117.300000,0
+,CNDOP,Donglian Port,Donglian Port,GD,1-------,RQ,1007,,2275N 11461E,,23.250000,115.016667,1
+,CNDLI,Dongliu,Dongliu,AH,1-------,RL,1401,,,,,,1
+,CNDOM,Dongming,Dongming,37,--3-----,RL,0901,,3517N 11505E,,35.283333,115.083333,0
+,CNDON,Dongning,Dongning,HL,--3-----,AS,1601,,4403N 13107E,,44.050000,131.116667,0
+,CNDGP,Dongping,Dongping,GD,1-------,AS,1401,,2143N 11213E,,21.716667,112.216667,1
+,CNDSN,Dongshan Pt,Dongshan Pt,FJ,1-------,AS,1407,,,,,,1
+,CNDSI,Dongshi,Dongshi,42,1-------,AS,0901,,,,,,1
+,CNDSH,Dongshi,Dongshi,FJ,1-------,AS,1601,,2440N 11828E,,24.666667,118.466667,1
+,CNDSB,Dongsunba,Dongsunba,CQ,1-------,RL,1401,,,,,,1
+,CNDGT,Dongtai,Dongtai,JS,--3-----,RL,2007,,3250N 12018E,,32.833333,120.300000,0
+,CNDOX,Dongxing,Dongxing,GX,1-3----B,AS,1407,,2129N 10759E,,21.483333,107.983333,1
+,CNDYA,Dongyang,Dongyang,33,--3-----,RL,0901,,2916N 12013E,,29.266667,120.216667,0
+,CNDYN,Dongying,Dongying,SD,123-----,AS,2107,,3725N 11841E,,37.416667,118.683333,1
+,CNDOZ,Dongzhang,Dongzhang,JS,1-------,RL,1401,,,,,,1
+,CNDHD,Douhudi,Douhudi,HB,1-------,RL,1401,,,,,,1
+,CNDOU,Doumen Pt,Doumen Pt,GD,1-------,AS,1601,,2212N 11317E,,22.200000,113.283333,1
+,CNDCG,Ducheng,Ducheng,HB,1-------,RL,1401,,,,,,1
+,CNDLT,Dulata,Dulata,XJ,--3-----,AS,0901,,,,,,0
+,CNDUL,Dulong,Dulong,YN,--3--6--,AS,2001,,2247N 10430E,,22.783333,104.500000,0
+¦,CNDNH,Dunhuang,Dunhuang,GS,-234----,RL,2407,,4009N 09440E,,40.150000,94.666667,0
+,CNDUR,Duruan Town,Duruan Town,GD,--3-----,RL,1401,,,,,,0
+,CNDSZ,Dushanzi,Dushanzi,XJ,-----6--,RL,0901,,4420N 08451E,,44.333333,84.850000,0
+,CNEBD,Ebuduge,Ebuduge,NM,--3-----,AS,1401,,,,,,0
+,CNECG,Echeng,Echeng,HB,1-------,RL,1401,,,,,,1
+,CNESN,Enshi,Enshi,HB,-----6--,AS,1801,,3017N 10929E,,30.283333,109.483333,0
+,CNENH,Enshi Xujiaping Apt,Enshi Xujiaping Apt,HB,---4----,RL,1401,,,,,,0
+,CNEBA,Erba,Erba,AH,1-------,RL,1401,,,,,,1
+,CNRLC,Erenhot,Erenhot,NM,-2--5---,RL,1401,,,,,,0
+,CNEGN,Ergun,Ergun,NM,1-3--6--,RL,1401,,,,,,1
+,CNERC,Erlianhaote,Erlianhaote,NM,-23-----,AS,1401,,4338N 11158E,,43.633333,111.966667,0
+,CNETK,Ertaokou,Ertaokou,HB,1-------,RL,1401,,,,,,1
+,CNEZH,Ezhou,Ezhou,HB,123-----,RL,0601,,3024N 11449E,,30.400000,114.816667,1
+,CNFKU,Faku,Faku,21,-----6--,RL,0901,,4230N 12324E,,42.500000,123.400000,0
+,CNFAN,Fangcheng Pt,Fangcheng Pt,GX,1-------,AS,1601,,2146N 10821E,,21.766667,108.350000,1
+,CNFCN,Fangcun,Fangcun,44,--3-----,RL,0901,,2306N 11327E,,23.100000,113.450000,0
+,CNFAS,Fangshan,Fangshan,11,--3-----,RL,0901,,3941N 11559E,,39.683333,115.983333,0
+,CNFAX,Fangxianzhen,Fangxianzhen,32,--3-----,RL,0901,,3230N 11922E,,32.500000,119.366667,0
+,CNFEC,Feicheng,Feicheng,37,--3-----,RL,0901,,3614N 11645E,,36.233333,116.750000,0
+,CNFCH,Fengcheng,Fengcheng,SD,1-------,AS,1401,,3642N 12114E,,36.700000,121.233333,1
+,CNFDU,Fengdu,Fengdu,CQ,1-------,RL,1401,,,,,,1
+,CNFEN,Fenggang,Fenggang,GD,--3-----,RL,9805,,,,,,0
+,CNFGG,Fengguang,Fengguang,JL,--3-----,RL,0907,,4414N 12638E,,44.233333,126.633333,0
++,CNFEH,Fenghua,Fenghua,ZJ,12------,AA,2407,,2939N 12124E,,29.650000,121.400000,1
+,CNFJE,Fengjie,Fengjie,CQ,1-------,RL,1401,,,,,,1
+,CNFKI,Fengkai,Fengkai,GD,1-3-----,RL,1401,,2303N 11227E,,23.050000,112.450000,1
+,CNFGX,Fengxian,Fengxian,SH,--3--6--,AS,1407,,3055N 12127E,,30.916667,121.450000,0
+=,CN,Foochow = Fuzhou Changle International Apt,Foochow = Fuzhou Changle International Apt,,,,,,,,,,0
+,CNFOS,Foshan,Foshan,GD,-23-----,AS,2107,,2302N 11306E,,23.033333,113.100000,0
+,CNFUO,Foshan Apt,Foshan Apt,GD,---4----,RL,1401,,,,,,0
+,CNFRT,Foshan New Pt,Foshan New Pt,GD,1-------,RL,1401,,,,,,1
+,CNFUC,Fucheng,Fucheng,GD,1-------,RL,1401,,,,,,1
+,CNFAG,Fugang,Fugang,GD,1-------,RL,1401,,,,,,1
+,CNFUJ,Fujin,Fujin,HL,1-------,AS,1401,,4715N 13202E,,47.250000,132.033333,1
+,CNFKA,Fukang,Fukang,XJ,--3-----,RL,1707,,4408N 08756E,,44.133333,87.933333,0
+,CNFLG,Fuling,Fuling,CQ,1-3-----,RL,0601,,2942N 10720E,,29.700000,107.333333,1
+,CNFPG,Fuping,Fuping,14,--3-----,RL,0901,,3430N 10930E,,34.500000,109.500000,0
+,CNFQG,Fuqing,Fuqing,35,--3-----,RL,0901,,2543N 11922E,,25.716667,119.366667,0
+,CNFUQ,Fuquan,Fuquan,GZ,--3-----,,1907,,2642N 10733E,,26.700000,107.550000,0
+,CNFSA,Fushan,Fushan,JS,1-------,RL,1401,,,,,,1
+,CNFSN,Fushun,Fushun,LN,-----6--,AS,1601,,4151N 12354E,,41.850000,123.900000,0
+,CNFSI,Fusui,Fusui,GX,1-------,RL,1401,,,,,,1
+,CNFUT,Futian,Futian,GD,--3-----,AS,1401,,2229N 11414E,,22.483333,114.233333,0
+,CNFWN,Fuwan,Fuwan,GD,1-------,RL,1401,,,,,,1
+,CNFUX,Fuxin,Fuxin,LN,--3-----,RL,9901,,,,,,0
+,CNFXG,Fuxing,Fuxing,AH,1-------,RL,1401,,,,,,1
+,CNFUN,Fuyang,Fuyang,33,--3-----,RL,0901,,3003N 11957E,,30.050000,119.950000,0
+,CNFYS,Fuyang,Fuyang,AH,-----6--,AS,1407,,,,,,0
+,CNFYX,Fuyang Xiguan Apt,Fuyang Xiguan Apt,AH,---4----,RL,1401,,,,,,0
+,CNFNG,Fuyong,Fuyong,GD,1-3-----,RL,0207,,2239N 11347E,,22.650000,113.783333,1
+,CNFYG,Fuyong,Fuyong,YN,--3-----,RL,0907,,2253N 09948E,,22.883333,99.800000,0
+,CNFUY,Fuyuan,Fuyuan,HL,1-------,AS,1601,,4821N 13418E,,48.350000,134.300000,1
+,CNFYN,Fuyun,Fuyun,XJ,---4----,RL,1401,,4702N 08929E,,47.033333,89.483333,0
+,CNZZU,Fuzhou,Fuzhou,FJ,123-----,AS,2107,,2431N 11739E,,24.516667,117.650000,1
+,CNFUZ,Fuzhou,Fuzhou,JX,----56--,AS,1801,,2810N 11620E,,28.166667,116.333333,0
+,CNFZH,Fuzhou,Fuzhou,FJ,1--45---,AS,1401,,2605N 11918E,,26.083333,119.300000,1
+,CNFOC,Fuzhou Changle International Apt,Fuzhou Changle International Apt,FJ,---4----,AS,1601,,,,,,0
+,CNFZG,Fuzhou Pt,Fuzhou Pt,FJ,1-------,AS,1401,,,,,,1
+,CNFZX,Fuzhouxingang,Fuzhouxingang,FJ,1-------,AS,1407,,,,,,1
+,CNGAI,Gaizhou,Gaizhou,21,--3-----,RL,0901,,4023N 12227E,,40.383333,122.450000,0
+,CNGAL,Galolan,Galolan,JX,--3-----,RL,0201,,2803N 11442E,,28.050000,114.700000,0
+,CNGUL,Gangluan,Gangluan,SD,1-------,RL,1401,,,,,,1
+,CNGQD,Ganqmod,Ganqmod,NM,--3-----,AS,9506,,,,,,0
+,CNGZH,Ganzhou,Ganzhou,JX,-23--6--,AS,2007,,2852N 11456E,,28.866667,114.933333,0
+,CNKOW,Ganzhou Huangjin Apt,Ganzhou Huangjin Apt,JX,---4----,RL,1401,,,,,,0
+,CNGBU,Gaobu,Gaobu,GD,--3-----,RL,0607,,2309N 11555E,,23.150000,115.916667,0
+,CNGOC,Gaochun,Gaochun,32,--3-----,RL,0901,,3119N 11852E,,31.316667,118.866667,0
+,CNGAO,Gaogang,Gaogang,JS,1-------,AS,1401,,3218N 11951E,,32.300000,119.850000,1
+,CNGLN,Gaolan,Gaolan,GS,123-----,RL,0601,,3619N 10356E,,36.316667,103.933333,1
+,CNGON,Gaolan,Gaolan,GD,1-3-----,RL,1401,,2155N 11315E,,21.916667,113.250000,1
+,CNGLA,Gaolan,Gaolan,JX,-----6--,RQ,1001,,2534N 11536E,,25.566667,115.600000,0
+,CNGLG,Gaoleng,Gaoleng,HL,1-------,RL,1401,,,,,,1
+,CNGMI,Gaomi,Gaomi,37,-----6--,RL,0901,,3623N 11945E,,36.383333,119.750000,0
+,CNGOM,Gaoming Pt,Gaoming Pt,GD,1-------,AS,1601,,2253N 11250E,,22.883333,112.833333,1
+,CNGSH,Gaosha,Gaosha,GD,1-------,AS,1401,,,,,,1
+,CNGTG,Gaotang,Gaotang,SD,--3-----,RL,0601,,3651N 11614E,,36.850000,116.233333,0
+,CNGAY,Gaoyao,Gaoyao,GD,--3-----,RL,9805,,,,,,0
+,CNGYU,Gaoyou,Gaoyou,JS,--3-----,RL,1401,,3247N 11925E,,32.783333,119.416667,0
+,CNGXC,Gaozhou,Gaozhou,35,-----6--,RL,0901,,2537N 11746E,,25.616667,117.766667,0
+,CNGDI,Gedian,Gedian,HB,1-------,RL,1401,,,,,,1
+,CNGOQ,Golmud,Golmud,QH,---4----,RL,1401,,3438N 09852E,,34.633333,98.866667,0
+,CNGGN,Gongan,Gongan,HB,1-------,RL,1401,,,,,,1
+,CNGBP,Gongbei,Gongbei,GD,--3-5---,AS,1601,,2213N 11333E,,22.216667,113.550000,0
+,CNGGU,Gongguan,Gongguan,GX,1-------,RL,1401,,,,,,1
+,CNGGK,Gongkou,Gongkou,FJ,1-------,AS,1401,,2338N 11714E,,23.633333,117.233333,1
+,CNGLU,Gonglu,Gonglu,31,--3-----,RL,0901,,3115N 12140E,,31.250000,121.666667,0
+,CNGOG,Gongming,Gongming,GD,1-3-----,RL,0507,,2247N 11352E,,22.783333,113.866667,1
+,CNTSG,Gongyi,Gongyi,GD,1-------,AS,1407,,2215N 11248E,,22.250000,112.800000,1
+,CNGBZ,Goubangzi,Goubangzi,21,-----6--,RL,0901,,4121N 12146E,,41.350000,121.766667,0
+,CNGAN,Gu'an,Gu'an,HE,--3-----,RL,1401,,3925N 11617E,,39.416667,116.283333,0
+,CNGBG,Guanbu Pt,Guanbu Pt,GD,1-------,AS,1401,,,,,,1
+,CNGCH,Guancheng,Guancheng,GD,1-------,AS,1601,,,,,,1
+,CNGDU,Guandu,Guandu,GD,--3-----,RL,1401,,2123N 11026E,,21.383333,110.433333,0
+¦,CNGNA,Guang'ao,Guang'ao,GD,1-3-----,RL,2407,,2314N 11646E,,23.233333,116.766667,1
+,CNGBT,Guangbaotong,Guangbaotong,GD,1-------,RL,1401,,,,,,1
+,CNGUT,Guangdong Terminal,Guangdong Terminal,GD,1-------,RQ,1007,,2234N 11426E,,22.566667,114.433333,1
+,CNGFU,Guangfu,Guangfu,GD,--3-----,RL,1401,,,,,,0
+,CNGHI,Guanghai Pt,Guanghai Pt,GD,1-------,AS,1407,,2158N 11248E,,21.966667,112.800000,1
+,CNGHN,Guanghan,Guanghan,SC,---4----,RL,1401,,3028N 10639E,,30.466667,106.650000,0
+,CNLHK,Guanghua,Guanghua,HB,---4----,RL,1401,,,,,,0
+,CNGLI,Guangli,Guangli,GD,1-------,RL,1401,,,,,,1
+,CNGNI,Guangning,Guangning,LN,1-------,RL,1401,,,,,,1
+,CNGNG,Guangning,Guangning,GD,1-------,RL,1401,,,,,,1
+,CNYCU,Guangong Apt/Yuncheng,Guangong Apt/Yuncheng,SX,--34----,RL,2201,,3501N 11100E,,35.016667,111.000000,0
+,CNGRO,Guangrao,Guangrao,SD,--3-----,RL,1401,,3704N 11822E,,37.066667,118.366667,0
+,CNGGS,Guangshui,Guangshui,42,--3-----,RL,0901,,3136N 11348E,,31.600000,113.800000,0
+,CNGYS,Guangyuan,Guangyuan,SC,-234-6--,RL,2307,,,,,,0
+,CNGGZ,Guangzhou,Guangzhou,GD,12345---,AS,1401,,2308N 11314E,,23.133333,113.233333,1
+,CNCAN,Guangzhou Baiyun International Apt,Guangzhou Baiyun International Apt,GD,---4----,AS,1601,,,,,,0
+¦,CNGZG,Guangzhou Pt,Guangzhou Pt,GD,1-------,AS,2407,,2308N 11314E,,23.133333,113.233333,1
+,CNGZC,Guangzhouchuanchang,Guangzhouchuanchang,GD,1-------,AS,1401,,,,,,1
+,CNGUZ,Guangzhoudong Railway Station,Guangzhoudong Railway Station,GD,-2------,AS,1601,,,,,,0
+,CNGUN,Guanlan,Guanlan,GD,--3-----,RL,0001,,,,,,0
+,CNGNL,Guanlin,Guanlin,HA,--3-----,RL,0607,,3436N 11228E,,34.600000,112.466667,0
+,CNGNY,Guanyao,Guanyao,GD,--3-----,RL,1401,,,,,,0
+,CNGYO,Guanyao,Guanyao,HB,1-------,RL,1401,,,,,,1
+,CNGCL,Guchengli,Guchengli,22,--3-----,AS,0901,,,,,,0
+,CNCZH,Gud,Gud,45,--3-----,RL,0901,,2418N 10923E,,24.300000,109.383333,0
+,CNGCG,Guicheng,Guicheng,GD,--3-----,RL,1401,,,,,,0
+,CNGCE,Guicheng,Guicheng,GX,-23--6--,RL,0507,,2305N 10936E,,23.083333,109.600000,0
+,CNGUG,Guigang,Guigang,GX,1-------,AS,1401,,2306N 10936E,,23.100000,109.600000,1
+,CNGUI,Guilin,Guilin,GX,123-----,RL,1701,,2516N 11017E,,25.266667,110.283333,1
+,CNKWL,Guilin Liangjiang International Apt,Guilin Liangjiang International Apt,GX,---4----,AS,1401,,,,,,0
+,CNGYG,Guilinyang,Guilinyang,HI,--3-----,RL,1401,,1958N 11025E,,19.966667,110.416667,0
+,CNGPG,Guiping,Guiping,GX,1-------,RL,1401,,,,,,1
+,CNGIS,Guishan,Guishan,GD,1-------,AS,1401,,2208N 11349E,,22.133333,113.816667,1
+,CNGTI,Guitai,Guitai,45,--3-----,RL,0901,,2210N 10819E,,22.166667,108.316667,0
+,CNGXI,Guixi,Guixi,JX,-2------,RL,1401,,,,,,0
+,CNGYA,Guiyang,Guiyang,GZ,-2-45---,AS,1401,,2635N 10642E,,26.583333,106.700000,0
+,CNKWE,Guiyang Longdongbao International Apt,Guiyang Longdongbao International Apt,GZ,---4----,AS,1601,,,,,,0
+,CNGZU,Guizhou,Guizhou,GD,--3-----,RL,0207,,2245N 11314E,,22.750000,113.233333,0
+,CNGJG,Gujing,Gujing,GD,--3-----,RL,0601,,2221N 11306E,,22.350000,113.100000,0
+,CNGLE,Gulei,Gulei,FJ,-----6--,RL,1107,,2343N 11735E,,23.716667,117.583333,0
+,CNGZE,Guzhen,Guzhen,GD,1-3--6--,RL,0607,,2236N 11310E,,22.600000,113.166667,1
+,CNGIR,Gyirong,Gyirong,XZ,--3-----,AS,1601,,,,,,0
+,CNXWH,Haian,Haian,GD,1-------,AS,1407,,,,,,1
+,CNHAA,Hai'an,Hai'an,JS,--3-----,AA,2207,,3232N 12027E,,32.533333,120.450000,0
+,CNXMH,"Haicang, Xiamen","Haicang, Xiamen",FJ,1----6--,RL,2207,,,,,,1
+,CNHAG,Haicheng,Haicheng,LN,--3-----,RL,9901,,,,,,0
+,CNHDN,Haidian,Haidian,HI,1-------,RL,1401,,,,,,1
+,CNHGN,Haigeng,Haigeng,AH,1-------,RL,1401,,,,,,1
+,CNHKN,Haikang,Haikang,GD,--3-----,RL,1401,,2041N 10946E,,20.683333,109.766667,0
+,CNHKO,Haikou,Haikou,HI,1--45---,AS,1401,,2002N 11020E,,20.033333,110.333333,1
+,CNHAK,Haikou Meilan International Apt,Haikou Meilan International Apt,HI,---4----,AS,1601,,,,,,0
+,CNHXG,Haikou New Pt,Haikou New Pt,HI,1-------,AS,1407,,2015N 10850E,,20.250000,108.833333,1
+,CNHIG,Haikou Pt,Haikou Pt,HI,1-------,AS,1401,,2002N 11010E,,20.033333,110.166667,1
+,CNHME,Haimen,Haimen,ZJ,1-------,RL,1707,,2840N 12126E,,28.666667,121.433333,1
+,CNCYH,Haimen,Haimen,GD,1-------,AS,1407,,,,,,1
+,CNHIM,Haimiao,Haimiao,SD,1-------,RL,1401,,,,,,1
+,CNHIN,Haining,Haining,ZJ,--3-----,RL,0401,,3031N 12041E,,30.516667,120.683333,0
+,CNHAT,Haitang/Shekou,Haitang/Shekou,GD,--3-----,RL,1401,,,,,,0
+,CNHHT,Haitian Terminal/ Xiamen,Haitian Terminal/ Xiamen,FJ,1-3--6--,RQ,0907,,2706N 12018E,,27.100000,120.300000,1
+,CNHTO,Haitou,Haitou,JS,1-------,RL,1401,,,,,,1
+,CNHIY,Haiyan,Haiyan,ZJ,--3-----,RQ,1007,,3031N 12056E,,30.516667,120.933333,0
+,CNHAD,Haiyang,Haiyang,37,--3--6--,RQ,0901,,,,,,0
+,CNHAY,Haiyang,Haiyang,32,--3-----,RL,0901,,2803N 12057E,,28.050000,120.950000,0
+,CNHIZ,Haizhu,Haizhu,GD,--3-----,RL,1401,,,,,,0
+,CNHMI,Hami,Hami,XJ,---4----,RL,1401,,4229N 09330E,,42.483333,93.500000,0
+,CNHDS,Handan,Handan,HE,-----6--,AS,1407,,,,,,0
+=,CN,Hangchow = Hangzhou Xiaoshan International Apt,Hangchow = Hangzhou Xiaoshan International Apt,,,,,,,,,,0
+,CNHAZ,Hangzhou,Hangzhou,ZJ,-2-45---,AS,2007,,3016N 12010E,,30.266667,120.166667,0
+,CNHGH,Hangzhou Xiaoshan International Apt,Hangzhou Xiaoshan International Apt,ZJ,---4----,AS,1601,,,,,,0
+,CNHAN,Hanjiang,Hanjiang,FJ,--3-----,RL,0207,,2527N 11906E,,25.450000,119.100000,0
+,CNHNK,Hankou,Hankou,HB,-23-----,RQ,0907,,3035N 11416E,,30.583333,114.266667,0
+=,CN,Hankow = Wuhan Tianhe International Apt,Hankow = Wuhan Tianhe International Apt,,,,,,,,,,0
+,CNHZG,Hanzhong,Hanzhong,61,--3-----,RL,0901,,3304N 10701E,,33.066667,107.016667,0
+,CNHXE,Haoxue,Haoxue,HB,1-------,RL,1401,,,,,,1
+,CNHRN,Harbin,Harbin,HL,12-45---,AS,1401,,4544N 12636E,,45.733333,126.600000,1
+,CNHBG,Harbin Pt,Harbin Pt,HL,1-------,AS,1401,,,,,,1
+,CNHBZ,Harbin Railway Station,Harbin Railway Station,HL,-2------,AS,1601,,,,,,0
+,CNHRB,Harbin Taiping International Apt,Harbin Taiping International Apt,HL,---4----,AS,1601,,,,,,0
+X,CNHEB,Hebei,Hebei,HE,1-3-----,XX,2407,,3953N 11517E,,39.883333,115.283333,1
++,CNHEI,Hebi,Hebi,HA,-23--6--,,2407,,3545N 11417E,,35.750000,114.283333,0
+,CNHCH,Hechi,Hechi,45,--3-----,RL,0901,,2442N 10802E,,24.700000,108.033333,0
+,CNHFI,Hefei,Hefei,AH,-2-45---,AS,2001,,3152N 11717E,,31.866667,117.283333,0
+,CNHFE,Hefei Xinqiao International Apt,Hefei Xinqiao International Apt,AH,---4----,AS,1601,,,,,,0
+,CNHEK,Heihe,Heihe,HL,1-----7-,AS,1601,,5014N 12729E,,50.233333,127.483333,1
+,CNHSA,Heishan,Heishan,21,-----6--,RL,0901,,4141N 12206E,,41.683333,122.100000,0
+,CNHST,Heishantou,Heishantou,NM,1-------,AS,1601,,5012N 11923E,,50.200000,119.383333,1
+,CNXHH,Hekou,Hekou,GD,1-------,AS,1407,,,,,,1
+,CNHKM,Hekou,Hekou,YN,-23-5---,AS,1601,,2231N 10359E,,22.516667,103.983333,0
+,CNHLW,Heliwei,Heliwei,GD,1-------,AS,1401,,,,,,1
+,CNENP,Hengban,Hengban,GD,1-------,AS,1601,,2212N 11219E,,22.200000,112.316667,1
+,CNHEN,Hengdian,Hengdian,33,--3-----,RL,0901,,2909N 12018E,,29.150000,120.300000,0
+,CNHNG,Henggang,Henggang,GD,--3-----,RQ,9705,,,,,,0
+,CNHNI,Hengli,Hengli,GD,1-3--6--,RL,0601,,2310N 11437E,,23.166667,114.616667,1
+,CNHGQ,Hengqin,Hengqin,GD,--3-----,AS,1601,,2207N 11332E,,22.116667,113.533333,0
+,CNHXA,Hengxian,Hengxian,GX,1-------,RL,1401,,,,,,1
+,CNHNY,Hengyang,Hengyang,HN,-234-6--,AS,1601,,2653N 11237E,,26.883333,112.616667,0
+,CNHES,Henshui,Henshui,13,--3-----,RL,0901,,3743N 11542E,,37.716667,115.700000,0
+,CNHPT,Heping,Heping,TJ,-----6--,RL,1107,,3907N 11711E,,39.116667,117.183333,0
+,CNHEP,Hepu,Hepu,45,--3-----,RL,0901,,2129N 10906E,,21.483333,109.100000,0
+,CNHAS,Heshan,Heshan,GX,12------,RL,1401,,,,,,1
+,CNHSN,Heshan Pt,Heshan Pt,GD,1-------,AS,1601,,2246N 11257E,,22.766667,112.950000,1
+,CNHHU,Heshun,Heshun,GD,--3-----,RL,0607,,2312N 11305E,,23.200000,113.083333,0
+,CNHTG,Hetang,Hetang,GD,1-------,AS,1401,,2239N 11308E,,22.650000,113.133333,1
+,CNHYA,Heyang,Heyang,61,--3-----,RL,0901,,3514N 11008E,,35.233333,110.133333,0
+,CNHEY,Heyuan,Heyuan,GD,--3-----,AS,1601,,2343N 11441E,,23.716667,114.683333,0
+,CNHZS,Heze,Heze,SD,-23-----,AS,1407,,3512N 11537E,,35.200000,115.616667,0
+,CNHEZ,Hezhou,Hezhou,GX,----56--,AS,1801,,2241N 10916E,,22.683333,109.266667,0
+,CNHHH,Hohhot,Hohhot,NM,-2345---,AS,1601,,4048N 11141E,,40.800000,111.683333,0
+,CNHET,Hohhot Baita International Apt,Hohhot Baita International Apt,NM,---4----,AS,1601,,,,,,0
+,CNHOD,Hongdu,Hongdu,GX,1-------,RL,1401,,,,,,1
+,CNHGG,Hongguang Pt,Hongguang Pt,ZJ,1-------,AS,1407,,,,,,1
+,CNSHW,Honghai,Honghai,HI,--3-----,RL,0307,,1939N 11101E,,19.650000,111.016667,0
+,CNBLX,Honghai Pt,Honghai Pt,GD,1-------,AS,1407,,2310N 11416E,,23.166667,114.266667,1
+,CNHOH,Honghu,Honghu,HB,1-------,RL,1401,,,,,,1
+,CNHGA,Honghua,Honghua,HB,1-------,RL,1401,,,,,,1
+,CNHGK,Hongkou,Hongkou,SH,--3-----,RL,1401,,,,,,0
+,CNHOQ,Hongqi,Hongqi,GD,1-------,RL,1401,,,,,,1
+,CNHGO,Hongqiao,Hongqiao,SH,--3--6--,RL,1401,,,,,,0
+,CNHNT,Hongtong,Hongtong,61,--3-----,RL,0901,,3615N 11140E,,36.250000,111.666667,0
+,CNHGW,Hongwan,Hongwan,GD,--3-----,RL,1401,,2210N 11328E,,22.166667,113.466667,0
+,CNHON,Hongze Xian,Hongze Xian,32,--3-----,RL,0901,,3317N 11850E,,33.283333,118.833333,0
+,CNHRS,Horgos,Horgos,XJ,-23---7-,AS,2007,,4403N 08050E,,44.050000,80.833333,0
+,CNHTN,Hotan Apt,Hotan Apt,XJ,---4----,RL,1401,,3702N 07952E,,37.033333,79.866667,0
+,CNHOA,Houan,Houan,HI,--3-----,RL,1401,,1851N 11026E,,18.850000,110.433333,0
+,CNHOU,Houjie,Houjie,GD,1-3-----,RL,0407,,2256N 11338E,,22.933333,113.633333,1
+,CNHOM,Houma,Houma,SX,-----6--,AS,1401,,3537N 11121E,,35.616667,111.350000,0
+,CNTCH,Houqiao,Houqiao,YN,--3-----,AS,1407,,2501N 09830E,,25.016667,98.500000,0
+,CNHZU,Houzhu,Houzhu,FJ,1-3--6--,RL,0407,,2453N 11840E,,24.883333,118.666667,1
+=,CN,Hsinkang = Changchun Longjia International Apt,Hsinkang = Changchun Longjia International Apt,,,,,,,,,,0
+,CNHCN,Huachuan,Huachuan,HL,1-------,AS,1401,,4701N 13042E,,47.016667,130.700000,1
+,CNHDU,Huadu,Huadu,GD,--3-----,RL,0907,,2324N 11313E,,23.400000,113.216667,0
+,CNHDG,Huadu Pt,Huadu Pt,GD,1-------,AS,1401,,,,,,1
+,CNHIA,Huai'an,Huai'an,JS,--3-----,RL,1401,,3330N 11908E,,33.500000,119.133333,0
+,CNHBI,Huaibei,Huaibei,AH,--3-----,RL,0207,,3358N 11647E,,33.966667,116.783333,0
+,CNIHE,Huaihe,Huaihe,JS,--3-----,RQ,1007,,3315N 11823E,,33.250000,118.383333,0
+¦,CNHJJ,Huaihua,Huaihua,HN,-234-6--,RL,2407,,2734N 11001E,,27.566667,110.016667,0
+,CNHIJ,Huaiji,Huaiji,GD,1-3-----,RL,1401,,2303N 11227E,,23.050000,112.450000,1
+,CNHLI,Huailai,Huailai,HE,123-----,RL,0907,,4022N 11530E,,40.366667,115.500000,1
+,CNHII,Huainan,Huainan,AH,--3-----,RQ,0907,,3237N 11659E,,32.616667,116.983333,0
+,CNAIN,Huaiyin,Huaiyin,JS,1-3--6--,RL,0407,,3338N 11901E,,33.633333,119.016667,1
+,CNHBU,Huangbu,Huangbu,41,-----6--,RL,0901,,3310N 11410E,,33.166667,114.166667,0
+,CNHGC,Huangcun,Huangcun,GD,--3-----,RL,1401,,,,,,0
+,CNHUG,Huanggang,Huanggang,GD,--3-----,AS,1401,,2323N 11312E,,23.383333,113.200000,0
+,CNHGE,Huangge,Huangge,GD,--3-----,RL,0212,,2249N 11329E,,22.816667,113.483333,0
+,CNHNH,Huanghua,Huanghua,ZJ,1-------,AS,1407,,,,,,1
+,CNHUH,Huanghua Pt,Huanghua Pt,HE,1-------,AS,1601,,3821N 11721E,,38.350000,117.350000,1
+,CNHGJ,Huangjiang,Huangjiang,GX,1-3-----,RL,0601,,2506N 10720E,,25.100000,107.333333,1
+,CNHJI,Huangjiang,Huangjiang,GD,1-------,RL,1401,,,,,,1
+,CNHGP,Huangpi,Huangpi,HB,--3-----,RQ,0907,,3052N 11422E,,30.866667,114.366667,0
+,CNWCH,Huangpo,Huangpo,GD,1-------,AS,1407,,,,,,1
+,CNHUN,Huangpu New Port,Huangpu New Port,GD,1-------,AS,1901,,2305N 11330E,,23.083333,113.500000,1
+,CNHUA,Huangpu Pt,Huangpu Pt,GD,1-------,AS,1601,,,,,,1
+,CNHAQ,Huangqi/Nanhai,Huangqi/Nanhai,GD,1-------,RL,1401,,,,,,1
+,CNHSK,Huangsangkou,Huangsangkou,HB,1-------,RL,1401,,,,,,1
+,CNHSH,Huangshan,Huangshan,AH,--34----,RL,1401,,,,,,0
+,CNTXN,Huangshan Tunxi International Apt,Huangshan Tunxi International Apt,AH,---4----,AS,1407,,,,,,0
+,CNHIS,Huangshi,Huangshi,13,-23-----,AS,2107,,,,,,0
+,CNHSI,Huangshi Pt,Huangshi Pt,HB,1-------,AS,1407,,3012N 11506E,,30.200000,115.100000,1
+,CNANG,Huangxian,Huangxian,33,1----6--,RL,0901,,2933N 12134E,,29.550000,121.566667,1
+,CNHYN,Huangyan,Huangyan,ZJ,1-34-6--,RL,0401,,2838N 12115E,,28.633333,121.250000,1
+,CNHZO,Huangzhou,Huangzhou,HB,1-------,RL,1401,,,,,,1
+,CNHNS,Huanshi,Huanshi,HB,1-------,RL,1401,,,,,,1
+,CNHUS,Huashi,Huashi,JS,1-------,RL,1401,,,,,,1
+,CNHUY,Huayang,Huayang,AH,1-------,RL,1401,,,,,,1
+,CNHUZ,Huazhou,Huazhou,44,--3-----,RL,0901,,2138N 11035E,,21.633333,110.583333,0
+,CNHUE,Huchen,Huchen,ZJ,1-------,RL,1401,,,,,,1
+,CNUIA,"Hui'an,Quanzhou","Hui'an,Quanzhou",FJ,123--6--,,2307,,2502N 11856E,,25.033333,118.933333,1
+,CNHUW,Huidong,Huidong,SC,--3-----,RL,0501,,2639N 10235E,,26.650000,102.583333,0
+,CNHID,Huidong Pt,Huidong Pt,GD,1-------,AS,1407,,2259N 11442E,,22.983333,114.700000,1
+,CNHIK,Huikou,Huikou,AH,1-------,RL,1401,,,,,,1
+,CNHLN,Huilong,Huilong,GD,--3-----,RL,1401,,,,,,0
+,CNHNO,Huinong,Huinong,NX,--3-----,AS,1407,,,,,,0
+,CNHQG,Huiqiang,Huiqiang,SH,--3-----,RL,1401,,,,,,0
+=,CN,Huiyang = Huizhou,Huiyang = Huizhou,,,,,,,,,,0
+,CNHUI,Huizhou,Huizhou,GD,123-----,AS,2107,,2305N 11422E,,23.083333,114.366667,1
+,CNHKU,Hukou,Hukou,JX,1-------,RL,1401,,,,,,1
+,CNHLE,Hulan Ergi,Hulan Ergi,HL,1-------,RL,1401,,,,,,1
+,CNHUL,Hulin,Hulin,HL,1------B,AS,1407,,4547N 13257E,,45.783333,132.950000,1
+,CNHUD,Huludao,Huludao,LN,1234----,AS,2107,,4045N 12051E,,40.750000,120.850000,1
+,CNHLD,Hulunbuir Hailar Apt,Hulunbuir Hailar Apt,NM,---4----,AS,1601,,,,,,0
+,CNHUM,Huma,Huma,HL,1-------,AS,1601,,5142N 12639E,,51.700000,126.650000,1
+,CNHMN,Humen Pt,Humen Pt,GD,1-------,AS,1601,,2250N 11340E,,22.833333,113.666667,1
+,CNHCG,Hunchun,Hunchun,JL,-23-----,AS,1401,,4252N 13022E,,42.866667,130.366667,0
+,CNHUP,Huo Pt,Huo Pt,AH,1-------,RL,1401,,,,,,1
+,CNXJH,Hutubi,Hutubi,XJ,--3-----,RL,1707,,4408N 08656E,,44.133333,86.933333,0
+,CNHZH,Huzhou,Huzhou,ZJ,123-----,AS,2107,,3052N 12006E,,30.866667,120.100000,1
+,CNJEM,Jeminay,Jeminay,XJ,--3-----,AS,0907,,4732N 08538E,,47.533333,85.633333,0
+,CNJID,Jiading,Jiading,SH,-----6--,AS,1401,,3123N 12114E,,31.383333,121.233333,0
+,CNJMS,Jiamusi Pt,Jiamusi Pt,HL,1-------,AS,1401,,,,,,1
+,CNJIN,Jian,Jian,JX,--3-----,AS,1601,,2707N 11458E,,27.116667,114.966667,0
+¦,CNKNC,Ji'an,Ji'an,JL,-2---6--,AS,2407,,4108N 12611E,,41.133333,126.183333,0
+,CNJBI,Jianbi,Jianbi,JS,1-------,RL,1401,,,,,,1
+,CNJDE,Jiande,Jiande,33,--3-----,RL,0901,,2928N 11916E,,29.466667,119.266667,0
+,CNJAA,Jiang'an,Jiang'an,SC,1-------,RL,1401,,,,,,1
+,CNJAN,Jiangan Railway Station,Jiangan Railway Station,HB,-2------,AS,1601,,,,,,0
+,CNJCH,Jiangcheng,Jiangcheng,GD,1-------,AS,1401,,,,,,1
+,CNMNK,Jiangcheng Mengkang,Jiangcheng Mengkang,YN,--3--6--,AA,2007,,2229N 10142E,,22.483333,101.700000,0
+,CNJCN,Jiangchuan,Jiangchuan,YN,1-------,RL,1401,,,,,,1
+,CNJIC,Jiangcun,Jiangcun,GD,-2------,RL,1401,,,,,,0
+,CNJND,Jiangdu,Jiangdu,JS,--3-----,RL,0607,,3225N 11932E,,32.416667,119.533333,0
+,CNJGH,Jianghai,Jianghai,GD,--3-----,RL,1401,,2234N 11308E,,22.566667,113.133333,0
+,CNJGJ,Jiangjin,Jiangjin,CQ,1-------,RL,1401,,,,,,1
+,CNFKJ,Jiangkou,Jiangkou,GD,1-------,AS,1407,,2327N 11130E,,23.450000,111.500000,1
+,CNJKU,Jiangkou,Jiangkou,FJ,--3-----,RL,0207,,2528N 11911E,,25.466667,119.183333,0
+,CNJKO,Jiangkou,Jiangkou,HB,1-------,RL,1401,,,,,,1
+,CNJLE,Jiangle,Jiangle,35,--3-----,RL,0901,,2614N 11737E,,26.233333,117.616667,0
+,CNJMN,Jiangmen,Jiangmen,GD,123-----,AS,2107,,2235N 11304E,,22.583333,113.066667,1
+,CNJIP,Jiangping,Jiangping,GX,1-3-----,RL,1401,,,,,,1
+,CNJPU,Jiangpu,Jiangpu,JS,1-------,RL,1401,,,,,,1
+,CNJHN,Jiangshan,Jiangshan,33,--3-----,RL,0901,,2844N 11837E,,28.733333,118.616667,0
+,CNJIS,Jiangshan Pt,Jiangshan Pt,GX,1-------,AS,1407,,2138N 10816E,,21.633333,108.266667,1
+,CNGJS,Jiangsi,Jiangsi,52,-----6--,RL,0901,,2816N 10871E,,28.266667,109.183333,0
+,CNJSU,Jiangsiu,Jiangsiu,11,--3-----,RQ,0901,,,,,,0
+,CNJNX,Jiangxi,Jiangxi,HN,--3-----,RL,1401,,2714N 11022E,,27.233333,110.366667,0
+,CNJYS,Jiangyan,Jiangyan,JS,-23-----,RL,1401,,3230N 12008E,,32.500000,120.133333,0
+,CNJGY,Jiangyin,Jiangyin,FJ,1-3-----,RL,0601,,2528N 11918E,,25.466667,119.300000,1
+,CNJIA,Jiangyin Pt,Jiangyin Pt,JS,1-------,AS,1601,,3154N 12017E,,31.900000,120.283333,1
+,CNJLI,Jianli,Jianli,HB,1-------,RL,1401,,,,,,1
+,CNJTO,Jiantiao,Jiantiao,ZJ,1-------,RL,1401,,,,,,1
+,CNJAG,Jianyang,Jianyang,35,--3-----,RL,0901,,2720N 11807E,,27.333333,118.116667,0
+,CNJXN,Jiao Xin,Jiao Xin,GD,1-3-----,RQ,0101,,,,,,1
+,CNJOJ,Jiaojiang,Jiaojiang,33,--3-----,RL,0901,,2840N 12126E,,28.666667,121.433333,0
+,CNJOK,Jiaokou,Jiaokou,GD,1-------,AS,1601,,,,,,1
+,CNJSG,Jiaoshan Pt,Jiaoshan Pt,ZJ,1-------,AS,1401,,,,,,1
+,CNJZH,Jiaozhou,Jiaozhou,SD,-23456--,RL,2207,,3617N 12000E,,36.283333,120.000000,0
+,CNJZO,Jiaozuo,Jiaozuo,HA,-23-----,RL,0601,,3515N 11309E,,35.250000,113.150000,0
+,CNJSA,Jiashan,Jiashan,JL,--3--6--,RL,0607,,4309N 12500E,,43.150000,125.000000,0
+,CNJAS,Jiashan,Jiashan,ZJ,--3-----,RQ,1007,,3050N 12054E,,30.833333,120.900000,0
+,CNJAX,Jiaxing,Jiaxing,ZJ,1-------,AS,1907,,3046N 12045E,,30.766667,120.750000,1
+,CNJAY,Jiayin,Jiayin,HL,1-------,AS,1601,,4852N 13022E,,48.866667,130.366667,1
+,CNJGN,Jiayuguan,Jiayuguan,GS,---4-6--,RL,1401,,,,,,0
+,CNJIZ,Jiazi,Jiazi,GD,1-------,AS,1601,,2252N 11603E,,22.866667,116.050000,1
+,CNJES,Jieshi,Jieshi,GD,1-------,RL,1401,,,,,,1
+,CNJXI,Jiexi,Jiexi,,--3-----,RQ,9705,,,,,,0
+,CNJYG,Jieyang,Jieyang,,--3-----,RQ,9705,,,,,,0
+,CNSWA,Jieyang Chaoshan Apt,Jieyang Chaoshan Apt,GD,---4----,AS,1601,,,,,,0
+,CNJIL,Jilin,Jilin,JL,--34----,RL,9901,,,,,,0
+,CNJLZ,Jilin Railway Station,Jilin Railway Station,JL,-2------,AS,1601,,,,,,0
+,CNJIM,"Jimei,Xiamen","Jimei,Xiamen",FJ,-23--6--,,2307,,2435N 11806E,,24.583333,118.100000,0
+,CNJMY,Jimiya,Jimiya,SD,1-------,AS,1401,,,,,,1
+,CNJMO,Jimo,Jimo,SD,--3-----,RL,0607,,3623N 12028E,,36.383333,120.466667,0
+,CNJMU,Jimusi,Jimusi,HL,1234----,AS,2107,,,,,,1
+,CNJNA,Jinan,Jinan,SD,-2345---,AS,1601,,3640N 11700E,,36.666667,117.000000,0
+,CNTNA,Jinan Yaoqiang International Apt,Jinan Yaoqiang International Apt,SD,---4----,AS,1601,,,,,,0
++,CNJCE,Jincheng,Jincheng,SX,-23--6--,,2407,,3529N 11250E,,35.483333,112.833333,0
+,CNDMJ,Jingan,Jingan,GD,1-------,AS,1407,,,,,,1
+,CNJIH,Jing'an,Jing'an,JX,--3-----,RL,0207,,2851N 11520E,,28.850000,115.333333,0
+,CNJDZ,Jingdezhen,Jingdezhen,JX,-----6--,AS,1601,,2917N 11713E,,29.283333,117.216667,0
+,CNJGS,Jinggangshan Apt,Jinggangshan Apt,JX,---4----,RL,1401,,,,,,0
+,CNHLJ,Jinghai,Jinghai,GD,1-------,AS,1407,,2302N 11618E,,23.033333,116.300000,1
+,CNJHH,"Jinghai, Tianjing","Jinghai, Tianjing",TJ,--3--6--,AA,2301,,3854N 11656E,,38.900000,116.933333,0
+,CNJOG,Jinghong,Jinghong,YN,1-------,AS,1401,,2201N 10048E,,22.016667,100.800000,1
+,CNJIJ,Jingjiang,Jingjiang,JS,123-----,AS,2107,,3202N 12017E,,32.033333,120.283333,1
+,CNJGM,Jingmen,Jingmen,42,--3-----,RL,0901,,3102N 11212E,,31.033333,112.200000,0
+,CNJTG,Jingtang Pt,Jingtang Pt,HE,1-------,AS,1401,,,,,,1
+,CNJGU,Jinguzhou,Jinguzhou,GD,1-3-----,RL,0407,,2231N 11301E,,22.516667,113.016667,1
+,CNJGX,Jingxian,Jingxian,13,--3-----,RL,0901,,3743N 11542E,,37.716667,115.700000,0
+,CNJGZ,Jingzhou,Jingzhou,HB,--3-----,RL,0307,,3021N 11211E,,30.350000,112.183333,0
+,CNJZK,Jingzhou Pt,Jingzhou Pt,HB,1-------,AS,1407,,3018N 11216E,,30.300000,112.266667,1
+,CNJNH,Jinhaian,Jinhaian,GD,1-------,AS,1401,,,,,,1
+,CNJHK,Jinhekou,Jinhekou,AH,1-------,RL,1401,,,,,,1
+,CNJHA,Jinhua,Jinhua,ZJ,-23--6--,AS,1601,,2907N 11939E,,29.116667,119.650000,0
+,CNJNN,Jining,Jining,NM,-2------,RL,1401,,,,,,0
+,CNJII,Jining,Jining,HN,--3-----,RL,9901,,,,,,0
+,CNJNG,Jining,Jining,SD,-2-4----,AS,1601,,3523N 11633E,,35.383333,116.550000,0
+,CNJJI,Jinjiang,Jinjiang,SH,--3-----,RL,1401,,,,,,0
+,CNJJD,Jinjiang Dry Port,Jinjiang Dry Port,FJ,----56--,AS,1807,,2447N 11826E,,24.783333,118.433333,0
+,CNPTJ,Jinjing,Jinjing,FJ,1-------,AS,1407,,2530N 11947E,,25.500000,119.783333,1
+,CNJNL,Jinli,Jinli,GD,1-------,RL,1401,,,,,,1
+,CNJPI,Jinpai,Jinpai,HI,1-------,RL,1401,,,,,,1
+,CNJQI,Jinqiao,Jinqiao,SH,-23-----,RL,0601,,3115N 12136E,,31.250000,121.600000,0
+,CNJNS,Jinshan,Jinshan,SH,-----6--,AS,1401,,3054N 12109E,,30.900000,121.150000,0
+¦,CNJSI,Jinshi,Jinshi,HN,--3-----,RQ,2407,,2936N 11154E,coordinates,29.600000,111.900000,0
+,CNJSH,Jinshuihe,Jinshuihe,YN,--3-----,AS,1401,,3317N 10752E,,33.283333,107.866667,0
+,CNJTN,Jintan,Jintan,32,--3-----,RL,0901,,3145N 11935E,,31.750000,119.583333,0
+,CNJWN,Jinwan,Jinwan,GD,--3-----,RL,1401,,2207N 11334E,,22.116667,113.566667,0
+,CNIXI,Jinxi,Jinxi,21,-----6--,RL,0901,,4045N 12050E,,40.750000,120.833333,0
+,CNJYN,Jinyun,Jinyun,33,--3-----,RL,0901,,2839N 12003E,,28.650000,120.050000,0
++,CNJZN,Jinzhong,Jinzhong,SX,-23--6--,,2407,,3741N 11244E,,37.683333,112.733333,0
+,CNJZI,Jinzhou,Jinzhou,HE,--3-----,RQ,0907,,3801N 11402E,,38.016667,114.033333,0
+,CNJNZ,Jinzhou Pt,Jinzhou Pt,LN,1-------,AS,1601,,4107N 12109E,,41.116667,121.150000,1
+,CNJSO,Jishou,Jishou,HN,-23-----,RL,1401,,2819N 10943E,,28.316667,109.716667,0
+,CNJUI,Jishui,Jishui,36,--3-----,RL,0901,,2713N 11507E,,27.216667,115.116667,0
+,CNGDJ,Jiugang,Jiugang,44,-----6--,RL,0901,,2156N 11129E,,21.933333,111.483333,0
+,CNJIU,Jiujiang,Jiujiang,JX,1234----,AS,2107,,2943N 11558E,,29.716667,115.966667,1
+,CNJUJ,Jiujiang,Jiujiang,GD,1-------,AS,1401,,2250N 11300E,,22.833333,113.000000,1
+,CNJUL,Jiuli,Jiuli,JS,1-------,RL,1401,,,,,,1
+,CNJLP,Jiulongpo Pt,Jiulongpo Pt,CQ,1-------,AS,1601,,,,,,1
+,CNJUQ,Jiuquan,Jiuquan,GS,-23-----,AS,2107,,3944N 09831E,,39.733333,98.516667,0
+,CNJUZ,Jiuzhen,Jiuzhen,FJ,1-------,AS,1601,,2402N 11742E,,24.033333,117.700000,1
+,CNJZU,Jiuzhou Pt,Jiuzhou Pt,GD,1-------,AS,1601,,,,,,1
+,CNXII,Jixi,Jixi,,--3-----,RL,0901,,3004N 11835E,,30.066667,118.583333,0
+,CNJIX,Jixian,Jixian,TJ,-----6--,AS,1601,,4002N 11724E,,40.033333,117.400000,0
+,CNJYA,Jiyuan,Jiyuan,46,--3-----,RL,0901,,3651N 12031E,,36.850000,120.516667,0
+,CNJRG,Jurong,Jurong,JS,1-34----,RL,1401,,3155N 11910E,,31.916667,119.166667,1
+,CNKFG,Kaifeng,Kaifeng,HA,123-----,RL,0907,,3447N 11420E,,34.783333,114.333333,1
+,CNKAH,Kaihua,Kaihua,33,--3-----,RL,0901,,2908N 11824E,,29.133333,118.400000,0
+,CNKAI,Kaikou,Kaikou,GZ,0-------,RL,1401,,,,,,0
+,CNKJH,Kaili,Kaili,FJ,-234-6--,AS,1901,,2635N 10758E,,26.583333,107.966667,0
+,CNKAP,Kaiping,Kaiping,GD,--3-----,RL,0507,,2222N 11241E,,22.366667,112.683333,0
+,CNKPN,Kaiping,Kaiping,HE,--3-----,RL,0201,,3942N 11818E,,39.700000,118.300000,0
+,CNKST,Kaishantun,Kaishantun,JL,--3-----,AS,1401,,4241N 12946E,,42.683333,129.766667,0
+,CNKIY,Kaiyun,Kaiyun,43,-----6--,RL,0901,,2714N 11252E,,27.233333,112.866667,0
+,CNKLS,Kalasu,Kalasu,XJ,--3-----,AS,1601,,,,,,0
+,CNKGT,Kangding,Kangding,SC,---4----,RL,0907,,3808N 10144E,,38.133333,101.733333,0
+,CNKQI,Kangqiao,Kangqiao,SN,--3-----,RL,0607,,3441N 10918E,,34.683333,109.300000,0
+,CNKZG,Kangzhou Pt,Kangzhou Pt,GD,1-------,AS,1401,,,,,,1
+,CNKMN,Kanmen,Kanmen,ZJ,1-------,RL,1401,,,,,,1
+,CNKRY,Karamay,Karamay,XJ,--34----,RL,1401,,4530N 08455E,,45.500000,84.916667,0
+,CNKSS,Kashi,Kashi,XJ,--3-----,AS,1407,,,,,,0
+,CNKHG,Kashi Apt,Kashi Apt,XJ,---4----,AS,1601,,,,,,0
+,CNKOL,Korla,Korla,XJ,-----6--,AS,1407,,,,,,0
+,CNKYG,Kuiyong,Kuiyong,GD,--3-----,RL,0601,,2237N 11426E,,22.616667,114.433333,0
+,CNKJP,Kunjirap,Kunjirap,XJ,--3-----,AS,1401,,3653N 07523E,,36.883333,75.383333,0
+,CNKNM,Kunming,Kunming,YN,---45---,AS,1401,,2504N 10242E,,25.066667,102.700000,0
+,CNKMG,Kunming Wujiaba International Apt,Kunming Wujiaba International Apt,YN,---4----,AS,1601,,,,,,0
+,CNKUS,Kunshan,Kunshan,JS,-----6--,AS,1601,,3123N 12057E,,31.383333,120.950000,0
+,CNKCA,Kuqa Apt,Kuqa Apt,XJ,---4----,RL,1401,,,,,,0
+,CNKUY,Kuytun Railway Station,Kuytun Railway Station,XJ,-2------,AS,1601,,,,,,0
+,CNLAA,Lai An,Lai An,11,--3-----,RL,0901,,3227N 11825E,,32.450000,118.416667,0
+,CNLBI,Laibin,Laibin,GX,-23-----,RL,1401,,2342N 10916E,,23.700000,109.266667,0
+,CNLWS,Laiwu,Laiwu,SD,-----6--,AS,1407,,,,,,0
+,CNCSL,Laiwu,Laiwu,GD,1-------,AS,1407,,,,,,1
+,CNLIX,Laixi,Laixi,37,--3-----,RL,0901,,3651N 12031E,,36.850000,120.516667,0
+,CNLYD,Laiyang,Laiyang,SD,-23-----,RL,1401,,3654N 12043E,,36.900000,120.716667,0
+,CNLZO,Laizhou Pt,Laizhou Pt,SD,1-------,AS,1601,,3710N 11957E,,37.166667,119.950000,1
+,CNLFZ,Langfang,Langfang,HE,-----6--,AS,1401,,3931N 11642E,,39.516667,116.700000,0
+,CNLSN,Lanshan Pt,Lanshan Pt,SD,1-------,AS,1407,,3504N 11922E,,35.066667,119.366667,1
+,CNLNS,Lanshi,Lanshi,GD,1-------,AS,1401,,,,,,1
+,CNLSI,Lanshi,Lanshi,HN,--3-----,RL,0907,,2609N 11336E,,26.150000,113.600000,0
+,CNLXI,Lanxi,Lanxi,ZJ,123-----,RL,0907,,2912N 11928E,,29.200000,119.466667,1
+,CNLAZ,Lanzhou,Lanzhou,GS,-2-45---,AS,1401,,3604N 10351E,,36.066667,103.850000,0
+,CNLHW,Lanzhou Zhongchuan Apt,Lanzhou Zhongchuan Apt,GS,---4----,AS,1601,,,,,,0
+,CNLLY,Laocheng,Laocheng,HI,--3-----,RL,1401,,1957N 11007E,,19.950000,110.116667,0
+,CNLDK,Laodukou,Laodukou,HB,1-------,RL,1401,,,,,,1
+,CNLHS,Laohushao,Laohushao,JL,--3----B,AS,1401,,,,,,0
+,CNLAL,Laolong,Laolong,GD,1-------,RL,1401,,,,,,1
+,CNLXH,Laoxiahe,Laoxiahe,AH,1-------,RL,1401,,,,,,1
+,CNLYM,Laoyemiao,Laoyemiao,XJ,--3-----,AS,1401,,4442N 09402E,,44.700000,94.033333,0
+,CNLNG,Ledong,Ledong,HI,--3-----,RQ,0907,,1837N 10847E,,18.616667,108.783333,0
+,CNLYN,Leiyang,Leiyang,HN,-2------,RL,1401,,,,,,0
+,CNLLG,Leling,Leling,SD,-----6--,RL,1107,,3744N 11713E,,37.733333,117.216667,0
+,CNLUU,Leliu,Leliu,GD,--3-----,RL,0201,,2250N 11307E,,22.833333,113.116667,0
+,CNLPI,Leping,Leping,GD,--3-----,RL,0607,,2314N 11302E,,23.233333,113.033333,0
+,CNLES,Leshan,Leshan,SC,-23--6--,AS,2107,,2936N 10344E,,29.600000,103.733333,0
+,CNLTP,Letianxi Pt,Letianxi Pt,HB,1-------,RL,1401,,,,,,1
+,CNLEZ,Lezhu,Lezhu,GD,--3-----,RL,0407,,2244N 11208E,,22.733333,112.133333,0
+,CNLHA,Lhasa,Lhasa,XZ,---45---,AS,1601,,2939N 09108E,,29.650000,91.133333,0
+,CNLXA,Lhasa Gongga Apt,Lhasa Gongga Apt,XZ,---4----,AS,1601,,,,,,0
+,CNLHG,Liancheng,Liancheng,GD,-23--6--,RL,0601,,2137N 11017E,,21.616667,110.283333,0
+,CNLCX,Liancheng Apt,Liancheng Apt,FJ,---4----,RL,1401,,,,,,0
+,CNLGP,Liangping,Liangping,CQ,---4----,RL,1401,,3049N 10742E,,30.816667,107.700000,0
+,CNLIH,Lianhuashan Pt,Lianhuashan Pt,GD,1-------,AS,1601,,2301N 11516E,,23.016667,115.266667,1
+,CNLNJ,Lianjiang,Lianjiang,JX,--3-----,RL,0607,,2620N 11521E,,26.333333,115.350000,0
+,CNLNX,Lianxia,Lianxia,44,--3-----,RL,0901,,2330N 11646E,,23.500000,116.766667,0
+,CNLYG,Lianyungang,Lianyungang,JS,1-------,AS,1601,,3443N 11926E,,34.716667,119.433333,1
+,CNLIZ,Lianzhou,Lianzhou,GD,1-3-----,RL,1401,,2446N 11221E,,24.766667,112.350000,1
+,CNLBU,Liaobu,Liaobu,GD,--3-----,RL,0001,,,,,,0
+¦,CNLCH,Liaocheng,Liaocheng,SD,-23--6--,AS,2407,,3626N 11557E,,36.433333,115.950000,0
+,CNLYS,Liaoyang,Liaoyang,LN,-----6--,AS,1407,,,,,,0
+,CNLOY,Liaoyuan,Liaoyuan,22,-----6--,RL,0901,,4254N 12508E,,42.900000,125.133333,0
+,CNLIB,Libo,Libo,GZ,--3-----,RL,1401,,2524N 10752E,,25.400000,107.866667,0
+,CNLIC,Licheng,Licheng,SD,-2------,RL,1401,,,,,,0
+,CNLID,Lidao,Lidao,SD,1-------,RL,1401,,,,,,1
+,CNLHU,Lihu,Lihu,GD,--3-----,RL,0201,,2322N 11602E,,23.366667,116.033333,0
+,CNLAG,Lijiang,Lijiang,GX,--3-----,RQ,1001,,2309N 10711E,,23.150000,107.183333,0
+,CNLIJ,Lijiang,Lijiang,SD,1-------,RL,1401,,,,,,1
+,CNLJG,Lijiang,Lijiang,YN,-234----,AS,2107,,,,,,0
+,CNLIL,Liling,Liling,HN,-2------,AS,1601,,,,,,0
+,CNLLI,Liling,Liling,HN,123-----,RL,0601,,2740N 11329E,,27.666667,113.483333,1
+,CNACH,Lin,Lin,13,--3-----,RL,0901,,3802N 11449E,,38.033333,114.816667,0
+,CNLNA,Lin'an,Lin'an,ZJ,--3-----,RL,1401,,3014N 11943E,,30.233333,119.716667,0
+,CNLNC,Lincang,Lincang,YN,---4----,RL,0907,LNJ,2354N 10002E,,23.900000,100.033333,0
+,CNLGE,Lincheng,Lincheng,46,--3-----,RL,0901,,1954N 10941E,,19.900000,109.683333,0
+,CNLFG,Linfen,Linfen,SX,-23-----,AA,2107,,3605N 11131E,,36.083333,111.516667,0
+,CNLGN,Lingcheng,Lingcheng,GX,--3--6--,RL,0507,,2242N 11020E,,22.700000,110.333333,0
+,CNLLF,Lingling Apt/Yongzhou,Lingling Apt/Yongzhou,HN,---4----,RL,1401,,,,,,0
+,CNLSA,Lingshan,Lingshan,HI,--3-----,RL,1401,,1957N 11025E,,19.950000,110.416667,0
+,CNLNH,Linhai,Linhai,ZJ,1-3--6--,RL,0407,,2851N 12107E,,28.850000,121.116667,1
+,CNLIN,Linjiang,Linjiang,JL,--3-----,AS,1401,,4149N 12653E,,41.816667,126.883333,0
+,CNTNC,Lintao,Lintao,GS,1-------,RL,1401,,,,,,1
+,CNLNI,Linxi,Linxi,NM,---4----,RL,0907,LXI,2557N 10937E,,25.950000,109.616667,0
+,CNLYI,Linyi,Linyi,SD,-23-----,AS,2107,,3503N 11820E,,35.050000,118.333333,0
+,CNLNZ,Linzi,Linzi,SD,-23-----,RL,1401,,3648N 11817E,,36.800000,118.283333,0
+,CNLIP,Liping,Liping,GZ,--34----,RL,0907,HZH,3247N 10640E,,32.783333,106.666667,0
+,CNLQN,Liquan,Liquan,61,--3-----,RL,0901,,3429N 10825E,,34.483333,108.416667,0
+,CNLSS,Lishui,Lishui,ZJ,-----6--,AS,1407,,,,,,0
+,CNLUI,Lisui,Lisui,BJ,1-3-----,RL,0601,,4004N 11645E,,40.066667,116.750000,1
+,CNIUA,Liuan,Liuan,34,--3-----,RL,0901,,3437N 11621E,,34.616667,116.350000,0
+,CNLUD,Liudu,Liudu,GD,1-------,AS,1601,,2304N 11200E,,23.066667,112.000000,1
+,CNLJP,Liujia Pt,Liujia Pt,HB,1-------,RL,1401,,,,,,1
+,CNLJD,Liujiadu,Liujiadu,AH,1-------,RL,1401,,,,,,1
+,CNLJI,Liujiang,Liujiang,GX,--3-----,RQ,1007,,2248N 10933E,,22.800000,109.550000,0
+,CNLJN,Liujing,Liujing,GX,1-------,RL,1401,,,,,,1
+,CNLKP,Liukou Pt,Liukou Pt,HB,1-------,RL,1401,,,,,,1
+,CNLPS,Liupanshui,Liupanshui,GZ,-2------,RL,1401,,,,,,0
+,CNLZL,Liusha,Liusha,GD,1-------,AS,1407,,2054N 11004E,,20.900000,110.066667,1
+,CNXML,Liuwudian,Liuwudian,FJ,1-------,AS,1407,,,,,,1
+,CNLIU,Liuyang,Liuyang,HN,1-------,RL,1401,,,,,,1
+,CNLZH,Liuzhou,Liuzhou,GX,123-----,AS,2107,,2319N 10924E,,23.316667,109.400000,1
+,CNLZP,Liuzuo Pt,Liuzuo Pt,HB,1-------,RL,1401,,,,,,1
+,CNLIY,Liyang,Liyang,32,--3-----,RL,0901,,3126N 11929E,,31.433333,119.483333,0
+,CNLYP,Liying Pt,Liying Pt,HB,1-------,RL,1401,,,,,,1
+,CNLOG,Longan,Longan,GX,--3-----,RQ,1001,,2311N 10741E,,23.183333,107.683333,0
+,CNLGA,Long'an,Long'an,GX,1-------,RL,1401,,,,,,1
+,CNLGB,Longbang,Longbang,GX,--3-----,AS,1401,,2254N 10619E,,22.900000,106.316667,0
+,CNLDG,Longdong,Longdong,GD,--3-----,RL,1401,,,,,,0
+,CNLGG,Longgang,Longgang,GD,--3-----,RL,0307,,2244N 11416E,,22.733333,114.266667,0
+,CNLGU,Longguan,Longguan,HE,1-3-----,RL,0601,,4046N 11534E,,40.766667,115.566667,1
+,CNLGI,Longhai,Longhai,HN,1-3-----,RL,0601,,2628N 11316E,,26.466667,113.266667,1
+,CNLGH,Longhua,Longhua,GD,--3-----,RL,0001,,,,,,0
+,CNLLJ,Longjiang,Longjiang,GD,--3-----,RL,0201,,2300N 11611E,,23.000000,116.183333,0
+,CNLKU,Longkou Pt,Longkou Pt,SD,1-------,AS,1601,,3739N 12021E,,37.650000,120.350000,1
+,CNLMN,Longmen,Longmen,GX,1-------,RL,1401,,,,,,1
+,CNLOA,Longnan,Longnan,JX,--3-----,RL,1401,,2454N 11447E,,24.900000,114.783333,0
+,CNLPP,Longping Pt,Longping Pt,HB,1-------,RL,1401,,,,,,1
+,CNLGW,Longwu,Longwu,SH,1-------,AS,1601,,,,,,1
+,CNLYF,Longyan,Longyan,FJ,-----6--,AS,1407,,,,,,0
+,CNLGY,Longyan Pt,Longyan Pt,SD,1-------,AS,1407,,3726N 12238E,,37.433333,122.633333,1
+,CNLYO,Longyao,Longyao,HE,--3-----,RL,1401,,3721N 11446E,,37.350000,114.766667,0
+,CNLOZ,Longzhou,Longzhou,GX,1-------,RL,1401,,,,,,1
+,CNLDI,Loudi,Loudi,HN,--3-----,AA,2201,,2742N 11201E,,27.700000,112.016667,0
+,CNLOS,Loushan,Loushan,SD,-2------,RL,1401,,,,,,0
+,CNLUN,Lu'an,Lu'an,AH,1-3-----,RL,0607,,3144N 11629E,,31.733333,116.483333,1
+,CNLJK,Luanjiakou,Luanjiakou,SD,1-------,RL,1401,,,,,,1
+,CNUBU,Lubu,Lubu,GD,1-------,RL,1401,,,,,,1
+,CNLCP,Lucheng Pt,Lucheng Pt,HB,1-------,RL,1401,,,,,,1
+,CNLFN,Lufeng,Lufeng,GD,1-3-----,RL,0601,,2257N 11538E,,22.950000,115.633333,1
+,CNLUH,Lü-hua Shan,Lu-hua Shan,ZJ,1-------,RL,0401,,3049N 12237E,,30.816667,122.616667,1
+,CNLNN,Lunan,Lunan,AH,1-------,RL,1401,,,,,,1
+,CNLJO,Lunjiao,Lunjiao,GD,--3-----,RL,1401,,2252N 11312E,,22.866667,113.200000,0
+,CNLUB,Luobei,Luobei,HL,1-------,AS,1601,,4734N 13049E,,47.566667,130.816667,1
+,CNLCW,Luochongwei,Luochongwei,GD,--3-----,RL,1401,,,,,,0
+,CNLCN,Luocun,Luocun,GD,--3-----,RL,0607,,2303N 11302E,,23.050000,113.033333,0
+,CNLUO,Luoding,Luoding,GD,--3-----,RL,1401,,,,,,0
+,CNLUG,Luogang,Luogang,GD,--3-----,RL,1401,,,,,,0
+,CNLHE,Luohe,Luohe,HA,-----6--,AS,1601,,,,,,0
+,CNLOH,Luohuang,Luohuang,CQ,1-------,RL,1401,,,,,,1
+,CNLJT,Luojingtan,Luojingtan,HB,1-------,RL,1401,,,,,,1
+,CNLHN,Luoniushan,Luoniushan,HI,--3-----,RL,1401,,1954N 11033E,,19.900000,110.550000,0
+,CNLQI,Luoqi,Luoqi,CQ,1-------,RL,1401,,,,,,1
+,CNLUX,Luoxi,Luoxi,44,--3-----,RL,0901,,2303N 11317E,,23.050000,113.283333,0
+,CNLYA,Luoyang,Luoyang,HA,-234----,AS,2107,,,,,,0
+,CNLYZ,Luoyang Railway Station,Luoyang Railway Station,HA,-2------,AS,1601,,,,,,0
+,CNJLY,Luoyuanwan,Luoyuanwan,FJ,-----6--,RL,1401,,2625N 11942E,,26.416667,119.700000,0
+,CNLQU,Luquan,Luquan,13,--3-----,RL,0901,,3804N 11417E,,38.066667,114.283333,0
+,CNLSH,Lushun New Pt,Lushun New Pt,LN,1-------,AS,1407,,3841N 12111E,,38.683333,121.183333,1
+,CNLUS,Lusi,Lusi,JS,1-------,AS,1601,,3203N 12137E,,32.050000,121.616667,1
+,CNLWN,Luwan,Luwan,SH,--3--6--,RL,1401,,,,,,0
+,CNLXP,Luxikou Pt,Luxikou Pt,HB,1-------,RL,1401,,,,,,1
+,CNLZI,Luzhai,Luzhai,GX,1-------,RL,1401,,,,,,1
+,CNLUZ,Luzhou,Luzhou,SC,1-------,AS,1601,,2854N 10524E,,28.900000,105.400000,1
+,CNMAA,Ma'anshan,Ma'anshan,AH,123-----,AS,2107,,3143N 11828E,,31.716667,118.466667,1
+,CNMBI,Mabian Island,Mabian Island,GD,1-------,RQ,1007,,2267N 11465E,,23.116667,115.083333,1
+,CNMCH,Machong,Machong,GD,--3-----,RL,0307,,2302N 11334E,,23.033333,113.566667,0
+,CNMAC,Macun,Macun,HI,1-------,AS,1401,,1957N 11001E,,19.950000,110.016667,1
+,CNSHM,Mafang,Mafang,GD,1-------,AS,1407,,2321N 11241E,,23.350000,112.683333,1
+,CNMJS,Maji Shan,Maji Shan,ZJ,1-------,RL,0407,,3040N 12224E,,30.666667,122.400000,1
+,CNMJD,Majiadian,Majiadian,HB,1-------,RL,1401,,,,,,1
+,CNMAJ,Majistan/Zhoushan,Majistan/Zhoushan,ZJ,1-------,RQ,0407,,3001N 12206E,,30.016667,122.100000,1
+,CNMAN,Manas,Manas,XJ,--3--6--,RL,0901,,4418N 08613E,,44.300000,86.216667,0
+,CNMDL,Mandula,Mandula,NM,--3-----,AS,1407,,,,,,0
+,CNMLX,Manzhouli,Manzhouli,NM,-23-----,AS,1401,,4935N 11723E,,49.583333,117.383333,0
+,CNNZH,Manzhouli Xijiao Apt,Manzhouli Xijiao Apt,NM,---4----,AS,1601,,,,,,0
+,CNMOG,Maogang,Maogang,GD,1-3-----,RQ,1001,,2303N 11244E,,23.050000,112.733333,1
+,CNMLG,Maoling,Maoling,GX,1-------,RL,1401,,,,,,1
+,CNMMI,Maoming,Maoming,GD,-23-----,RL,1401,,,,,,0
+,CNMPP,Maoping Pt,Maoping Pt,HB,1-------,RL,1401,,,,,,1
+,CNMSP,Maoshan Pt,Maoshan Pt,HB,1-------,RL,1401,,,,,,1
+,CNMTZ,Matouzhen,Matouzhen,JX,1-------,RL,1401,,,,,,1
+,CNMWN,Mawan Pt,Mawan Pt,GD,1-------,AS,1407,,2227N 11353E,,22.450000,113.883333,1
+,CNMAW,Mawei Pt,Mawei Pt,FJ,1-------,AS,1407,,2559N 11927E,,25.983333,119.450000,1
+,CNMAY,Mayong,Mayong,GD,1-------,AS,1401,,,,,,1
+,CNMZS,Mazongshan,Mazongshan,GS,--3-----,AS,1601,,4132N 09708E,,41.533333,97.133333,0
+,CNMCI,MCID - Private Terminal,MCID - Private Terminal,,--3-----,RQ,0901,,2302N 11331E,,23.033333,113.516667,0
+,CNMIO,Meiao,Meiao,ZJ,1-------,RL,1401,,,,,,1
+,CNMGG,Meigeng,Meigeng,AH,1-------,RL,1401,,,,,,1
+,CNMLI,Meilin,Meilin,FJ,1-------,AS,1401,,,,,,1
+,CNMSA,Meisha Pt,Meisha Pt,GD,1-------,AS,1601,,2442N 11704E,,24.700000,117.066667,1
+,CNMSN,Meishan,Meishan,ZJ,1-------,AS,1407,,,,,,1
+,CNMSG,Meishan Pt,Meishan Pt,ZJ,1-------,AS,1407,,,,,,1
+,CNEIX,Meixian,Meixian,61,--3-----,RL,0901,,3416N 10744E,,34.266667,107.733333,0
+,CNMXZ,Meixian Changgangji Apt,Meixian Changgangji Apt,GD,---4----,AS,1407,,,,,,0
+,CNMEZ,Meizhou,Meizhou,GD,--34----,RL,1401,,,,,,0
+,CNMZW,Meizhouwan,Meizhouwan,FJ,1-------,RL,1401,,,,,,1
+,CNMCX,Mengcheng,Mengcheng,AH,-23-----,RL,1401,,3316N 11633E,,33.266667,116.550000,0
+,CNMDN,Mengding,Mengding,YN,--3-----,AS,1601,,2333N 09905E,,23.550000,99.083333,0
+,CNMLN,Menglian,Menglian,YN,--3-----,AS,1601,,2220N 09943E,,22.333333,99.716667,0
+,CNMEN,Mengshan,Mengshan,GX,--3-----,RQ,1001,,2412N 11031E,,24.200000,110.516667,0
+,CNMYG,Mianyang,Mianyang,SC,-----6--,AS,1601,,3130N 10442E,,31.500000,104.700000,0
+,CNMIG,Mianyang Nanjiao Apt,Mianyang Nanjiao Apt,SC,---4----,RL,1401,,,,,,0
+,CNMSW,Miaoshanwei,Miaoshanwei,JS,--3-----,RL,0607,,3406N 11739E,,34.100000,117.650000,0
+,CNMOT,Miaotou,Miaotou,GD,1-------,AS,1401,,,,,,1
+,CNMDU,Midu,Midu,YN,--3-----,RL,0607,,2521N 10029E,,25.350000,100.483333,0
+,CNMGX,Mingxi,Mingxi,35,--3-----,RL,0901,,2614N 11737E,,26.233333,117.616667,0
+,CNMNG,Minhang,Minhang,31,--3-----,RL,0901,,3100N 12124E,,31.000000,121.400000,0
+,CNMHG,Minxing,Minxing,SH,1-3--6--,RL,1401,,,,,,1
+,CNMIS,Mishan,Mishan,HL,--3-----,AS,1601,,4532N 13150E,,45.533333,131.833333,0
+,CNMIY,Miyun,Miyun,11,1----6--,RL,0901,,4022N 11650E,,40.366667,116.833333,1
+,CNMHN,Mohan,Mohan,YN,--3-----,AS,9506,,,,,,0
+,CNMOH,Mohe,Mohe,HL,1-------,AS,1601,,5301N 12227E,,53.016667,122.450000,1
+,CNLPG,Mouping,Mouping,SD,1-------,RL,1401,,,,,,1
+,CNMYM,Moupingyangmadao,Moupingyangmadao,SD,1-------,RL,1401,,,,,,1
+,CNMDG,Mudanjiang,Mudanjiang,HL,-234----,AS,2107,,,,,,0
+,CNMUG,Mugang,Mugang,GD,--3-----,RL,1401,,2304N 11224E,,23.066667,112.400000,0
+,CNMZT,Muzhaerte,Muzhaerte,XJ,--3-----,AS,1401,,,,,,0
+,CNMZU,Muzhou,Muzhou,GD,1-------,RL,1401,,,,,,1
+,CNGYN,Nanan,Nanan,GD,1-------,AS,1601,,,,,,1
+,CNNAS,Nan'an,Nan'an,FJ,-23-----,RL,2207,,,,,,0
+,CNNNN,Nan'an,Nan'an,CQ,--3-----,RQ,1401,,2932N 10635E,,29.533333,106.583333,0
+,CNNAN,Nanao Pt,Nanao Pt,GD,1-------,AS,1407,,2326N 11741E,,23.433333,117.683333,1
+,CNNBA,Nanbian,Nanbian,GD,--3-----,RL,0607,,2317N 11253E,,23.283333,112.883333,0
+,CNNCH,Nanchang,Nanchang,JX,---45---,AS,1401,,2840N 11555E,,28.666667,115.916667,0
+,CNKHN,Nanchang Changbei International Apt,Nanchang Changbei International Apt,JX,---4----,AS,1601,,,,,,0
+,CNNCO,Nanchong,Nanchong,SC,-----6--,AS,1407,,,,,,0
+,CNNDN,Nanding,Nanding,SD,-2------,RL,1401,,,,,,0
+,CNNAD,Nandu,Nandu,GX,1-------,RL,1401,,,,,,1
+,CNNAF,Nanfeng,Nanfeng,36,--3-----,RL,0901,,2455N 11506E,,24.916667,115.100000,0
+,CNNGG,Nangang,Nangang,GD,--3-----,RQ,9705,,,,,,0
+,CNNAH,Nanhai Pt,Nanhai Pt,GD,1-------,AS,1407,,2301N 11309E,,23.016667,113.150000,1
+,CNNNH,Nanhui,Nanhui,SH,-----6--,AS,1401,,3103N 12145E,,31.050000,121.750000,0
+,CNNJK,Nanjiangkou,Nanjiangkou,GD,1-------,AS,1401,,2307N 11148E,,23.116667,111.800000,1
+,CNNJI,Nanjing,Nanjing,JS,1--45---,AS,1401,,3203N 11846E,,32.050000,118.766667,1
+,CNNKG,Nanjing Lukou International Apt,Nanjing Lukou International Apt,JS,---4----,AS,1601,,,,,,0
+,CNNJG,Nanjing Pt,Nanjing Pt,JS,1-------,AS,1601,,,,,,1
+,CNNLG,Nanling,Nanling,AH,--3-----,RL,0607,,3055N 11819E,,30.916667,118.316667,0
+,CNNIN,Nanning,Nanning,GX,1-345---,AS,1601,,2248N 10819E,,22.800000,108.316667,1
+,CNNIG,Nanning Pt,Nanning Pt,GX,1-------,AS,1601,,,,,,1
+,CNNNG,Nanning Wuxu International Apt,Nanning Wuxu International Apt,GX,---4----,AS,1601,,,,,,0
+,CNANI,Nanpi,Nanpi,13,--3-----,RL,0901,,3802N 11642E,,38.033333,116.700000,0
+,CNNAP,Nanping,Nanping,JL,--3-----,AS,1401,,4216N 12911E,,42.266667,129.183333,0
+,CNNPS,Nanping,Nanping,FJ,-23-----,AS,1407,,2213N 11329E,,22.216667,113.483333,0
+,CNNQO,Nanqiao,Nanqiao,SH,--3-----,RL,1401,,,,,,0
+,CNNSN,Nansan,Nansan,YN,--3-----,AS,1401,,,,,,0
+,CNNSA,Nansha Pt,Nansha Pt,GD,1-------,AS,1407,,2245N 11335E,,22.750000,113.583333,1
+,CNNSH,Nanshan,Nanshan,GD,--3-----,RL,1401,,2232N 11356E,,22.533333,113.933333,0
+,CNNTG,Nantong,Nantong,JS,1234----,AS,2107,,3201N 12051E,,32.016667,120.850000,1
+,CNNTU,Nantou,Nantou,GD,--3-----,RL,1401,,,,,,0
+,CNNWI,Nanwei,Nanwei,GD,--3-----,RL,0907,,2132N 11021E,,21.533333,110.350000,0
+,CNNNX,Nanxi,Nanxi,SC,1-------,RL,1401,,,,,,1
+,CNNXI,Nanxiang,Nanxiang,GX,1-------,RL,1401,,,,,,1
+,CNNYA,Nanyang,Nanyang,HA,-----6--,AS,1401,,3300N 11232E,,33.000000,112.533333,0
+,CNNYG,Nanyang,Nanyang,32,--3-----,RL,0901,,3505N 11640E,,35.083333,116.666667,0
+,CNNAY,Nanyuan,Nanyuan,BJ,---4----,RL,1401,,4015N 11630E,,40.250000,116.500000,0
+,CNNZU,Nanzhuang,Nanzhuang,HE,--3-----,RL,0607,,3824N 11539E,,38.400000,115.650000,0
+,CNNZA,Nanzhuang,Nanzhuang,HA,--3-----,RL,0607,,3454N 11253E,,34.900000,112.883333,0
+,CNZNZ,Naozhou,Naozhou,GD,1-------,AS,1407,,2055N 11035E,,20.916667,110.583333,1
+,CNNAT,Natong,Natong,GX,--3-----,RL,0607,,2303N 10751E,,23.050000,107.850000,0
+,CNNWA,Nawan,Nawan,GX,--3-----,RQ,0907,,2303N 10553E,,23.050000,105.883333,0
+,CNNEG,Neigang,Neigang,GD,1-------,RQ,0507,,2306N 11325E,,23.100000,113.416667,1
+,CNNSY,Nianshanyapojiao,Nianshanyapojiao,GD,1-------,AS,1401,,,,,,1
+,CNNZG,Nianzigou,Nianzigou,XJ,--3-----,AS,1407,,,,,,0
+,CNNCA,Nicha,Nicha,AH,1-------,RL,1401,,,,,,1
+,CNNIA,Ning'an,Ning'an,HL,-23-----,RL,0607,,4420N 12928E,,44.333333,129.466667,0
+,CNNBO,Ningbo,Ningbo,ZJ,12-4----,AS,2007,,2952N 12133E,,29.866667,121.550000,1
+,CNNGB,Ningbo Lishe International Apt,Ningbo Lishe International Apt,ZJ,---4----,AS,1601,,,,,,0
+,CNNBG,Ningbo Pt,Ningbo Pt,ZJ,1-------,AS,1401,,2955N 12140E,,29.916667,121.666667,1
+,CNNDE,Ningde,Ningde,FJ,1-------,RL,1401,,,,,,1
+,CNNGU,Ningguo,Ningguo,41,--3-----,RL,0901,,3590N 11310E,,36.500000,113.166667,0
+,CNNHE,Ninghe,Ninghe,12,--3-----,RL,0901,,3927N 11745E,,39.450000,117.750000,0
+,CNNMI,Ningming,Ningming,GX,1-------,RL,1401,,,,,,1
+,CNNGW,Ningwu,Ningwu,SX,--3-----,RQ,1001,,3908N 11218E,,39.133333,112.300000,0
+,CNNKL,Niuguling,Niuguling,GD,1-------,AS,1401,,,,,,1
+,CNNTN,Niutoushan,Niutoushan,AH,1-------,RL,1401,,,,,,1
+,CNNUD,Nudao,Nudao,SD,1-------,AS,1401,,3623N 12052E,,36.383333,120.866667,1
+,CNLZY,Nyingchi,Nyingchi,XZ,-234----,RL,2107,,,,,,0
+,CNORD,Ordos,Ordos,NM,-----6--,AS,1407,,,,,,0
+,CNPZO,Paizhou,Paizhou,HB,1-------,RL,1401,,,,,,1
+,CNPAJ,Panjin,Panjin,LN,1-------,AS,1401,,4107N 12203E,,41.116667,122.050000,1
+,CNPNT,Pantang,Pantang,HB,1-------,RL,1401,,,,,,1
+,CNPYU,Panyu,Panyu,GD,--3-----,RL,1401,,,,,,0
+,CNPZI,Panzhihua,Panzhihua,SC,-234----,RL,2107,,,,,,0
+,CNPZH,Panzhihuazhan,Panzhihuazhan,SC,-2------,AS,1601,,2634N 10143E,,26.566667,101.716667,0
+=,CN,Peking = Beijing,Peking = Beijing,,,,,,,,,,0
+,CNPLI,Penglai Pt,Penglai Pt,SD,1-------,AS,1407,,3748N 12045E,,37.800000,120.750000,1
+,CNPZE,Pengze,Pengze,JX,1-------,RL,1401,,,,,,1
+,CNPMA,Pianma,Pianma,YN,--3-----,AS,1401,,2601N 09837E,,26.016667,98.616667,0
+,CNPKO,Pikou,Pikou,LN,1-------,RL,1401,,,,,,1
+,CNPND,Pingdi,Pingdi,GZ,--3-----,RL,0001,,,,,,0
+¦,CNPDE,Pingdingshan,Pingdingshan,HA,-2------,RL,2407,,3344N 11318E,,33.733333,113.300000,0
+,CNPDU,Pingdu,Pingdu,37,-----6--,RL,0901,,3647N 11659E,,36.783333,116.983333,0
+,CNPIG,Pinggu,Pinggu,BJ,-----6--,AS,1601,,4008N 11707E,,40.133333,117.116667,0
+,CNPII,Pinghai,Pinghai,GD,--3-----,RL,0207,,2236N 11451E,,22.600000,114.850000,0
+,CNPHU,Pinghu,Pinghu,GD,--3-----,RL,0105,,,,,,0
+,CNPNH,Pinghu,Pinghu,GZ,--3-----,RL,0001,,,,,,0
+,CNPNU,Pinghu,Pinghu,ZJ,--3--6--,RL,0501,,3042N 12100E,,30.700000,121.000000,0
+,CNPHN,Pinghu'Nan,Pinghu'Nan,GD,-2------,RL,1401,,,,,,0
+,CNPIL,Pingle,Pingle,GX,1-------,RL,1401,,,,,,1
+,CNPGM,Pingmeng,Pingmeng,GX,--3-----,AS,1401,,,,,,0
+,CNPGN,Pingnan,Pingnan,GX,1-------,RL,1401,,,,,,1
+,CNPSH,Pingsha,Pingsha,GD,1-------,RL,1401,,,,,,1
+,CNPNS,Pingshan,Pingshan,GD,--3-----,RL,0001,,,,,,0
+,CNPXM,Pingshaxinmatou,Pingshaxinmatou,GD,1-------,AS,1401,,2206N 11310E,,22.100000,113.166667,1
+,CNPIS,Pingshi,Pingshi,GD,-2------,RL,1401,,,,,,0
+,CNPTN,Pingtan,Pingtan,FJ,123-----,AA,2301,,2530N 11943E,,25.500000,119.716667,1
+,CNPIN,Pingxiang Railway Station,Pingxiang Railway Station,GX,-2------,AS,1601,,2207N 10644E,,22.116667,106.733333,0
+,CNPGZ,Pingzhou,Pingzhou,GD,1-------,AS,1401,,2302N 11312E,,23.033333,113.200000,1
+¦,CNPJS,Pizhou,Pizhou,JS,1-------,RL,2407,,3420N 11801E,,34.333333,118.016667,1
+,CNPOJ,Poji,Poji,GD,--3-----,RL,0907,,2145N 11016E,,21.750000,110.266667,0
+,CNPJO,Pojiao,Pojiao,GZ,1-------,RL,1401,,,,,,1
+=,CN,Port Arthur = Lushun New Pt,Port Arthur = Lushun New Pt,,,,,,,,,,0
+,CNPCH,Pucheng,Pucheng,35,--3-----,RL,0901,,2544N 11848E,,25.733333,118.800000,0
+,CNPDG,Pudong/Shanghai,Pudong/Shanghai,SH,1-3-----,RL,0607,,3114N 12130E,,31.233333,121.500000,1
+,CNPDX,Pudongxinqu Pt,Pudongxinqu Pt,SH,1-------,RL,1401,,,,,,1
+,CNPNG,Puning,Puning,GD,-----6--,RL,1701,,2318N 11610E,,23.300000,116.166667,0
+,CNPQI,Puqi,Puqi,ZJ,1-------,RL,1401,,,,,,1
+,CNPQA,Puqian,Puqian,HI,1-------,RL,1401,,,,,,1
+,CNPUT,Putian,Putian,FJ,1----6--,AS,1601,,2426N 11901E,,24.433333,119.016667,1
+,CNPXI,Puxi,Puxi,ZJ,1-------,RL,1401,,,,,,1
+,CNPYG,Puyang,Puyang,41,123--6--,RL,0901,,3542N 11500E,,35.700000,115.000000,1
+,CNQDO,Qiandong,Qiandong,44,--3-----,RL,0901,,2339N 11654E,,23.650000,116.900000,0
+,CNQJO,Qiangjiao,Qiangjiao,ZJ,1-------,RL,1401,,,,,,1
+,CNQHW,Qianhaiwan Pt,Qianhaiwan Pt,GD,0-------,AS,1601,,2232N 11354E,,22.533333,113.900000,0
+,CNQSN,Qianshan/Zhuhai,Qianshan/Zhuhai,GD,1-3--6--,RL,1401,,2214N 11331E,,22.233333,113.516667,1
+,CNQAW,Qianwan,Qianwan,SD,1-3-----,RL,0401,,3603N 12013E,,36.050000,120.216667,1
+,CNQIA,Qianxi,Qianxi,HE,--3-----,RL,9901,,,,,,0
+,CNQNX,Qianxian,Qianxian,61,--3-----,RL,0901,,3431N 10813E,,34.516667,108.216667,0
+,CNLJQ,Qianyu,Qianyu,FJ,1-------,AS,1407,,2612N 11931E,,26.200000,119.516667,1
+,CNQIE,Qiaoshe,Qiaoshe,GD,--3-----,RL,1401,,,,,,0
+,CNQTU,Qiaotou,Qiaotou,QH,-23-----,RL,0607,,3656N 10142E,,36.933333,101.700000,0
+,CNQXU,Qiaoxu,Qiaoxu,45,--3-----,RL,0901,,2305N 10936E,,23.083333,109.600000,0
+,CNQID,Qidong,Qidong,JS,-23-----,AS,2107,,3148N 12139E,,31.800000,121.650000,0
+,CNIQM,Qiemo Apt,Qiemo Apt,XJ,---4----,RL,1401,,,,,,0
+,CNQIH,Qihe,Qihe,37,--3-----,RL,0901,,3642N 11647E,,36.700000,116.783333,0
+,CNQKE,Qike,Qike,HL,1-------,RL,1401,,,,,,1
+,CNQMN,Qimen,Qimen,ZJ,1-------,RL,1401,,,,,,1
+,CNQDL,Qindeli,Qindeli,HL,1-------,RL,1401,,,,,,1
+,CNQIN,Qingdao,Qingdao,SD,12-45---,AS,2007,,3603N 12019E,,36.050000,120.316667,1
+,CNTAO,Qingdao Jiaodong International Apt,Qingdao Jiaodong International Apt,SD,---4----,AS,2201,,,,,,0
+,CNQDG,Qingdao Pt,Qingdao Pt,SD,1-------,AS,1601,,,,,,1
+,CNQGG,Qingge,Qingge,HI,1-------,RL,1401,,,,,,1
+,CNQIG,Qingguji / Shangqiu,Qingguji / Shangqiu,41,1----6--,RL,0901,,3441N 11546E,,34.683333,115.766667,1
+,CNQHE,Qinghe,Qinghe,HL,1-------,RL,1401,,,,,,1
+,CNQJI,Qingjiang,Qingjiang,ZJ,1-------,RL,1401,,,,,,1
+,CNQLN,Qinglan Pt,Qinglan Pt,HI,1-------,AS,1407,,1933N 11049E,,19.550000,110.816667,1
+,CNQLU,Qingliu,Qingliu,35,--3-----,RQ,0901,,2614N 11737E,,26.233333,117.616667,0
+,CNQGP,Qingpu,Qingpu,SH,-----6--,AS,1401,,2553N 11923E,,25.883333,119.383333,0
+,CNQGS,Qingshi,Qingshi,JL,1-------,AS,1401,,4122N 12631E,,41.366667,126.516667,1
+,CNQSE,Qingshuihe/Shenzhen,Qingshuihe/Shenzhen,GD,1----6--,RQ,1401,,,,,,1
+,CNQXI,Qingxi,Qingxi,GD,--3-----,,1907,,2251N 11409E,,22.850000,114.150000,0
+,CNQIX,Qingxian,Qingxian,13,--3-----,RL,0901,,3835N 11648E,,38.583333,116.800000,0
+,CNQYA,Qingyang,Qingyang,JS,1-------,RL,1401,,,,,,1
+,CNIQN,Qingyang Xifengzhen Apt,Qingyang Xifengzhen Apt,GS,---4----,RL,1401,,,,,,0
+,CNQGY,Qingyuan,Qingyuan,GD,1-------,AS,1401,,2342N 11301E,,23.700000,113.016667,1
+,CNQGZ,Qingzhou,Qingzhou,SD,-2------,RL,1401,,,,,,0
+,CNQOU,Qingzhou,Qingzhou,35,--3-----,RL,0901,,2632N 11758E,,26.533333,117.966667,0
+,CNSHP,Qinhuangdao Pt,Qinhuangdao Pt,HE,1-------,AS,1601,,3955N 11935E,,39.916667,119.583333,1
+,CNQJG,Qinjiang,Qinjiang,GX,1-------,RL,1401,,,,,,1
+,CNQZH,Qinzhou,Qinzhou,GX,123-----,AS,2107,,,,,,1
+,CNSAJ,Qinzhoushajing,Qinzhoushajing,GX,1-------,RL,1401,,,,,,1
+,CNQHA,Qionghai,Qionghai,HI,--3-----,RL,1401,,1912N 11024E,,19.200000,110.400000,0
+,CNQZG,Qiongzhong,Qiongzhong,HI,--3-----,RL,1401,,2000N 11020E,,20.000000,110.333333,0
+,CNNDG,Qiqihar,Qiqihar,HL,-234----,AS,2107,,,,,,0
+,CNQSA,Qisha Pt,Qisha Pt,GX,1-------,AS,1407,,2135N 10828E,,21.583333,108.466667,1
+,CNQXT,Qixingtai,Qixingtai,HB,1-------,RL,1401,,,,,,1
+,CNQZO,Qizhou,Qizhou,HB,1-------,RL,1401,,,,,,1
+,CNTCG,Qoqek Apt,Qoqek Apt,XJ,---4----,AS,1401,,,,,,0
+,CNQUG,"Quangang,Quanzhou","Quangang,Quanzhou",FJ,123--6--,,2307,,2508N 11855E,,25.133333,118.916667,1
+,CNQUH,Quanhe,Quanhe,JL,--3-----,AS,1601,,,,,,0
+,CNQUJ,Quanjiao,Quanjiao,AH,-----6--,RL,1107,,3202N 11804E,,32.033333,118.066667,0
+,CNQYG,Quanyang,Quanyang,JL,-23-----,RL,0607,,4221N 12733E,,42.350000,127.550000,0
+,CNQZL,Quanzhou,Quanzhou,FJ,1-------,AS,1401,,2456N 11836E,,24.933333,118.600000,1
+,CNJJN,Quanzhou Jinjiang Apt,Quanzhou Jinjiang Apt,FJ,---4----,AS,1407,,2449N 11834E,,24.816667,118.566667,0
+,CNQUF,Qufu,Qufu,SD,-23--6--,RL,1401,,,,,,0
+¦,CNQUI,Qujing,Qujing,YN,-23-56--,AS,2407,,2529N 10347E,,25.483333,103.783333,0
+,CNQKU,Qukou,Qukou,HI,1-------,RL,1401,,,,,,1
+,CNJDR,Quxi,Quxi,GD,1-------,AS,1407,,2335N 11626E,,23.583333,116.433333,1
+,CNQUY,Quyang,Quyang,13,--3-----,RL,0901,,3937N 11443E,,39.616667,114.716667,0
+,CNQZS,Quzhou,Quzhou,ZJ,-----6--,AS,1407,,,,,,0
+,CNROH,Raohe,Raohe,HL,1-------,AS,1601,,4648N 13400E,,46.800000,134.000000,1
+,CNRPG,Raoping,Raoping,GD,1-3-----,RL,0401,,2340N 11700E,,23.666667,117.000000,1
+,CNRNH,Renhe,Renhe,CQ,--3-----,RL,0607,,2938N 10632E,,29.633333,106.533333,0
+,CNRKZ,Rikaze,Rikaze,XZ,--3-----,RL,1401,,,,,,0
+,CNRIW,Riwo,Riwo,XZ,--3-----,AS,1601,,,,,,0
+,CNRZH,Rizhao,Rizhao,SD,123-----,AS,2107,,3523N 11932E,,35.383333,119.533333,1
+,CNRGA,Rong'an,Rong'an,GX,1-------,RL,1401,,,,,,1
+,CNRNG,Rongcheng,Rongcheng,HE,--3-----,RL,1401,,,,,,0
+,CNRCG,Rongcheng,Rongcheng,SD,1-3-----,RL,1401,,3709N 12223E,,37.150000,122.383333,1
+,CNRCH,Rongcheng,Rongcheng,HB,1-------,RL,1401,,,,,,1
+,CNRGC,Rongcheng,Rongcheng,GD,1-------,AS,1401,,,,,,1
+,CNRJG,Rongjiang,Rongjiang,GZ,1-------,RL,1401,,,,,,1
+,CNROQ,Rongqi Pt,Rongqi Pt,GD,1-------,AS,1601,,2247N 11316E,,22.783333,113.266667,1
+,CNRSI,Rongshui,Rongshui,GX,1-------,RL,1401,,,,,,1
+,CNRXN,Rongxian,Rongxian,FJ,--3-----,RL,1401,,2705N 11926E,,27.083333,119.433333,0
+,CNRDO,Rudong,Rudong,32,--3-----,RQ,0901,,3126N 11929E,,31.433333,119.483333,0
+,CNRUD,Rudong,Rudong,44,--3-----,RL,0901,,2136N 11126E,,21.600000,111.433333,0
+,CNRUG,Rugao,Rugao,JS,123-----,AS,2107,,,,,,1
+,CNRIA,Ruian,Ruian,ZJ,1----6--,RL,1401,,,,,,1
+,CNRAG,Ruichang,Ruichang,JX,1-------,RL,1401,,,,,,1
+,CNRUC,Ruicheng,Ruicheng,14,--3-----,RL,0901,,3441N 11040E,,34.683333,110.666667,0
+,CNRUJ,Ruijin,Ruijin,36,--3-----,RL,0901,,2548N 11600E,,25.800000,116.000000,0
+,CNRUI,Ruili,Ruili,YN,--3---7-,AS,1601,,2400N 09750E,,24.000000,97.833333,0
+,CNRJN,Runjiang,Runjiang,JS,1-------,RL,1401,,,,,,1
+,CNWHR,Rushan,Rushan,SD,1-------,AS,1407,,,,,,1
+,CNRSN,Rushankou,Rushankou,SD,1-------,RL,1401,,,,,,1
+,CNSIQ,Saiqi,Saiqi,FJ,1-------,AS,1401,,2658N 11941E,,26.966667,119.683333,1
+,CNSBM,Sanbaimen,Sanbaimen,,1-------,AS,1601,,,,,,1
+,CNSAU,Sanbu,Sanbu,GS,--3-----,RL,0207,,3834N 10046E,,38.566667,100.766667,0
+,CNSBU,Sanbu Pt,Sanbu Pt,GD,1-------,AS,1601,,,,,,1
+,CNSDP,Sandouping,Sandouping,HB,1-------,RL,1401,,,,,,1
+,CNANH,Sanhe,Sanhe,GD,--3-----,RL,1401,,2112N 10951E,,21.200000,109.850000,0
+,CNSAH,Sanhe,Sanhe,JL,--3-----,AS,1401,,4228N 12943E,,42.466667,129.716667,0
+,CNSAA,Sanhua,Sanhua,HB,1-------,RL,1401,,,,,,1
+,CNSIG,Sanjiang,Sanjiang,JS,1-------,RL,1401,,,,,,1
+,CNPTS,Sanjiangkou,Sanjiangkou,FJ,1-------,AS,1407,,,,,,1
+,CNSNP,Sanmenpo,Sanmenpo,46,--3-----,RL,0901,,1943N 11033E,,19.716667,110.550000,0
+,CNSMX,Sanmenxia,Sanmenxia,HA,--3-----,RL,2107,,3403N 11114E,,34.050000,111.233333,0
+,CNSMS,Sanming,Sanming,FJ,-----6--,AS,1407,,,,,,0
+,CNSAM,Sanming / Shanming Shi,Sanming / Shanming Shi,35,1----6--,RL,0901,,2614N 11737E,,26.233333,117.616667,1
+,CNSRG,Sanrong,Sanrong,GD,1----6--,RQ,0407,,,,,,1
+,CNSNS,Sansha,Sansha,FJ,1-------,AS,1601,,2656N 12013E,,26.933333,120.216667,1
+,CNNHS,Sanshan pt,Sanshan pt,GD,1-------,AS,1407,,,,,,1
+,CNSNU,Sanshu,Sanshu,JS,--3-----,RL,0607,,3338N 11851E,,33.633333,118.850000,0
+,CNSJQ,Sanshui,Sanshui,GD,1-------,AS,1601,,2310N 11252E,,23.166667,112.866667,1
+,CNSYX,Sanya,Sanya,HI,-234----,AS,2107,,,,,,0
+,CNSYA,Sanya Pt,Sanya Pt,HI,1-------,AS,1601,,3347N 12015E,,33.783333,120.250000,1
+,CNSNA,Sanyang,Sanyang,JS,1-------,RL,1401,,,,,,1
+,CNSNL,Sanyuanli/Guangzhou,Sanyuanli/Guangzhou,GD,-23-----,RL,0607,,2309N 11315E,,23.150000,113.250000,0
+,CNSZA,Sanzao,Sanzao,GD,1-3-----,RL,1401,,2203N 11321E,,22.050000,113.350000,1
+,CNSZO,Sanzhou,Sanzhou,HB,1-------,RL,1401,,,,,,1
+,CNKJC,Science City,Science City,44,--3-----,RQ,0901,,2306N 11327E,,23.100000,113.450000,0
+,CNNDS,Shacheng,Shacheng,FJ,1-------,AS,1407,,2639N 11931E,,26.650000,119.516667,1
+,CNSAT,Shadi,Shadi,GD,1-------,AS,1401,,2136N 11247E,,21.600000,112.783333,1
+,CNSDU,Shadui,Shadui,GD,--3--6--,RL,0507,,2218N 11308E,,22.300000,113.133333,0
+,CNSAE,Shahe,Shahe,BJ,-23-----,RL,0607,,4007N 11616E,,40.116667,116.266667,0
+,CNSEZ,Shahezi,Shahezi,HL,1-------,RL,1401,,,,,,1
+,CNSHO,Shajiao,Shajiao,GD,1-------,RL,9901,,,,,,1
+,CNSHJ,Shajing,Shajing,GD,--3-----,RL,9805,,,,,,0
+,CNSAL,Shalingzhuang,Shalingzhuang,SD,-2------,RL,1401,,,,,,0
+,CNSAD,Shandong,Shandong,BJ,--3-----,RL,1401,,,,,,0
+,CNSGH,Shanghai,Shanghai,SH,12345---,AS,1401,,3114N 12129E,,31.233333,121.483333,1
+,CNSHA,Shanghai Hongqiao International Apt,Shanghai Hongqiao International Apt,SH,---4----,AS,1601,,,,,,0
+¦,CNSHG,Shanghai Pt,Shanghai Pt,SH,1-------,AS,2407,,3038N 12204E,,30.633333,122.066667,1
+,CNPVG,Shanghai Pudong International Apt,Shanghai Pudong International Apt,SH,---4----,AS,1401,,,,,,0
+,CNSHZ,Shanghai Railway Station,Shanghai Railway Station,SH,-23-----,AS,1601,,,,,,0
+,CNSQS,Shangqiu,Shangqiu,HA,-----6--,AS,2107,,,,,,0
+,CNSRS,Shangrao,Shangrao,JX,-----6--,AS,1407,,,,,,0
+,CNSGI,Shangsi,Shangsi,45,--3-----,RL,0901,,2147N 10823E,,21.783333,108.383333,0
+,CNSGU,Shangyu,Shangyu,ZJ,1-3--6--,RL,1401,,3000N 12052E,,30.000000,120.866667,1
+,CNSXJ,Shanshan,Shanshan,XJ,1-34----,RL,1401,,4252N 09010E,,42.866667,90.166667,1
+,CNSNI,Shanshi,Shanshi,HL,-23-----,RL,0907,,4434N 12906E,,44.566667,129.100000,0
+,CNSSI,Shanshui,Shanshui,SX,--3-----,RL,0607,,3841N 11232E,,38.683333,112.533333,0
+,CNSTG,Shantou,Shantou,GD,123-----,AS,2107,,2325N 11646E,,23.416667,116.766667,1
+,CNSAW,Shanwai,Shanwai,ZJ,1----6--,RL,1401,,2803N 12112E,,28.050000,121.200000,1
+,CNSWE,Shanwei,Shanwei,GD,123-----,AS,2107,,2247N 11521E,,22.783333,115.350000,1
+,CNHSC,Shaoguan New Pt,Shaoguan New Pt,GD,1-------,AS,1601,,2448N 11337E,,24.800000,113.616667,1
+,CNSOS,Shaoshan,Shaoshan,HN,-----6--,AS,1401,,2754N 11229E,,27.900000,112.483333,0
+,CNSWU,Shaowu,Shaowu,35,--3-----,RL,0901,,2718N 11730E,,27.300000,117.500000,0
+,CNSXG,Shaoxing,Shaoxing,ZJ,-----6--,AS,1601,,3000N 12034E,,30.000000,120.566667,0
+,CNAOY,Shaoyang,Shaoyang,43,--3-----,RL,0901,,2714N 11128E,,27.233333,111.466667,0
+,CNSPA,Shapa,Shapa,GD,1-------,AS,1401,,2130N 11129E,,21.500000,111.483333,1
+,CNSAP,Shaping,Shaping,GX,1-------,RL,1401,,,,,,1
+,CNSPB,Shapingba,Shapingba,CQ,--3-----,RL,1401,,,,,,0
+,CNSSN,Shashan,Shashan,ZJ,1-------,RL,1401,,,,,,1
+,CNSSG,Shashangang,Shashangang,44,1-3-----,RQ,0901,,,,,,1
+,CNSHS,Shashi,Shashi,HB,--3-----,RL,0201,,3019N 11214E,,30.316667,112.233333,0
+¦,CNSTI,Shatian,Shatian,GD,1-------,AS,2407,,2255N 11336E,coordinates,22.916667,113.600000,1
+,CNSHT,Shating,Shating,GD,1-3--6--,RL,0407,,2303N 11326E,,23.050000,113.433333,1
+,CNSTO,Shatou,Shatou,GD,--3-----,RL,0607,,2246N 11351E,,22.766667,113.850000,0
+,CNSTJ,Shatoujiao,Shatoujiao,GD,--3-----,AS,1401,,2233N 11413E,,22.550000,114.216667,0
+,CNSTZ,Shatuozi,Shatuozi,22,--3-----,AS,0901,,,,,,0
+,CNSWN,Shawan,Shawan,GD,--3-----,RL,9805,,,,,,0
+,CNSXN,Shaxian,Shaxian,35,--3-----,RL,0901,,2414N 11737E,,24.233333,117.616667,0
+,CNSYC,Shayuchong,Shayuchong,GD,1-------,AS,1401,,,,,,1
+,CNSHK,Shekou Pt,Shekou Pt,GD,1-------,AS,1601,,2229N 11355E,,22.483333,113.916667,1
+,CNSGD,Shengdong,Shengdong,ZJ,-----6--,RQ,1001,,3013N 12119E,,30.216667,121.316667,0
+,CNSGZ,Shengzhou,Shengzhou,ZJ,--3-----,RL,1401,,2935N 12049E,,29.583333,120.816667,0
+,CNSNH,Shenhu,Shenhu,FJ,1-------,AS,1401,,2437N 11840E,,24.616667,118.666667,1
+,CNSQN,Shenquan,Shenquan,GD,1-------,RL,1401,,,,,,1
+,CNSNW,Shenwan,Shenwan,GD,1-------,AS,1601,,,,,,1
+,CNSHY,Shenyang,Shenyang,LN,-2-45---,AS,1601,,4148N 12325E,,41.800000,123.416667,0
+,CNSHE,Shenyang Taoxian International Apt,Shenyang Taoxian International Apt,LN,---4----,AS,1601,,,,,,0
+,CNSYD,Shenyangdong Railway Station,Shenyangdong Railway Station,LN,-2------,AS,1601,,,,,,0
+,CNSNZ,Shenzhen,Shenzhen,GD,12345---,AS,1401,,2233N 11407E,,22.550000,114.116667,1
+,CNSZX,Shenzhen Baoan International Apt,Shenzhen Baoan International Apt,GD,---45---,AS,1601,,,,,,0
+¦,CNSZP,Shenzhen Pt,Shenzhen Pt,GD,1-------,RL,2407,,2230N 11353E,,22.500000,113.883333,1
+,CNSZZ,Shenzhen Railway Station,Shenzhen Railway Station,GD,-2------,AS,1601,,,,,,0
+,CNSZW,Shenzhenwan,Shenzhenwan,GD,--3-----,AS,1401,,2228N 11355E,,22.466667,113.916667,0
+,CNSEY,Sheyang,Sheyang,JS,1-------,AS,1401,,3346N 12015E,,33.766667,120.250000,1
+,CNSBH,Shibahe,Shibahe,AH,1-------,RL,1401,,,,,,1
+,CNSBL,Shibalidian,Shibalidian,BJ,--3-----,AS,1401,,3950N 11629E,,39.833333,116.483333,0
+,CNSHD,Shidao Pt,Shidao Pt,SD,1-------,AS,1407,,3652N 12226E,,36.866667,122.433333,1
+,CNSGO,Shigang'ao,Shigang'ao,GD,--3-----,RQ,1401,,2306N 11327E,,23.100000,113.450000,0
+,CNSZI,Shihezi,Shihezi,XJ,--3-----,RL,1707,,4418N 08602E,,44.300000,86.033333,0
+,CNSHU,Shihu,Shihu,FJ,--3-----,RQ,0104,,,,,,0
+,CNSJZ,Shijiazhuang,Shijiazhuang,HE,-2-45---,AS,1401,,3802N 11430E,,38.033333,114.500000,0
+,CNSJW,Shijiazhuang Zhengding International Apt,Shijiazhuang Zhengding International Apt,HE,---4----,AS,1601,,,,,,0
+,CNSJE,Shijie,Shijie,GD,--3-----,RL,0212,,2305N 11347E,,23.083333,113.783333,0
+,CNSIJ,Shijing,Shijing,FJ,1-------,AS,1401,,2437N 11826E,,24.616667,118.433333,1
+,CNSJJ,Shijingjiaoxin,Shijingjiaoxin,GD,1-------,AS,1401,,,,,,1
+,CNSJO,Shijitou,Shijitou,HB,1-------,RL,1401,,,,,,1
+=,CN,Shijiu = Rizhao,Shijiu = Rizhao,,,,,,,,,,0
+,CNSJU,Shijiu Pt,Shijiu Pt,SD,1-------,AS,1407,,3622N 11933E,,36.366667,119.550000,1
+,CNSLG,Shiliugang,Shiliugang,GD,1-------,AS,1407,,,,,,1
+,CNSLO,Shilou,Shilou,GD,1-3--6--,RL,0607,,2301N 11330E,,23.016667,113.500000,1
+,CNSLU,Shilu,Shilu,HI,--3-----,RL,1401,,,,,,0
+,CNZSM,Shima,Shima,FJ,1-------,AS,1407,,,,,,1
+,CNSPI,Shipai,Shipai,AH,1-3-----,RL,0607,,3019N 11639E,,30.316667,116.650000,1
+,CNXSP,Shipu,Shipu,ZJ,1-------,AS,1407,,2929N 12151E,,29.483333,121.850000,1
+,CNSHQ,Shiqi,Shiqi,GD,1-------,AS,1601,,,,,,1
+,CNPNY,Shiqiao,Shiqiao,GD,1-------,AS,1601,,2257N 11322E,,22.950000,113.366667,1
+,CNSQU,Shiqiao,Shiqiao,GX,--3-----,RL,0207,,2350N 11133E,,23.833333,111.550000,0
+,CNSSQ,Shiqiaopu,Shiqiaopu,HB,--3-----,RQ,1001,,3046N 11535E,,30.766667,115.583333,0
+,CNSIP,Shiqu Pt,Shiqu Pt,SH,1-------,RL,1401,,,,,,1
+,CNSQH,Shiquanhe,Shiquanhe,XZ,-----6--,AS,1407,,,,,,0
+,CNSSA,Shishan,Shishan,LN,--3-----,RL,1401,,4116N 12130E,,41.266667,121.500000,0
+,CNSHH,Shishi,Shishi,FJ,1-3-----,AS,1601,,2444N 11838E,,24.733333,118.633333,1
+x,CNSTN,Shitan,Shitan,44,--3-----,XX,2407,,2312N 11345W,,23.200000,-113.750000,0
+,CNSTB,Shitoubu Pt,Shitoubu Pt,GX,1-------,AS,1407,,2135N 10933E,,21.583333,109.550000,1
+,CNSAN,Shiwan,Shiwan,GD,1-3-----,RL,1401,,2300N 11305E,,23.000000,113.083333,1
+,CNSHN,Shiwan,Shiwan,HN,--3-----,RL,0607,,2810N 11348E,,28.166667,113.800000,0
+,CNSWI,Shiwei,Shiwei,NM,1-------,AS,1401,,5118N 11955E,,51.300000,119.916667,1
+,CNSXI,Shixing,Shixing,GD,--3-----,RL,1401,,2448N 11335E,,24.800000,113.583333,0
+,CNSYN,Shiyan,Shiyan,GD,--3-----,RL,9901,,,,,,0
+,CNSIY,Shiyan,Shiyan,HB,-234-6--,AS,2107,,3240N 11047E,,32.666667,110.783333,0
+,CNSYG,Shiyang,Shiyang,AH,1-------,RL,1401,,,,,,1
+,CNSIU,Shizhu,Shizhu,CQ,1-------,RL,1401,,,,,,1
+,CNSZS,Shizuishan,Shizuishan,NX,--3-----,AA,2301,,3859N 10622E,,38.983333,106.366667,0
+,CNSGN,Shouguang,Shouguang,37,--3-----,RL,0901,,3652N 11844E,,36.866667,118.733333,0
+,CNSAC,Shuangcheng,Shuangcheng,23,-----6--,RL,0901,,4521N 12617E,,45.350000,126.283333,0
+,CNSSP,Shuangshui,Shuangshui,GD,1-------,RL,1401,,,,,,1
+,CNSUB,Shuibu,Shuibu,GD,--3--6--,RL,0601,,2220N 11246E,,22.333333,112.766667,0
+,CNSDG,Shuidong Pt,Shuidong Pt,GD,1-------,AS,1407,,2131N 11100E,,21.516667,111.000000,1
+,CNSIK,Shuikou,Shuikou,GD,1-------,AS,1401,,2214N 11056E,,22.233333,110.933333,1
+,CNSKO,Shuikou,Shuikou,GX,--3-----,AS,1401,,2256N 11020E,,22.933333,110.333333,0
+,CNSUD,Shunde Pt,Shunde Pt,GD,1-------,AS,1601,,2250N 11315E,,22.833333,113.250000,1
+,CNSNY,Shunyi,Shunyi,BJ,-----6--,AS,1401,,4008N 11639E,,40.133333,116.650000,0
+,CNSHL,Shuolong,Shuolong,GX,1-------,AS,1601,,2248N 10648E,,22.800000,106.800000,1
+,CNSUY,Shuyang,Shuyang,32,--3-----,RL,0901,,3407N 11846E,,34.116667,118.766667,0
+,CNSIH,Sihui,Sihui,GD,--3-----,RL,1401,,,,,,0
+,CNSJT,Sijitun,Sijitun,23,1-------,AS,0901,,,,,,1
+,CNSKG,Sikeng,Sikeng,GD,--3-----,RL,1401,,2303N 11214E,,23.050000,112.233333,0
+,CNSKS,Sikuaishi,Sikuaishi,LN,1-------,AS,1401,,3917N 12234E,,39.283333,122.566667,1
+,CNSYM,Simao,Simao,YN,1-------,AS,1401,,2248N 10058E,,22.800000,100.966667,1
+,CNSPG,Siping,Siping,21,-----6--,RL,0901,,4105N 12444E,,41.083333,124.733333,0
+,CNSOG,Songgai,Songgai,CQ,1-------,RL,1401,,,,,,1
+,CNSAG,Songgang,Songgang,GD,--3-----,RL,0607,,2245N 11350E,,22.750000,113.833333,0
+,CNSGJ,Songjiang,Songjiang,SH,1-------,AS,1401,,3101N 12114E,,31.016667,121.233333,1
+,CNSMN,Songmen,Songmen,ZJ,1-------,RL,1401,,,,,,1
+,CNSGS,Songshu,Songshu,21,-----6--,RL,0901,,3949N 12205E,,39.816667,122.083333,0
+,CNSON,Songxia Pt,Songxia Pt,FJ,1-------,AS,1407,,2541N 11935E,,25.683333,119.583333,1
+,CNSGY,Songyuan,Songyuan,JL,--3-----,AA,2201,,4509N 12449E,,45.150000,124.816667,0
+,CNSZK,Songzikou,Songzikou,HB,1-------,RL,1401,,,,,,1
+,CNSBN,Suibin,Suibin,HL,1-------,AS,1401,,4718N 13151E,,47.300000,131.850000,1
+,CNSCH,Suichang,Suichang,33,--3-----,RL,0901,,2835N 11916E,,28.583333,119.266667,0
+,CNCFF,Suidong,Suidong,HL,1-------,RL,1401,,,,,,1
+,CNSFH,Suifenhe,Suifenhe,HL,-234----,AS,2107,,4425N 13111E,,44.416667,131.183333,0
+,CNSFE,Suifenhe Railway Station,Suifenhe Railway Station,HL,-2------,AS,1601,,,,,,0
+,CNSUG,Suigang,Suigang,44,--3-----,RL,0901,,2306N 11327E,,23.100000,113.450000,0
+,CNSGG,Suijiang,Suijiang,YN,--3-----,RL,0001,,,,,,0
+,CNSNN,Suining,Suining,SC,1-------,AS,1801,,3032N 10532E,,30.533333,105.533333,1
+,CNSUX,Suixi,Suixi,44,--3-----,RL,0901,,2123N 11014E,,21.383333,110.233333,0
+,CNSIZ,Suizhong,Suizhong,LN,1-------,RL,1401,,,,,,1
+,CNSUU,Suizhou,Suizhou,HB,--3-----,AA,2201,,3142N 11323E,,31.700000,113.383333,0
+,CNWUX,Sunan Shuofang International Apt,Sunan Shuofang International Apt,JS,---4----,AS,1601,,,,,,0
+,CNSUW,Sunwu,Sunwu,HL,1------B,AS,1401,,4925N 12719E,,49.416667,127.316667,1
+,CNSUQ,Suqian,Suqian,JS,-----6--,AS,1407,,,,,,0
+,CNSZH,Suzhou,Suzhou,JS,1---56--,AS,1601,SZV,3119N 12037E,,31.316667,120.616667,1
+,CNSUZ,Suzhou,Suzhou,GS,--3-----,RL,1101,,3946N 09834E,,39.766667,98.566667,0
+,CNSUH,Suzhou,Suzhou,AH,--3-----,RL,1101,,3338N 11658E,,33.633333,116.966667,0
+,CNSZG,Suzhou Pt,Suzhou Pt,JS,1-------,AS,1407,,,,,,1
+=,CN,Swatow = Jieyang Chaoshan Apt,Swatow = Jieyang Chaoshan Apt,,,,,,,,,,0
+,CNTCS,Tacheng,Tacheng,XJ,--3-----,AS,1601,,4645N 08259E,,46.750000,82.983333,0
+,CNTPO,Tai Po,Tai Po,HK,--3-----,RL,1401,,2218N 11357E,,22.300000,113.950000,0
+,CNTAI,Taian,Taian,SD,-----6--,AS,1601,,3611N 11708E,,36.183333,117.133333,0
+,CNTAC,Taicang Pt,Taicang Pt,JS,1-------,AS,1407,,3127N 12106E,,31.450000,121.100000,1
+,CNTHG,Taicheng (Taishan),Taicheng (Taishan),GD,--3-----,RL,0607,,2215N 11247E,,22.250000,112.783333,0
+,CNTHE,Taihe,Taihe,AH,--3-----,RL,0607,,3309N 11536E,,33.150000,115.600000,0
+,CNTJG,Taijiang,Taijiang,FJ,1-3--6--,RL,0407,,2605N 11930E,,26.083333,119.500000,1
+,CNTAP,Taiping,Taiping,GD,1-------,AS,1601,,2102N 11010E,,21.033333,110.166667,1
+,CNTPK,Taipingkou,Taipingkou,HB,1-------,RL,1401,,,,,,1
+,CNTPW,Taipingwan,Taipingwan,LN,1-------,AS,1401,,3716N 11950E,,37.266667,119.833333,1
+,CNTSA,Taishan,Taishan,SD,-2------,RL,1401,,,,,,0
+,CNTIS,Taishan,Taishan,GD,1-------,RL,1401,,,,,,1
+,CNTAX,Taixing,Taixing,JS,--3-----,RL,0607,,3210N 12000E,,32.166667,120.000000,0
+,CNTAY,Taiyang,Taiyang,ZJ,--3-----,RL,0201,,3011N 11917E,,30.183333,119.283333,0
+,CNTYU,Taiyuan,Taiyuan,SX,---45---,AS,1401,,3754N 11233E,,37.900000,112.550000,0
+,CNTYN,Taiyuan Wusu International Apt,Taiyuan Wusu International Apt,SX,---4----,AS,1601,,,,,,0
+,CNTZO,Taizhou,Taizhou,JS,1-3-----,RL,0907,,3229N 11954E,,32.483333,119.900000,1
+,CNTZU,Taizhou,Taizhou,JS,123-----,AS,2107,,3230N 11954E,,32.500000,119.900000,1
+,CNTAZ,Taizhou Pt,Taizhou Pt,ZJ,1-------,AS,1407,,,,,,1
+,CNTNO,Tanggou,Tanggou,AH,1-------,RL,1401,,,,,,1
+,CNTGG,Tanggu,Tanggu,TJ,1-------,AS,1601,,3901N 11739E,,39.016667,117.650000,1
+,CNTJA,Tangjia,Tangjia,GD,1-------,RL,1401,,,,,,1
+,CNTGK,Tangkou,Tangkou,GD,-2------,RL,1401,,,,,,0
+,CNTGS,Tangshan Pt,Tangshan Pt,HE,1-------,AS,1407,,3936N 11811E,,39.600000,118.183333,1
+,CNTGX,Tangxi,Tangxi,GD,-2------,RL,1401,,,,,,0
+,CNTXA,Tangxia,Tangxia,GD,--3-----,RL,9901,,,,,,0
+,CNQNH,Tanmen,Tanmen,HI,1-------,AS,1407,,1914N 11028E,,19.233333,110.466667,1
+,CNYKU,Taokou,Taokou,AH,1-------,RL,1401,,,,,,1
+,CNTYG,Taoyang,Taoyang,GS,--3-----,RL,1401,,3522N 10351E,,35.366667,103.850000,0
+,CNTKK,Taykexkin,Taykexkin,XJ,--3-----,AS,9506,,,,,,0
+,CNTXI,Tengxian,Tengxian,GX,1-------,RL,1401,,,,,,1
+,CNTGZ,Tengzhou,Tengzhou,SD,-2------,RL,1401,,,,,,0
+,CNTBO,Tianbao,Tianbao,YN,--3-----,AS,9506,,,,,,0
+,CNTID,Tiandong,Tiandong,GX,1-------,RL,1401,,,,,,1
+,CNTDU,Tiandu,Tiandu,HI,--3-----,RL,1401,,1817N 10936E,,18.283333,109.600000,0
+,CNTFU,"Tianfu, Chengdu","Tianfu, Chengdu",SC,-234----,AA,2301,,3018N 10427E,,30.300000,104.450000,0
+,CNTIH,Tianhe,Tianhe,GD,--3-----,RL,1401,,,,,,0
+,CNTNJ,Tianjin,Tianjin,TJ,12345---,AS,1401,,3902N 11712E,,39.033333,117.200000,1
+,CNTSN,Tianjin Binhai International Apt,Tianjin Binhai International Apt,TJ,---4----,AS,1601,,,,,,0
+,CNTNG,Tianjin Pt,Tianjin Pt,TJ,1-------,AS,1601,,3859N 11745E,,38.983333,117.750000,1
+,CNTXG,Tianjin Xingang Pt,Tianjin Xingang Pt,TJ,1-------,AS,1607,,3859N 11742E,,38.983333,117.700000,1
+,CNTBS,Tianjinbaoshuiqu,Tianjinbaoshuiqu,TJ,1-------,AS,1401,,,,,,1
+,CNTLN,Tianlin,Tianlin,45,--3-----,RQ,0901,,2353N 10636E,,23.883333,106.600000,0
+,CNTNP,Tianpeng,Tianpeng,YN,--3-----,AS,1401,,2320N 10528E,,23.333333,105.466667,0
+,CNTSU,Tianshui,Tianshui,GS,-----6--,AS,1601,,3434N 10543E,,34.566667,105.716667,0
+,CNTIA,Tiantai,Tiantai,33,--3-----,RL,0901,,2908N 12101E,,29.133333,121.016667,0
+,CNTIY,Tianyang,Tianyang,GX,1-------,RL,1401,,,,,,1
+,CNTZE,Tianzhen,Tianzhen,HB,1-------,RL,1401,,,,,,1
+,CNTLI,Tieli,Tieli,HL,-23-----,RL,0607,,4659N 12803E,,46.983333,128.050000,0
+,CNTIL,Tieling,Tieling,21,-----6--,RL,0901,,4217N 12350E,,42.283333,123.833333,0
+,CNBHT,Tieshan,Tieshan,GX,1-------,RL,1401,,,,,,1
+,CNTAN,"Tongan, Xiamen","Tongan, Xiamen",FJ,-23--6--,AA,2207,,2443N 11810E,,24.716667,118.166667,0
+,CNTOG,Tongcheng,Tongcheng,AH,--3-----,RQ,0907,,3103N 11656E,,31.050000,116.933333,0
+,CNTOH,Tonghe,Tonghe,HL,1-------,RL,1401,,,,,,1
+,CNTGH,Tonghua,Tonghua,JL,--3-----,RL,0607,,4143N 12556E,,41.716667,125.933333,0
+,CNTOJ,Tongjiang,Tongjiang,HL,1-------,AS,1601,,4739N 13230E,,47.650000,132.500000,1
+,CNTLS,Tongliao,Tongliao,LN,-----6--,AS,1407,,,,,,0
+,CNTGO,Tongliao Apt,Tongliao Apt,NM,-234----,RL,1601,,4337N 12216E,,43.616667,122.266667,0
+,CNTOL,Tongling,Tongling,AH,123-----,AS,2107,,3056N 11748E,,30.933333,117.800000,1
+,CNTON,Tonglu,Tonglu,ZJ,--3--6--,RL,0401,,2948N 11940E,,29.800000,119.666667,0
+,CNTGN,Tongren,Tongren,GZ,-----6--,AS,1801,,2743N 10911E,,27.716667,109.183333,0
+,CNTEN,Tongren Fenhuang Apt,Tongren Fenhuang Apt,QH,---4----,RL,1401,,3530N 10200E,,35.500000,102.000000,0
+,CNTXZ,Tongxiang,Tongxiang,ZJ,1-3-----,RL,1401,,3038N 12034E,,30.633333,120.566667,1
+,CNTOX,Tongxing,Tongxing,AH,1-------,RL,1401,,,,,,1
+,CNTOZ,Tongzhao,Tongzhao,ZJ,1-------,RL,1401,,,,,,1
+,CNTZH,Tongzhong,Tongzhong,GX,--3-----,AS,1401,,,,,,0
+=,CN,Tsamkong = Zhanjiang,Tsamkong = Zhanjiang,,,,,,,,,,0
+=,CN,Tsingtao = Qingdao Jiaodong International Apt,Tsingtao = Qingdao Jiaodong International Apt,,,,,,,,,,0
+,CNTFG,Tuanfeng,Tuanfeng,HB,1-------,RL,1401,,,,,,1
+,CNTME,Tumen,Tumen,JL,-23-----,AS,1601,,4257N 12951E,,42.950000,129.850000,0
+,CNTJD,Tuojidao,Tuojidao,SD,1-------,RL,1401,,,,,,1
+,CNTPU,Tuopu,Tuopu,44,--3-----,RL,0901,,2324N 11639E,,23.400000,116.650000,0
+,CNTQO,Tuqiao,Tuqiao,AH,1-------,RL,1401,,,,,,1
+,CNTRT,Turugart,Turugart,XJ,--3-----,AS,1401,,4034N 07524E,,40.566667,75.400000,0
+,CNCFG,Ulan Had,Ulan Had,NM,-23--6--,RL,1401,,,,,,0
+,CNWLH,Ulan Hot,Ulan Hot,NM,-23-----,RL,1401,,4605N 12205E,,46.083333,122.083333,0
+,CNHLH,Ulan Hot Apt,Ulan Hot Apt,NM,--34----,RL,1401,,,,,,0
+,CNULA,Ulan Qab,Ulan Qab,NM,--3--6--,RL,1401,,4246N 11440E,,42.766667,114.666667,0
+,CNCIF,Ulanhad Tuchengcity Apt,Ulanhad Tuchengcity Apt,NM,---4----,RL,1401,,,,,,0
+,CNULT,Ulastai,Ulastai,XJ,--3-----,AS,1401,,4253N 08642E,,42.883333,86.700000,0
+,CNURM,Urumqi,Urumqi,XJ,-23456--,AS,2001,,4345N 08736E,,43.750000,87.600000,0
+,CNURC,Urumqi Diwobao International Apt,Urumqi Diwobao International Apt,XJ,---4----,AS,1601,,,,,,0
+,CNULZ,Urumqi International Lugang,Urumqi International Lugang,XJ,-23-56--,AS,2101,,4349N 08736E,,43.816667,87.600000,0
+,CNWAF,Wafangdian,Wafangdian,LN,--3-----,RL,9901,,,,,,0
+,CNWIG,Waigang,Waigang,SH,1-------,AS,1401,,,,,,1
+,CNWGQ,Waigaoqiao Pt,Waigaoqiao Pt,SH,1-------,AS,1601,,,,,,1
+,CNWIH,Waihai,Waihai,GD,1-------,AS,1401,,2235N 11308E,,22.583333,113.133333,1
+,CNWAN,Wanding,Wanding,YN,--3-----,AS,1601,,2406N 09804E,,24.100000,98.066667,0
+,CNWJG,Wangjiang,Wangjiang,AH,1-------,RL,1401,,,,,,1
+,CNWGI,Wangqi,Wangqi,JL,--3-----,RL,0607,,4334N 12643E,,43.566667,126.716667,0
+,CNWAJ,Wanjiang,Wanjiang,GD,--3-----,RL,1401,,2302N 11344E,,23.033333,113.733333,0
+,CNWLG,Wanling,Wanling,HI,--3-----,RL,1401,,1910N 10956E,,19.166667,109.933333,0
+,CNWNG,Wanning,Wanning,HI,--3--6--,RL,0607,,1848N 11023E,,18.800000,110.383333,0
+,CNWAS,Wanshan Pt,Wanshan Pt,GD,1-------,AS,1407,,2156N 11343E,,21.933333,113.716667,1
+,CNWAX,Wanxian,Wanxian,CQ,1-------,RL,1401,,,,,,1
+,CNWAZ,Wanzai,Wanzai,GD,1-------,AS,1401,,2211N 11331E,,22.183333,113.516667,1
+,CNWZH,Wanzhou,Wanzhou,CQ,1-------,AS,1401,,,,,,1
+,CNWEF,Weifang,Weifang,SD,1234----,AS,2107,,3643N 11906E,,36.716667,119.100000,1
+,CNWEI,Weihai,Weihai,SD,1--45---,AS,1601,,3731N 12207E,,37.516667,122.116667,1
+,CNWEH,Weihai Dashuipo Apt,Weihai Dashuipo Apt,SD,1--45---,AS,1601,,,,,,1
+,CNWEG,Weihai Pt,Weihai Pt,SD,1-------,AS,1401,,3730N 12210E,,37.500000,122.166667,1
+,CNWNA,Weinan,Weinan,61,--3--6--,RL,0901,,3430N 10930E,,34.500000,109.500000,0
+,CNWIT,Weitou,Weitou,FJ,1-------,AS,1401,,2432N 11836E,,24.533333,118.600000,1
+,CNWYK,Weiyuankou,Weiyuankou,HB,1-------,RL,1401,,,,,,1
+,CNWEC,Wenchang,Wenchang,HI,--3-----,RL,1401,,1937N 11045E,,19.616667,110.750000,0
+,CNWNC,Wenchengzhen,Wenchengzhen,33,--3-----,RL,0901,,2747N 12004E,,27.783333,120.066667,0
+,CNWDS,Wendeng,Wendeng,37,-----6--,RL,0901,,3711N 12203E,,37.183333,122.050000,0
+,CNWYN,Wengyuan,Wengyuan,44,--3-----,RL,0901,,2448N 11335E,,24.800000,113.583333,0
+,CNWJD,Wenjindu,Wenjindu,GD,--3-----,AS,9506,,,,,,0
+,CNWEN,Wenling,Wenling,ZJ,--3-----,RL,0907,,2822N 12121E,,28.366667,121.350000,0
+,CNLMG,Wenling Longmen Port,Wenling Longmen Port,ZJ,1----6--,AS,1801,,2825N 12159E,,28.416667,121.983333,1
+,CNWSH,Wenshan,Wenshan,YN,1-3-----,RL,0601,,2322N 10415E,,23.366667,104.250000,1
+,CNWNZ,Wenzhou,Wenzhou,ZJ,1234----,AS,2107,,,,,,1
+,CNWZO,Wenzhou Pt,Wenzhou Pt,ZJ,1-------,AS,1407,,2801N 12039E,,28.016667,120.650000,1
+,CNWUC,Wu Chong Kou,Wu Chong Kou,GD,1-3-----,RQ,2007,,2305N 11325E,,23.083333,113.416667,1
+,CNWHU,Wuchuan,Wuchuan,GD,1-3-----,RL,0607,,2127N 11045E,,21.450000,110.750000,1
+,CNWAA,Wuhai,Wuhai,NM,---4----,RL,1401,WUA,3120N 11821E,,31.333333,118.350000,0
+,CNNHN,Wuhan,Wuhan,HB,12-45---,AS,1601,,3035N 11417E,,30.583333,114.283333,1
+,CNWHG,Wuhan Pt,Wuhan Pt,HB,1-------,AS,1401,,,,,,1
+,CNWUH,Wuhan Tianhe International Apt,Wuhan Tianhe International Apt,HB,---4----,AS,1601,,,,,,0
+,CNWHE,Wuhe,Wuhe,GD,1-------,RL,1401,,,,,,1
+,CNWHI,Wuhu,Wuhu,AH,123-----,AS,2107,,3119N 11822E,,31.316667,118.366667,1
+,CNWJA,Wujiang,Wujiang,JS,--3-----,RL,0907,,3103N 12037E,,31.050000,120.616667,0
+,CNWUJ,Wujiang,Wujiang,AH,--3--6--,RL,0907,,3152N 11827E,,31.866667,118.450000,0
+,CNWJI,Wujin,Wujin,JS,1-------,RL,1401,,,,,,1
+,CNWJN,Wujin,Wujin,HB,--3-----,RL,0607,,3159N 11252E,,31.983333,112.866667,0
+,CNWUK,Wukan,Wukan,GD,1-------,AS,1401,,2251N 11539E,,22.850000,115.650000,1
+,CNWLI,Wuli,Wuli,45,--3-----,RL,0901,,2209N 10913E,,22.150000,109.216667,0
+,CNWLD,Wulidian,Wulidian,BJ,-2------,AS,1401,,3208N 11417E,,32.133333,114.283333,0
+,CNWMG,Wuming,Wuming,45,--3-----,RL,0901,,2310N 10816E,,23.166667,108.266667,0
+,CNWPG,Wuping,Wuping,35,--3-----,RL,0901,,2505N 11701E,,25.083333,117.016667,0
+,CNWUQ,Wuqing,Wuqing,TJ,-----6--,AS,1401,,3931N 11651E,,39.516667,116.850000,0
+,CNWSA,Wusha,Wusha,AH,1-------,RL,1401,,,,,,1
+,CNWUA,Wusha,Wusha,GD,--3-----,RL,1401,,,,,,0
+,CNWSN,Wushan,Wushan,CQ,1-------,RL,1401,,,,,,1
+,CNWUG,Wusong Pt,Wusong Pt,SH,1-------,AS,1407,,0312N 12129E,,3.200000,121.483333,1
+,CNWXS,Wuxi,Wuxi,JS,1--4-6--,AS,1407,,3134N 12018E,,31.566667,120.300000,1
+,CNWXI,Wuxian,Wuxian,JS,--3--6--,RL,1401,,,,,,0
+,CNWXA,Wuxuan,Wuxuan,GX,1-3-----,RL,1401,,,,,,1
+,CNWXP,Wuxue Pt,Wuxue Pt,HB,1-------,RL,1401,,,,,,1
+,CNWYP,Wuyapao,Wuyapao,HL,1-------,RL,1401,,,,,,1
+,CNWYS,Wuyishan,Wuyishan,FJ,--34----,RL,1401,,2745N 11802E,,27.750000,118.033333,0
+,CNWUS,Wuyishan Apt,Wuyishan Apt,FJ,---4----,AS,1601,,,,,,0
+,CNWUZ,Wuzhou,Wuzhou,GX,123-----,AS,2107,,2329N 11120E,,23.483333,111.333333,1
+,CNXDJ,Xiadaiji,Xiadaiji,JL,1-------,RL,1401,,,,,,1
+,CNXIH,Xiahai,Xiahai,GD,1-------,RL,1401,,,,,,1
+,CNXUA,Xiahua,Xiahua,GD,1-3-----,RL,1401,,,,,,1
+,CNFQX,Xialong,Xialong,FJ,1-------,AS,1407,,2542N 11923E,,25.700000,119.383333,1
+,CNXIM,Xiamao,Xiamao,GD,--3-----,RL,1401,,,,,,0
+,CNXAM,Xiamen,Xiamen,FJ,12-45---,AS,2001,,2427N 11806E,,24.450000,118.100000,1
+,CNXMN,Xiamen Gaoqi International Apt,Xiamen Gaoqi International Apt,FJ,---4----,AS,1601,,,,,,0
+,CNXMG,Xiamen Pt,Xiamen Pt,FJ,1-------,AS,1401,,2421N 11812E,,24.350000,118.200000,1
+,CNXIA,Xian,Xian,SN,12-456--,AS,1601,,3417N 10857E,,34.283333,108.950000,1
+,CNSIA,Xian Xianyang International Apt,Xian Xianyang International Apt,SN,---4----,AS,1601,,,,,,0
+,CNXAN,"Xiang'an, Xiamen","Xiang'an, Xiamen",FJ,1----6--,AA,2207,,2438N 11815E,,24.633333,118.250000,1
+,CNXUG,Xiangang,Xiangang,44,-----6--,RL,0901,,2325N 11240E,,23.416667,112.666667,0
+,CNXGF,Xiangfan,Xiangfan,HB,-----6--,AS,1401,,3202N 11208E,,32.033333,112.133333,0
+,CNXGK,Xiangkou,Xiangkou,AH,1-------,RL,1401,,,,,,1
+,CNXGQ,Xiangqiao,Xiangqiao,GD,--3-----,RL,1401,,,,,,0
+,CNXSN,Xiangshan,Xiangshan,ZJ,--3--6--,RL,0401,,2916N 12000E,,29.266667,120.000000,0
+,CNXSI,Xiangshui,Xiangshui,JS,1-3-----,RL,1401,,,,,,1
+,CNXTA,Xiangtan,Xiangtan,HN,1-3-----,RL,0507,,2751N 11254E,,27.850000,112.900000,1
+,CNXAG,Xianguojilugang,Xianguojilugang,SN,123-56--,AS,1601,,,,,,1
+,CNXIW,Xiangyang,Xiangyang,HB,-----6--,RL,1107,,3932N 11602E,,39.533333,116.033333,0
+,CNXXY,Xiangyu Terminal/ Xiamen,Xiangyu Terminal/ Xiamen,FJ,1-3--6--,RQ,0907,,2706N 12019E,,27.100000,120.316667,1
+,CNXGY,Xiangyun,Xiangyun,YN,--3-----,RL,1401,,2528N 10032E,,25.466667,100.533333,0
+,CNXZI,Xiangzhi,Xiangzhi,FJ,1-------,AS,1401,,2446N 11846E,,24.766667,118.766667,1
+,CNXGZ,Xiangzhou,Xiangzhou,GD,1-3-----,AS,1407,,,,,,1
+,CNXZU,Xiangzhou,Xiangzhou,GX,1-------,RL,1401,,,,,,1
+,CNXNG,Xianing,Xianing,HN,1-------,AS,1601,,,,,,1
+,CNXJU,Xianju,Xianju,33,--3-----,RL,0901,,2851N 12044E,,28.850000,120.733333,0
+,CNXLA,Xianlang,Xianlang,,-----6--,RL,0901,,3600N 12014E,,36.000000,120.233333,0
+,CNXTN,Xiantan,Xiantan,SC,1-3-----,RL,0601,,2920N 10453E,,29.333333,104.883333,1
+,CNNTA,Xiantao,Xiantao,HB,--3-----,AA,2201,,3021N 11327E,,30.350000,113.450000,0
+,CNXYA,Xianyang,Xianyang,SN,--3-----,RL,1401,,3419N 10835E,,34.316667,108.583333,0
+,CNXYU,Xianyou,Xianyou,FJ,--3-----,RL,0207,,2522N 11841E,,25.366667,118.683333,0
+,CNXCI,Xiaochi,Xiaochi,HB,1-------,RL,1401,,,,,,1
+,CNXCU,Xiaocuo Pt,Xiaocuo Pt,FJ,1-------,AS,1407,,2512N 11957E,,25.200000,119.950000,1
+,CNXGN,Xiaogan,Xiaogan,HB,--3-----,RL,0607,,3055N 11354E,,30.916667,113.900000,0
+,CNXHO,Xiaohudao,Xiaohudao,GD,1-------,RQ,0401,,2305N 11326E,,23.083333,113.433333,1
+,CNXJB,Xiaojiangba,Xiaojiangba,AH,1-------,RL,1401,,,,,,1
+,CNXAO,Xiaolan,Xiaolan,GD,1-------,AS,1401,,2240N 11313E,,22.666667,113.216667,1
+,CNXLZ,Xiaolizhuang,Xiaolizhuang,HA,-2------,RL,1401,,,,,,0
+,CNXIS,Xiaoshan,Xiaoshan,ZJ,--3-----,RL,1401,,,,,,0
+,CNXOT,Xiaotang,Xiaotang,GD,123-----,RL,0607,,2305N 11259E,,23.083333,112.983333,1
+,CNXTG,Xiaotang,Xiaotang,LN,--3-----,RL,0607,,4138N 11935E,,41.633333,119.583333,0
+,CNXIO,Xiaoxian,Xiaoxian,AH,-23-----,RL,1401,,3411N 11656E,,34.183333,116.933333,0
+,CNXAS,Xiashan,Xiashan,GD,1-------,AS,1401,,,,,,1
+,CNXYN,Xiaying,Xiaying,SD,1-------,RL,1401,,,,,,1
+,CNZXZ,Xiazhai,Xiazhai,FJ,1-------,AS,1407,,,,,,1
+,CNXIC,Xichang Qingshan Apt,Xichang Qingshan Apt,SC,---4----,RL,1401,,2758N 10213E,,27.966667,102.216667,0
+,CNXCG,Xichong Pt,Xichong Pt,GD,1-------,AS,1407,,,,,,1
+,CNXTI,Xidi,Xidi,GD,1-------,AS,1601,,,,,,1
+,CNXEG,Xiegang,Xiegang,GD,--3-----,RL,1401,,,,,,0
+,CNXEX,Xiexu,Xiexu,GX,1-------,RL,1401,,,,,,1
+,CNXIG,Xigaze,Xigaze,XZ,-----6--,AS,1407,,,,,,0
+,CNXIJ,Xijiang,Xijiang,GX,1-------,RL,1401,,2117N 11452E,,21.283333,114.866667,1
+,CNILI,Xili,Xili,35,-----6--,RL,0901,,2645N 11721E,,26.750000,117.350000,0
+,CNXLS,Xiliangshan,Xiliangshan,AH,1-------,RL,1401,,,,,,1
+,CNXHT,Xilin Hot,Xilin Hot,NM,1-------,RL,1401,,4358N 11602E,,43.966667,116.033333,1
+,CNXLU,Xiluzhen,Xiluzhen,GD,--3--6--,RL,0607,,2323N 11630E,,23.383333,116.500000,0
+,CNSHX,Xinan,Xinan,GD,1-------,AS,1601,,,,,,1
+,CNXJG,Xinanjiang,Xinanjiang,33,--3-----,RL,0901,,2929N 11913E,,29.483333,119.216667,0
+,CNXXI,Xinchang,Xinchang,ZJ,--3-----,RL,1401,,2929N 12054E,,29.483333,120.900000,0
+,CNXCH,Xincheng,Xincheng,GD,--3-----,RL,1401,,,,,,0
+,CNLSX,Xincun,Xincun,SD,1-------,AS,1407,,1830N 11001E,,18.500000,110.016667,1
+,CNXID,Xindi,Xindi,HB,1-------,RL,1401,,,,,,1
+,CNXDI,Xindian,Xindian,HL,1-------,RL,1401,,,,,,1
+,CNXDU,Xindu,Xindu,GX,1-------,RL,1401,,,,,,1
+,CNXAB,Xinfeng,Xinfeng,GD,-23-----,RL,0907,,,,,,0
+,CNXIP,Xingang,Xingang,AH,1-------,RL,1401,,,,,,1
+,CNXGA,Xingang,Xingang,GD,1-------,AS,1601,,2302N 11306E,,23.033333,113.100000,1
+,CNXEN,Xingcheng,Xingcheng,LN,---4----,RL,1401,,,,,,0
+,CNXCE,Xingcheng,Xingcheng,LN,1-------,RL,1401,,,,,,1
+,CNXGD,Xingdong,Xingdong,HL,1-3--6-B,RL,0501,,4755N 13051E,,47.916667,130.850000,1
+,CNXNF,Xingfeng,Xingfeng,62,--3-----,RL,0901,,3452N 10550E,,34.866667,105.833333,0
+,CNXLN,Xinglin,Xinglin,35,--3-----,RL,0901,,2434N 11803E,,24.566667,118.050000,0
+,CNXPI,Xingping,Xingping,14,-----6--,RL,0901,,3417N 10829E,,34.283333,108.483333,0
+,CNXGS,Xingshan,Xingshan,13,--3-----,RL,0901,,3950N 11815E,,39.833333,118.250000,0
+,CNXGI,Xingtai,Xingtai,HE,--3-----,AA,2207,,3704N 11431E,,37.066667,114.516667,0
+,CNXGT,Xingtan,Xingtan,GD,--3-----,RL,0607,,2246N 11310E,,22.766667,113.166667,0
+,CNACX,Xingyi,Xingyi,YN,---4----,RL,0907,,2503N 10459E,,25.050000,104.983333,0
+,CNXHK,Xinhekou,Xinhekou,HB,1-------,RL,1401,,,,,,1
+,CNXNH,Xinhua,Xinhua,,--3-----,RQ,0901,,,,,,0
+,CNDMX,Xinhuan,Xinhuan,GD,1-------,AS,1407,,,,,,1
+,CNXIN,Xinhui Pt,Xinhui Pt,GD,1-------,AS,1601,,2232N 11301E,,22.533333,113.016667,1
+,CNXNN,Xining,Xining,QH,---4----,AS,2207,,,,,,0
+,CNXNT,Xining,Xining,QH,---45---,AS,1601,,3638N 10148E,,36.633333,101.800000,0
+,CNXNU,Xiniu,Xiniu,GD,--3--6--,RL,0607,,2409N 11307E,,24.150000,113.116667,0
+,CNXNJ,Xinji,Xinji,HE,-23-----,RL,0907,,3754N 11512E,,37.900000,115.200000,0
+,CNXIK,Xinkai,Xinkai,HB,1-------,RL,1401,,,,,,1
+,CNNNI,Xinning,Xinning,36,--3-----,RL,0901,,2917N 11505E,,29.283333,115.083333,0
+,CNXNQ,Xinqiao,Xinqiao,GD,--3-----,RL,1401,,,,,,0
+,CNXNA,Xinsha,Xinsha,GD,1-3-----,RL,0401,,2259N 11332E,,22.983333,113.533333,1
+,CNXSH,Xinshi,Xinshi,HB,--3-----,RL,0607,,3101N 11306E,,31.016667,113.100000,0
+,CNXIT,Xintang Pt,Xintang Pt,GD,1-------,AS,1601,,2307N 11337E,,23.116667,113.616667,1
+,CNXXG,Xinxiang,Xinxiang,HA,-23-----,RL,1101,,3518N 11352E,,35.300000,113.866667,0
+,CNXNI,Xinxing,Xinxing,JS,1-------,RL,1401,,,,,,1
+,CNXNX,Xinxing,Xinxing,44,--3-----,RQ,0901,,2256N 11202E,,22.933333,112.033333,0
+,CNCNX,Xinxu,Xinxu,GD,1-------,RL,1401,,,,,,1
+,CNING,Xinyang,Xinyang,HA,1-------,RL,1107,,3208N 11403E,,32.133333,114.050000,1
+,CNNYI,Xinyi,Xinyi,32,--3-----,RL,0901,,3314N 12036E,,33.233333,120.600000,0
+,CNXIY,Xinyi,Xinyi,44,--3-----,RL,0901,,2221N 11056E,,22.350000,110.933333,0
+,CNXYI,Xinying,Xinying,HI,1-3-----,RL,1401,,1944N 10917E,,19.733333,109.283333,1
+¦,CNXNY,Xinyu,Xinyu,JX,-23--6--,AS,2407,,2748N 11456E,,27.800000,114.933333,0
+,CNXUN,Xinyuan,Xinyuan,XJ,--3-----,RL,1401,,4327N 08308E,,43.450000,83.133333,0
+,CNXZO,Xinzao,Xinzao,GD,--3--6--,RL,0507,,2302N 11324E,,23.033333,113.400000,0
+,CNXNZ,Xinzhou,Xinzhou,HB,--3-----,RQ,0907,,3209N 10958E,,32.150000,109.966667,0
+,CNXIQ,Xiqiao,Xiqiao,GD,--3-----,RL,0907,,2256N 11258E,,22.933333,112.966667,0
+,CNXQN,"Xiqing , Tianjing","Xiqing , Tianjing",TJ,--3--6--,AA,2301,,3904N 11701E,,39.066667,117.016667,0
+,CNXSB,Xishuangbanna,Xishuangbanna,YN,---4----,RL,1401,,,,,,0
+,CNJHG,Xishuangbanna Gasa International Apt,Xishuangbanna Gasa International Apt,YN,---4----,AS,1601,,,,,,0
+,CNXTO,Xitou,Xitou,GD,1-------,AS,1601,,2139N 11147E,,21.650000,111.783333,1
+,CNXUL,Xiulin,Xiulin,HB,1-------,RL,1401,,,,,,1
+,CNXYG,Xiuyu Pt,Xiuyu Pt,FJ,1-------,AS,1601,,2514N 11857E,,25.233333,118.950000,1
+,CNXXN,Xixiang,Xixiang,SN,0-------,RQ,9705,,,,,,0
+¦,CNUAN,Xuancheng,Xuancheng,34,-23--6--,RQ,2407,,3053N 11833E,,30.883333,118.550000,0
+,CNXUM,Xuanmen,Xuanmen,ZJ,1-------,RL,1401,,,,,,1
+,CNXWI,Xuanwei,Xuanwei,YN,-2------,RL,1401,,,,,,0
+¦,CNXUC,Xuchang,Xuchang,HA,--3-----,AA,2407,,3402N 11351E,,34.033333,113.850000,0
+,CNXEO,Xueao,Xueao,ZJ,1-------,RL,1401,,,,,,1
+,CNXJD,Xuejiadao,Xuejiadao,SD,1-------,RL,1401,,,,,,1
+,CNXTZ,Xuetangzhou,Xuetangzhou,HB,1-------,RL,1401,,,,,,1
+,CNXUI,Xuhuiqu,Xuhuiqu,SH,--3--6--,RL,1401,,,,,,0
+,CNXUK,Xunke,Xunke,HL,1-------,AS,1601,,4933N 12828E,,49.550000,128.466667,1
+,CNXZH,Xuzhou,Xuzhou,JS,---4-6--,AS,1407,,,,,,0
+,CNXUZ,Xuzhou Guanyin Apt,Xuzhou Guanyin Apt,JS,---4----,AS,1601,,,,,,0
+,CNYBG,Yabagou,Yabagou,LN,1-------,AS,1401,,,,,,1
+,CNYDZ,Yadong,Yadong,XZ,--3-5---,AS,1601,,2726N 08855E,,27.433333,88.916667,0
+,CNENY,Yan'an,Yan'an,SN,-234----,RL,2107,,,,,,0
+,CNYBU,Yanbu,Yanbu,GD,-23-----,RL,0607,,2306N 11310E,,23.100000,113.166667,0
+,CNYNZ,Yancheng,Yancheng,JS,-234----,AS,2107,,,,,,0
+,CNYCN,Yangchun,Yangchun,GD,--3-----,RL,0607,,2210N 11147E,,22.166667,111.783333,0
+,CNYJC,Yangjiachang,Yangjiachang,HB,1-------,RL,1401,,,,,,1
+,CNYJI,Yangjiang,Yangjiang,GD,123-----,AS,2107,,2150N 11158E,,21.833333,111.966667,1
+,CNYGK,Yangkou,Yangkou,SD,1-------,AS,1601,,,,,,1
+,CNYKG,Yangkou Pt,Yangkou Pt,JS,1-------,AS,1607,,3233N 12124E,,32.550000,121.400000,1
+,CNYLI,Yangli,Yangli,GZ,1-------,RL,1401,,,,,,1
+,CNYMD,Yangmadao,Yangmadao,SD,1-------,RL,1401,,,,,,1
+,CNYPE,Yangpeng,Yangpeng,AH,1-------,RL,1401,,,,,,1
+,CNYGP,Yangpu,Yangpu,SH,--3--6--,RL,1401,,,,,,0
+,CNYPG,Yangpu Pt,Yangpu Pt,HI,1-------,AS,1407,,1942N 10912E,,19.700000,109.200000,1
+,CNYSA,Yangshan,Yangshan,ZJ,1-------,AS,2301,,,,,,1
+,CNYSN,Yangshan,Yangshan,GD,1-------,RL,1401,,,,,,1
+,CNYSF,Yangshufang,Yangshufang,21,-----6--,RL,0901,,4014N 12226E,,40.233333,122.433333,0
+,CNYSO,Yangshuo,Yangshuo,GX,1-------,RL,1401,,,,,,1
+,CNYGG,Yanguan,Yanguan,HN,--3-----,AS,1407,,,,,,0
+,CNYGX,Yangxi,Yangxi,HB,1-------,RL,1401,,,,,,1
+,CNYXY,Yangxi,Yangxi,GD,--3-----,RL,1401,,2905N 10734E,,29.083333,107.566667,0
+,CNYXT,Yangxifengtou,Yangxifengtou,GD,1-------,RL,1401,,,,,,1
+,CNYNG,Yangzhong,Yangzhong,JS,1-3-----,RL,1401,,3213N 11949E,,32.216667,119.816667,1
+,CNYZH,Yangzhou,Yangzhou,JS,1234----,AS,2107,,3223N 11926E,,32.383333,119.433333,1
+,CNYNJ,Yanji Chaoyangchuan Apt,Yanji Chaoyangchuan Apt,JL,---4----,AS,1601,,,,,,0
+,CNYJA,Yanjia,Yanjia,GZ,1-------,RL,1401,,,,,,1
+,CNYLG,Yanliang,Yanliang,SN,--3-----,RQ,0101,,,,,,0
+¦,CNYAT,Yantai,Yantai,SD,123456--,AS,2407,,3728N 12123E,,37.466667,121.383333,1
+,CNYNT,Yantai Laishan International Apt,Yantai Laishan International Apt,SD,---4----,AS,1601,,,,,,0
+,CNYTG,Yantai Pt,Yantai Pt,SD,1-------,AS,1401,,3733N 12125E,,37.550000,121.416667,1
+¦,CNYTN,Yantian,Yantian,GD,123--6--,AS,2407,,2236N 11418E,coordinates,22.600000,114.300000,1
+,CNYHO,Yanzhou,Yanzhou,SD,-2------,RL,1401,,,,,,0
+,CNYGO,Yaogou,Yaogou,AH,1-------,RL,1401,,,,,,1
+,CNYJP,Yaojia Pt,Yaojia Pt,HB,1-------,RL,1401,,,,,,1
+,CNYIB,Yibin,Yibin,SC,1-------,AS,1407,,,,,,1
+,CNYBP,Yibin Caiba Apt,Yibin Caiba Apt,SC,---4----,RL,1401,,,,,,0
+,CNYIC,Yichang,Yichang,HB,--3-----,RL,1101,,3042N 11117E,,30.700000,111.283333,0
+,CNYCG,Yichang Pt,Yichang Pt,HB,1-------,AS,1601,,,,,,1
+,CNYIH,Yichang Sanxia Apt,Yichang Sanxia Apt,HB,---4----,AS,1601,,,,,,0
+,CNYKS,Yierkeshi,Yierkeshi,XJ,--3--6--,RL,1401,,,,,,0
+,CNYRK,Yierkeshitan,Yierkeshitan,XJ,--3-----,AS,1401,,,,,,0
+,CNYLN,Yilan Apt,Yilan Apt,HL,---4----,RL,1401,,,,,,0
+¦,CNYCH,Yinchuan,Yinchuan,NX,-2345---,AS,2407,,3827N 10616E,,38.450000,106.266667,0
+,CNINC,Yinchuan Hedong International Apt,Yinchuan Hedong International Apt,NX,---4----,AS,1407,,,,,,0
+,CNYCA,Yingchuan,Yingchuan,JS,1-------,RL,1401,,,,,,1
+,CNYGD,Yingde,Yingde,GD,1-------,AS,1401,,,,,,1
+,CNYGJ,Yingjiang,Yingjiang,YN,--3-----,AS,1601,,,,,,0
+¦,CNYGT,Yingtan,Yingtan,JX,-23--6--,RL,2407,,2817N 11703E,,28.283333,117.050000,0
+,CNLJY,Yingzai,Yingzai,GD,1-------,AS,1407,,2137N 11017E,,21.616667,110.283333,1
+,CNYIN,Yining,Yining,XJ,-23--6--,AS,1401,,4355N 08120E,,43.916667,81.333333,0
+,CNYIK,Yinkou,Yinkou,LN,1234----,AS,2107,,4039N 12213E,,40.650000,122.216667,1
+,CNYHU,Yishui,Yishui,SD,--3-----,RL,0607,,3547N 11838E,,35.783333,118.633333,0
+,CNYIU,Yiwu,Yiwu,ZJ,-2---6--,AS,2001,,2918N 12004E,,29.300000,120.066667,0
+,CNYXA,Yixian,Yixian,13,--3-----,RL,0901,,3920N 11529E,,39.333333,115.483333,0
+,CNYXS,Yixing,Yixing,JS,1-3-----,AS,1407,,,,,,1
+,CNYIG,Yiyang,Yiyang,HN,--3-----,RQ,1001,,2835N 11219E,,28.583333,112.316667,0
+,CNYIZ,Yizheng,Yizheng,JS,1-3-----,RL,0407,,3216N 11910E,,32.266667,119.166667,1
+,CNYZA,Yizhuang,Yizhuang,BJ,--3--6--,RL,1401,,3948N 11629E,,39.800000,116.483333,0
+,CNYGN,Yongan,Yongan,ZJ,1-------,RL,1401,,,,,,1
+,CNYOX,Yong'an,Yong'an,FJ,--3-----,RL,1401,,2558N 11721E,,25.966667,117.350000,0
+,CNYNC,"Yongchun,Quanzhou","Yongchun,Quanzhou",FJ,-23--6--,,2307,,2518N 11813E,,25.300000,118.216667,0
+,CNYFU,Yongfu,Yongfu,GX,1-3-----,RL,1401,,2459N 10959E,,24.983333,109.983333,1
+,CNONG,Yongji,Yongji,61,--3-----,RL,0901,,3920N 11529E,,39.333333,115.483333,0
+,CNYOJ,Yongjia,Yongjia,33,-----6--,RL,0901,,2809N 12041E,,28.150000,120.683333,0
+,CNYKN,Yongkang,Yongkang,ZJ,-----6--,AS,1707,,2892N 12002E,,29.533333,120.033333,0
+,CNYLO,Yonglong,Yonglong,JS,1-------,RL,1401,,,,,,1
+,CNYNN,Yongning,Yongning,GX,1-------,RL,1401,,,,,,1
+,CNYTI,Yongtai,Yongtai,GD,1-------,AS,1401,,,,,,1
+,CNYXU,Yongxiu,Yongxiu,36,--3-----,RQ,0901,,2944N 11559E,,29.733333,115.983333,0
+,CNYZS,Yongzhou,Yongzhou,HN,--3-----,AS,1407,,2614N 11137E,,26.233333,111.616667,0
+,CNYXI,Youxi,Youxi,35,--3-----,RL,0901,,2610N 11810E,,26.166667,118.166667,0
+,CNYYG,Youyiguan,Youyiguan,GX,--3-----,AS,1401,,2157N 10642E,,21.950000,106.700000,0
+¦,CNYUA,Yuanmou,Yuanmou,YN,---4----,RL,2407,,,,,,0
+,CNYSH,Yuanshi,Yuanshi,HB,1-------,RL,1401,,,,,,1
+,CNYUO,Yuanzhou,Yuanzhou,44,--3-----,RL,0901,,2307N 11358E,,23.116667,113.966667,0
+,CNYCE,Yucheng,Yucheng,SD,-2------,RL,1401,,,,,,0
+,CNYHG,Yuecheng,Yuecheng,GD,1-------,RL,1401,,,,,,1
+,CNYLA,Yuelai,Yuelai,HL,1-------,RL,1401,,,,,,1
+,CNYPU,Yuepu,Yuepu,GD,--3-----,RQ,0907,,2334N 11628E,,23.566667,116.466667,0
+,CNYUE,Yueqing,Yueqing,ZJ,--3--6--,RL,0401,,4253N 12949E,,42.883333,129.816667,0
+,CNYXN,Yuexiunan,Yuexiunan,GD,--3-----,RL,1401,,,,,,0
+,CNYYU,Yuexu,Yuexu,GX,--3-----,AS,1401,,2257N 10632E,,22.950000,106.533333,0
+,CNYYA,Yueyang,Yueyang,HN,1-3--6--,AS,1601,,2922N 11306E,,29.366667,113.100000,1
+,CNYHN,Yuhang,Yuhang,12,--3-----,RL,0901,,3016N 11955E,,30.266667,119.916667,0
+,CNYUH,Yuhuan,Yuhuan,ZJ,1-------,RL,1107,,2808N 12114E,,28.133333,121.233333,1
+,CNUYN,Yulin,Yulin,HI,--3-----,RL,0201,,1814N 10932E,,18.233333,109.533333,0
+¦,CNYUL,Yulin,Yulin,GX,-23--6--,AS,2407,,2238N 11009E,,22.633333,110.150000,0
+¦,CNYUN,Yuncheng,Yuncheng,SX,-234-6--,RL,2407,,3502N 11101E,,35.033333,111.016667,0
+,CNYUF,Yunfu,Yunfu,44,--3-----,RL,0901,,2256N 11202E,,22.933333,112.033333,0
+,CNKML,Yunnan Tengjun International Land Port Logistics Center,Yunnan Tengjun International Land Port Logistics Center,YN,-----6--,AS,1801,,2443N 10235E,,24.716667,102.583333,0
+,CNYUI,Yutai,Yutai,12,-----6--,RL,0901,,3950N 11712E,,39.833333,117.200000,0
+¦,CNYUX,Yuxi,Yuxi,YN,-23--6--,AA,2407,,2421N 10231E,,24.350000,102.516667,0
+,CNYOU,Yuyao,Yuyao,ZJ,-23-----,RL,0401,,3003N 12108E,,30.050000,121.133333,0
+,CNYYP,Yuyue Pt,Yuyue Pt,HB,1-------,RL,1401,,,,,,1
+,CNYUZ,Yuzhou,Yuzhou,SC,--3-----,RL,0010,,,,,,0
+,CNYZU,Yuzhu,Yuzhu,GD,1-3-----,RL,0601,,2306N 11325E,,23.100000,113.416667,1
+¦,CNZZS,Zaozhuang,Zaozhuang,SD,-23--6--,AS,2407,,3449N 11720E,,34.816667,117.333333,0
+,CNZEC,"Zengcheng,Guangzhou","Zengcheng,Guangzhou",GD,--3--6--,AA,2207,,2315N 11339E,,23.250000,113.650000,0
+,CNZMU,Zham,Zham,XZ,--3-----,AS,1601,,2800N 08600E,,28.000000,86.000000,0
+,CNZGH,Zhangcha,Zhangcha,SX,--3-----,RL,0607,,3940N 11421E,,39.666667,114.350000,0
+,CNZHF,Zhangfeng,Zhangfeng,YN,--3-----,AS,1401,,,,,,0
+,CNZAG,Zhanghu,Zhanghu,AH,1-------,RL,1401,,,,,,1
+,CNZJB,Zhangjiabian,Zhangjiabian,GD,1-3--6--,RL,0601,,2233N 11327E,,22.550000,113.450000,1
+,CNWHZ,Zhangjiabu,Zhangjiabu,SD,1-------,AS,1407,,,,,,1
+,CNZJG,Zhangjiagang,Zhangjiagang,JS,1-------,AS,1401,,3152N 12032E,,31.866667,120.533333,1
+,CNDYG,Zhangjiajie,Zhangjiajie,HN,-234----,AS,2107,,2906N 11026E,,29.100000,110.433333,0
+¦,CNZJK,Zhangjiakou,Zhangjiakou,HE,-23--6--,AS,2407,,4049N 11452E,,40.816667,114.866667,0
+,CNZJI,Zhangjian,Zhangjian,SN,--3-----,RL,0201,,3345N 11006E,,33.750000,110.100000,0
+,CNZGU,Zhangmutou,Zhangmutou,GD,--3-----,RL,9901,,,,,,0
+,CNZQH,Zhangqiu,Zhangqiu,41,-----6--,RL,0901,,3603N 11558E,,36.050000,115.966667,0
+,CNZGS,Zhangshan,Zhangshan,JS,1-3-----,RL,0607,,3407N 11819E,,34.116667,118.316667,1
+,CNZHN,Zhangshu,Zhangshu,36,--3-----,RL,0901,,2805N 11531E,,28.083333,115.516667,0
+,CNZGW,Zhangwan,Zhangwan,FJ,1-------,AS,1401,,2642N 11935E,,26.700000,119.583333,1
+,CNZZH,Zhangzhou,Zhangzhou,FJ,123-----,AA,2207,,2431N 11739E,,24.516667,117.650000,1
+,CNZHA,Zhanjiang,Zhanjiang,GD,-234----,AS,2107,,,,,,0
+,CNZNG,Zhanjiang Pt,Zhanjiang Pt,GD,1-------,AS,1601,,2105N 11030E,,21.083333,110.500000,1
+,CNZDO,Zhaodong,Zhaodong,HL,123--6--,RL,0601,,4604N 12559E,,46.066667,125.983333,1
+,CNZHG,Zhaogang,Zhaogang,AH,1-3-----,RL,0607,,3233N 11638E,,32.550000,116.633333,1
+,CNZPI,Zhaoping,Zhaoping,GD,1-------,RL,1401,,,,,,1
+,CNZQG,Zhaoqing,Zhaoqing,GD,123-----,AS,2107,,2303N 11227E,,23.050000,112.450000,1
+,CNZQN,Zhaoqing Railway Station,Zhaoqing Railway Station,GD,-2------,AS,1601,,,,,,0
+,CNZAT,Zhaotong,Zhaotong,YN,-234----,RL,2107,,,,,,0
+,CNZHY,Zhaoyuan,Zhaoyuan,HL,1-3-----,RL,1401,,,,,,1
+,CNZYU,Zhaoyuan,Zhaoyuan,37,--3-----,RL,0901,,3721N 12023E,,37.350000,120.383333,0
+,CNZPO,Zhapo,Zhapo,GD,1-------,AS,1401,,2134N 11151E,,21.566667,111.850000,1
+,CNZPK,Zhapoyouku,Zhapoyouku,GD,1-------,RL,1401,,,,,,1
+,CNZPU,Zhapu Pt,Zhapu Pt,ZJ,1-------,AS,1407,,3035N 12105E,,30.583333,121.083333,1
+,CNZEL,Zhelin,Zhelin,GD,1-------,AS,1401,,2335N 11706E,,23.583333,117.100000,1
+,CNZJN,Zhengjiatun,Zhengjiatun,JL,-2------,RL,1401,,,,,,0
+,CNZPG,zhengpugang Pt,zhengpugang Pt,AH,1-------,AS,1607,,3138N 11823E,,31.633333,118.383333,1
+,CNZGZ,Zhengzhou,Zhengzhou,HA,-2-45---,AS,1401,,3446N 11340E,,34.766667,113.666667,0
+,CNCGO,Zhengzhou Xinzheng International Apt,Zhengzhou Xinzheng International Apt,HA,---4----,AS,1601,,,,,,0
+,CNZZZ,Zhengzhoudong Railway Station,Zhengzhoudong Railway Station,HA,-2------,AS,1601,,3445N 11346E,,34.750000,113.766667,0
+,CNZHI,Zhenhai Pt,Zhenhai Pt,ZJ,1-------,AS,1601,,,,,,1
+,CNZHE,Zhenjiang,Zhenjiang,JS,1234----,AS,2107,,3211N 11927E,,32.183333,119.450000,1
+,CNZOU,Zhenzhou,Zhenzhou,11,--3-----,RQ,0901,,,,,,0
+,CNZXI,Zhexiang,Zhexiang,GZ,1-------,RL,1401,,,,,,1
+,CNZCG,Zhicheng,Zhicheng,HB,1-------,RL,1401,,,,,,1
+,CNZHC,Zhongcun,Zhongcun,SN,--3-----,RL,0607,,3327N 11012E,,33.450000,110.200000,0
+,CNZGC,Zhongguancun,Zhongguancun,BJ,-----6--,AS,1601,,,,,,0
+,CNZLN,Zhongluotan,Zhongluotan,GD,--3-----,RL,0607,,2323N 11323E,,23.383333,113.383333,0
+,CNZGA,Zhongshan,Zhongshan,GX,--3--6--,RL,0607,,2431N 11118E,,24.516667,111.300000,0
+,CNZSN,Zhongshan,Zhongshan,GD,123-----,AS,2107,,2231N 11322E,,22.516667,113.366667,1
+,CNZGT,Zhongtang,Zhongtang,GD,1-------,AS,1601,,2305N 11339E,,23.083333,113.650000,1
+,CNZXN,Zhongxian,Zhongxian,CQ,1-------,RL,1401,,,,,,1
+,CNZXG,Zhongxiang,Zhongxiang,HB,--3-----,RQ,1007,,3109N 11234E,,31.150000,112.566667,0
+,CNZKO,Zhoukou,Zhoukou,HA,-----6--,AS,1401,,3337N 11438E,,33.616667,114.633333,0
+,CNZQJ,Zhouqujia,Zhouqujia,AH,1-------,RL,1401,,,,,,1
+,CNZOS,Zhoushan,Zhoushan,ZJ,123-----,AS,2107,,,,,,1
+,CNZTZ,Zhoutuozi,Zhoutuozi,LN,-23-----,RL,0907,,4209N 12232E,,42.150000,122.533333,0
+,CNZZG,Zhouzhuang,Zhouzhuang,JS,1-------,RL,1401,,,,,,1
+,CNZHH,Zhuanghe Pt,Zhuanghe Pt,LN,1-------,AS,1601,,3941N 12258E,,39.683333,122.966667,1
+,CNZYO,Zhuangyuanao,Zhuangyuanao,ZJ,1-------,RQ,1007,,2753N 12107E,,27.883333,121.116667,1
+,CNZHQ,Zhuanqiao,Zhuanqiao,31,--3-5---,RQ,0901,,3113N 12127E,,31.216667,121.450000,0
+,CNZHU,Zhuao,Zhuao,GD,--3-----,AS,1601,,,,,,0
+,CNZCH,Zhucheng,Zhucheng,SD,--3-----,RL,0607,,3559N 11923E,,35.983333,119.383333,0
+,CNZEQ,Zhuengadabuqi,Zhuengadabuqi,NM,--3-----,AS,1401,,4544N 11616E,,45.733333,116.266667,0
+,CNZUH,Zhuhai,Zhuhai,GD,123-----,AS,2107,,2217N 11334E,,22.283333,113.566667,1
+,CNZHJ,Zhuji,Zhuji,ZJ,-2---6--,RL,1401,,2942N 12014E,,29.700000,120.233333,0
+,CNZLO,Zhuliao,Zhuliao,GD,1-3--6--,RL,0601,,2322N 11320E,,23.366667,113.333333,1
+,CNZHZ,Zhuozhou,Zhuozhou,HE,--3-----,RL,9901,,,,,,0
+,CNZUS,Zhushan,Zhushan,GX,1-------,RL,1401,,,,,,1
+,CNZUT,Zhutan,Zhutan,32,--3-----,RL,0901,,3146N 12024E,,31.766667,120.400000,0
+,CNZUY,Zhuyang,Zhuyang,CQ,1-------,RL,1401,,,,,,1
+,CNZZO,Zhuzhou,Zhuzhou,HN,-----6--,AS,1401,,2751N 11309E,,27.850000,113.150000,0
+¦,CNZBO,Zibo,Zibo,SD,-23--6--,AS,2407,,3640N 11804E,,36.666667,118.066667,0
+,CNZCU,Zichuan,Zichuan,37,--3-----,RL,0901,,3639N 11756E,,36.650000,117.933333,0
+¦,CNZGO,Zigong,Zigong,SC,-23--6--,AS,2407,,2923N 10446E,,29.383333,104.766667,0
+¦,CNZYA,Ziyang,Ziyang,SC,-23-5---,AA,2407,,3007N 10437E,,30.116667,104.616667,0
+,CNZIY,Ziyuan Pt,Ziyuan Pt,GX,1-------,RL,1401,,,,,,1
+,CNZYG,Zongyang,Zongyang,AH,1-------,RL,1401,,,,,,1
+,CNZOC,Zoucheng,Zoucheng,SD,-2------,RL,1401,,,,,,0
+,CNZXJ,Zouxiang,Zouxiang,32,-----6--,RL,0901,,3140N 12040E,,31.666667,120.666667,0
+,CNZNY,Zunyi,Zunyi,GZ,-----6--,AS,1601,,2742N 10655E,,27.700000,106.916667,0
+,CNZYI,Zunyi Xinzhou Apt,Zunyi Xinzhou Apt,GZ,---4----,RL,1401,,,,,,0

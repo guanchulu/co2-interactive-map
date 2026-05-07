@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="980" viewBox="0 0 1600 980">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<style>
+text{font-family:Arial,Helvetica,sans-serif;fill:#202426}
+.title{font-size:26px;font-weight:700}.subtitle{font-size:13px;fill:#5f6b70}
+.paneltitle{font-size:14px;font-weight:700}.small{font-size:10.5px;fill:#5f6b70}
+.axis{font-size:11px;fill:#5f6b70}.label{font-size:12px;fill:#202426}
+.panelletter{font-size:17px;font-weight:700;fill:#202426}
+</style>
+<text x="36" y="34" class="title">Figure 6. Author-editor self-review map</text>
+<text x="36" y="56" class="subtitle">What the current model supports, what remains a scenario, and what must be upgraded before submission.</text>
+<rect x="40" y="82" width="500" height="360" rx="8" fill="#f7f9f9" stroke="#d6dedf"/>
+<text x="52" y="104" class="panelletter">a</text>
+<text x="78" y="103" class="paneltitle">Supported by upgraded evidence</text>
+<circle cx="80" cy="150" r="6" fill="#2f8f83" stroke="#ffffff" stroke-width="0.7" opacity="1.0"/>
+<text x="100" y="154" text-anchor="start" class="label">2030 baseline: no positive route</text>
+<circle cx="80" cy="200" r="6" fill="#2f8f83" stroke="#ffffff" stroke-width="0.7" opacity="1.0"/>
+<text x="100" y="204" text-anchor="start" class="label">2035 mineralization opens first in effort case</text>
+<circle cx="80" cy="250" r="6" fill="#2f8f83" stroke="#ffffff" stroke-width="0.7" opacity="1.0"/>
+<text x="100" y="254" text-anchor="start" class="label">2040 storage / FT-SAF / RWGS / formate windows</text>
+<circle cx="80" cy="300" r="6" fill="#2f8f83" stroke="#ffffff" stroke-width="0.7" opacity="1.0"/>
+<text x="100" y="304" text-anchor="start" class="label">SAF requires policy-backed premium, not fossil parity</text>
+<circle cx="80" cy="350" r="6" fill="#2f8f83" stroke="#ffffff" stroke-width="0.7" opacity="1.0"/>
+<text x="100" y="354" text-anchor="start" class="label">Photochemical routes remain late-stage or unresolved</text>
+<rect x="580" y="82" width="460" height="360" rx="8" fill="#f7f9f9" stroke="#d6dedf"/>
+<text x="592" y="104" class="panelletter">b</text>
+<text x="618" y="103" class="paneltitle">Still scenario-driven</text>
+<circle cx="620" cy="150" r="6" fill="#c97836" stroke="#ffffff" stroke-width="0.7" opacity="1.0"/>
+<text x="640" y="154" text-anchor="start" class="label">CO / formic acid / carbonate price premiums</text>
+<circle cx="620" cy="200" r="6" fill="#c97836" stroke="#ffffff" stroke-width="0.7" opacity="1.0"/>
+<text x="640" y="204" text-anchor="start" class="label">City-level product offtake capacity</text>
+<circle cx="620" cy="250" r="6" fill="#c97836" stroke="#ffffff" stroke-width="0.7" opacity="1.0"/>
+<text x="640" y="254" text-anchor="start" class="label">China SAF mandate and certificate value</text>
+<circle cx="620" cy="300" r="6" fill="#c97836" stroke="#ffffff" stroke-width="0.7" opacity="1.0"/>
+<text x="640" y="304" text-anchor="start" class="label">2060 carbon/removal credit trajectory</text>
+<circle cx="620" cy="350" r="6" fill="#c97836" stroke="#ffffff" stroke-width="0.7" opacity="1.0"/>
+<text x="640" y="354" text-anchor="start" class="label">Photochemical module lifetime</text>
+<rect x="1080" y="82" width="460" height="360" rx="8" fill="#f7f9f9" stroke="#d6dedf"/>
+<text x="1092" y="104" class="panelletter">c</text>
+<text x="1118" y="103" class="paneltitle">Must upgrade for submission</text>
+<circle cx="1120" cy="150" r="6" fill="#b94d5a" stroke="#ffffff" stroke-width="0.7" opacity="1.0"/>
+<text x="1140" y="154" text-anchor="start" class="label">Reservoir pressure simulation</text>
+<circle cx="1120" cy="200" r="6" fill="#b94d5a" stroke="#ffffff" stroke-width="0.7" opacity="1.0"/>
+<text x="1140" y="204" text-anchor="start" class="label">SAF Aspen/IDAES process package</text>
+<circle cx="1120" cy="250" r="6" fill="#b94d5a" stroke="#ffffff" stroke-width="0.7" opacity="1.0"/>
+<text x="1140" y="254" text-anchor="start" class="label">Audited city product markets</text>
+<circle cx="1120" cy="300" r="6" fill="#b94d5a" stroke="#ffffff" stroke-width="0.7" opacity="1.0"/>
+<text x="1140" y="304" text-anchor="start" class="label">Legal policy eligibility audit</text>
+<circle cx="1120" cy="350" r="6" fill="#b94d5a" stroke="#ffffff" stroke-width="0.7" opacity="1.0"/>
+<text x="1140" y="354" text-anchor="start" class="label">Monte Carlo uncertainty figures</text>
+<rect x="40" y="500" width="720" height="360" rx="8" fill="#f7f9f9" stroke="#d6dedf"/>
+<text x="52" y="522" class="panelletter">d</text>
+<text x="78" y="521" class="paneltitle">Claim strength</text>
+<line x1="210.0" y1="585" x2="210.0" y2="755" stroke="#8b969a" stroke-width="1"/>
+<rect x="210.0" y="595.2" width="280.0" height="31.166666666666668" rx="3" fill="#225f74" stroke="none" opacity="1.0"/>
+<text x="204" y="617.8666666666667" text-anchor="end" class="axis">Strong</text>
+<text x="494.0" y="617.8666666666667" text-anchor="start" class="axis">4</text>
+<rect x="210.0" y="651.8666666666667" width="420.0" height="31.166666666666668" rx="3" fill="#c97836" stroke="none" opacity="1.0"/>
+<text x="204" y="674.5333333333333" text-anchor="end" class="axis">Moderate</text>
+<text x="634.0" y="674.5333333333333" text-anchor="start" class="axis">6</text>
+<rect x="210.0" y="708.5333333333334" width="350.0" height="31.166666666666668" rx="3" fill="#b94d5a" stroke="none" opacity="1.0"/>
+<text x="204" y="731.2" text-anchor="end" class="axis">Weak until upgraded</text>
+<text x="564.0" y="731.2" text-anchor="start" class="axis">5</text>
+<line x1="210" y1="755" x2="630" y2="755" stroke="#8b969a" stroke-width="1"/>
+<text x="420.0" y="775" text-anchor="middle" class="axis">claim count</text>
+<rect x="820" y="500" width="720" height="360" rx="8" fill="#f7f9f9" stroke="#d6dedf"/>
+<text x="832" y="522" class="panelletter">e</text>
+<text x="858" y="521" class="paneltitle">Editorial rule for revisions</text>
+<rect x="860" y="565" width="610" height="34" rx="5" fill="#ffffff" stroke="#d6dedf" opacity="1.0"/>
+<text x="880" y="588" text-anchor="start" class="label">Every figure must answer one decision question.</text>
+<rect x="860" y="613" width="610" height="34" rx="5" fill="#ffffff" stroke="#d6dedf" opacity="1.0"/>
+<text x="880" y="636" text-anchor="start" class="label">Every heat map must state the scenario and unit.</text>
+<rect x="860" y="661" width="610" height="34" rx="5" fill="#ffffff" stroke="#d6dedf" opacity="1.0"/>
+<text x="880" y="684" text-anchor="start" class="label">Every optimistic claim must list its enabling conditions.</text>
+<rect x="860" y="709" width="610" height="34" rx="5" fill="#ffffff" stroke="#d6dedf" opacity="1.0"/>
+<text x="880" y="732" text-anchor="start" class="label">Every C/D input must stay visible in SI.</text>
+<rect x="860" y="757" width="610" height="34" rx="5" fill="#ffffff" stroke="#d6dedf" opacity="1.0"/>
+<text x="880" y="780" text-anchor="start" class="label">No route is called profitable outside the simulated window.</text>
+</svg>

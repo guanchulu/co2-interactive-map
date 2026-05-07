@@ -1,0 +1,13 @@
+{
+  "source": "DataV areas_v3 public boundary service",
+  "china_url": "https://geo.datav.aliyun.com/areas_v3/bound/100000_full.json",
+  "boundary_level": "prefecture/city where available; municipality polygon for direct-administered cities",
+  "feature_count": 370,
+  "evidence_grade": "B",
+  "limitations": [
+    "Not a legal compliance boundary file.",
+    "Administrative boundary vintage follows the public DataV/AMap source, not a model-specific validation year.",
+    "Directly administered municipalities are represented as municipality polygons.",
+    "Replace this file with audited official prefecture boundaries for final publication."
+  ]
+}

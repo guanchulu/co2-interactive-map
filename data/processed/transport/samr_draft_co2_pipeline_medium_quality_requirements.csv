@@ -1,0 +1,10 @@
+parameter,component,unit,requirement,scope_or_note,source
+co2_purity_gas_transport,CO2,mass_fraction_percent,>75,Long-distance gaseous CO2 transport,"SAMR draft: Medium quality requirements entering CO2 pipeline, standard plan 2022006083"
+co2_purity_dense_supercritical,CO2,mass_fraction_percent,>95,Dense/supercritical CO2 transport,"SAMR draft: Medium quality requirements entering CO2 pipeline, standard plan 2022006083"
+water_content,H2O,ppm_mass,<=200,Water dew point should also be below minimum temperature under transport conditions,"SAMR draft: Medium quality requirements entering CO2 pipeline, standard plan 2022006083"
+hydrogen_sulfide,H2S,ppm_mass,<=10,Instantaneous startup control discussed separately in draft explanation,"SAMR draft: Medium quality requirements entering CO2 pipeline, standard plan 2022006083"
+total_sulfur_as_sulfur,total_sulfur,mg_per_m3,<=200,As sulfur,"SAMR draft: Medium quality requirements entering CO2 pipeline, standard plan 2022006083"
+non_condensable_total_eor,N2+Ar+O2+CO+H2_etc,mol_percent,<1,For CCUS-EOR,"SAMR draft: Medium quality requirements entering CO2 pipeline, standard plan 2022006083"
+non_condensable_total_ccs,N2+Ar+O2+CO+H2_etc,mol_percent,<4,For CCS storage,"SAMR draft: Medium quality requirements entering CO2 pipeline, standard plan 2022006083"
+hydrogen_in_non_condensables,H2,ppm_mass,<=7500,Within pipeline CO2 non-condensable gases,"SAMR draft: Medium quality requirements entering CO2 pipeline, standard plan 2022006083"
+hydrocarbon_content_below_dewpoint,hydrocarbons,mass_fraction_percent,<5,For CO2 medium below hydrocarbon dew point -29 C,"SAMR draft: Medium quality requirements entering CO2 pipeline, standard plan 2022006083"

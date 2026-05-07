@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "co2-allocation-model"
+version = "0.1.0"
+description = "Reduced-order TEA-LCA model for allocating captured CO2 across storage and utilization pathways."
+requires-python = ">=3.10"
+dependencies = ["scipy>=1.17"]
+
+[project.optional-dependencies]
+plot = ["matplotlib>=3.8"]
+export = ["python-docx>=1.1", "python-pptx>=1.0", "cairosvg>=2.7", "Pillow>=10"]
+science = ["numpy>=1.26", "pandas>=2.1", "SALib>=1.4"]
+geo = ["rasterio>=1.5", "pypinyin>=0.54"]
+lca = ["bw2calc>=2.0"]
+
+[project.scripts]
+co2alloc = "co2alloc.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

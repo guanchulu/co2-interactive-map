@@ -1,0 +1,4 @@
+hub_id,region,latitude,longitude,capacity_mtco2_per_year,compression_cost_usd_per_tco2,compression_emissions_kgco2e_per_tco2
+CN_NORTH_HUB,North China,39.5000,116.4000,45,4,6
+CN_EAST_HUB,East China,32.0000,120.5000,35,5,7
+CN_NW_HUB,Northwest China,40.0000,100.0000,50,4,5

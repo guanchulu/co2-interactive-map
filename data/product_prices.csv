@@ -1,0 +1,15 @@
+year,region,product,grade,market_type,price_low_usd_per_kg,price_base_usd_per_kg,price_high_usd_per_kg,price_distribution,price_driver,volume_limit_t_per_year,source,notes
+2030,all,none,none,none,0,0,0,fixed,none,0,model_default,No saleable product.
+2030,all,carbonate_product,aggregate,domestic,0.008,0.018,0.045,triangular,construction_materials,500000000,model_default,Aggregate-like mineralization product; high case assumes durable-carbon premium/tipping value is separate.
+2030,all,carbon_monoxide,chemical_grade,domestic,0.18,0.22,0.65,triangular,chemical_intermediate,20000000,model_default,Bulk CO is low value; high case represents local integrated syngas/CO offtake.
+2030,all,methanol,chemical_grade,domestic,0.28,0.45,0.85,triangular,methanol_oil_gas,120000000,model_default,Base is commodity-like methanol; high case represents low-carbon premium.
+2030,all,formic_acid_equivalent,industrial_grade,domestic,0.45,0.70,1.40,triangular,specialty_chemical,8000000,model_default,Formate/formic acid market is limited and price-sensitive.
+2030,all,ethylene,polymer_grade,domestic,0.75,1.05,1.80,triangular,olefin_market,50000000,model_default,Commodity ethylene price proxy; low-carbon premium uncertain.
+2030,all,methane,grid_grade,domestic,0.35,0.60,1.60,triangular,gas_market,300000000,model_default,High case represents e-methane premium or gas balancing value.
+2030,all,sustainable_aviation_fuel,astm_blending_component,domestic,0.85,1.55,3.20,triangular,jet_fuel_plus_saf_premium,30000000,model_default,Base assumes policy-supported SAF offtake, not fossil jet parity.
+2040,all,carbonate_product,aggregate,domestic,0.008,0.020,0.055,triangular,construction_materials,600000000,model_default,Future durable-material premium sensitivity.
+2040,all,carbon_monoxide,chemical_grade,domestic,0.18,0.26,0.75,triangular,chemical_intermediate,25000000,model_default,CO premium can emerge in low-carbon chemicals.
+2040,all,methanol,chemical_grade,domestic,0.30,0.52,0.95,triangular,methanol_oil_gas,150000000,model_default,Low-carbon methanol offtake sensitivity.
+2040,all,formic_acid_equivalent,industrial_grade,domestic,0.45,0.78,1.60,triangular,specialty_chemical,12000000,model_default,Electrochemical formate market expansion sensitivity.
+2040,all,sustainable_aviation_fuel,astm_blending_component,eu_saf,1.20,2.20,4.00,triangular,mandate_market,60000000,model_default,Export mandate case.
+2050,all,sustainable_aviation_fuel,astm_blending_component,eu_saf,1.10,2.50,4.50,triangular,mandate_market,180000000,model_default,High mandate and synthetic fuel share sensitivity.

@@ -1,0 +1,3 @@
+gap_id,needed_parameter,current_status,minimum_solution,submission_solution,evidence_grade
+reservoir_pressure_simulation,pressure buildup and interference by reservoir unit,not_resolved,"build reduced-order radial-flow pressure screen with depth, thickness, permeability, porosity, temperature, salinity, well spacing, and max bottom-hole pressure",calibrate with basin-level reservoir models or published project injection histories,D
+well_count_and_spacing,"injector count, completion design, spacing constraints, and caprock pressure limit",not_resolved,derive well count from county/province injection capacity and assumed Mtpa per well range,replace with project-specific wellfield design or basin atlas data,D

@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>China CO2 Allocation Interactive Map</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main class="app-shell">
+      <section class="map-stage" aria-label="Interactive CO2 allocation map">
+        <header class="toolbar">
+          <div>
+            <p class="eyebrow">China 2030-2060 CO2 allocator</p>
+            <h1>Click a city region to inspect the best CO2 pathway</h1>
+          </div>
+          <div class="controls" aria-label="Map controls">
+            <label>
+              Year
+              <select id="yearSelect"></select>
+            </label>
+            <label>
+              Layer
+              <select id="layerSelect">
+                <option value="margin">Profit margin</option>
+                <option value="fusion">Multimodal score</option>
+                <option value="policy">Policy-text score</option>
+                <option value="visual">Satellite/visual score</option>
+                <option value="process">Process/reservoir score</option>
+                <option value="ceads">CEADs city emissions</option>
+                <option value="allocation">LP allocation</option>
+                <option value="archetype">Technology archetype</option>
+              </select>
+            </label>
+            <label class="toggle">
+              <input id="routeToggle" type="checkbox" checked />
+              Routes
+            </label>
+            <label class="search-label">
+              Search
+              <input id="citySearch" list="cityList" placeholder="city name or id" />
+              <datalist id="cityList"></datalist>
+            </label>
+          </div>
+        </header>
+
+        <div class="stats-strip" id="statsStrip"></div>
+
+        <div class="map-wrap">
+          <svg id="mapSvg" viewBox="0 0 940 650" role="img" aria-label="China prefecture CO2 profitability map">
+            <g id="routeLayer"></g>
+            <g id="cityLayer"></g>
+            <g id="selectedLayer"></g>
+          </svg>
+          <div class="legend" id="legend"></div>
+          <div class="tooltip" id="tooltip" hidden></div>
+        </div>
+      </section>
+
+      <aside class="detail-panel" aria-label="Selected city details">
+        <section class="detail-hero">
+          <p class="eyebrow">Selected city</p>
+          <h2 id="cityTitle">Loading...</h2>
+          <div class="badge-row" id="cityBadges"></div>
+        </section>
+
+        <section class="detail-section">
+          <h3>Recommended Pathway</h3>
+          <div class="recommendation" id="recommendation"></div>
+        </section>
+
+        <section class="detail-section">
+          <h3>Current And Future Profitability</h3>
+          <div id="timelineChart" class="timeline-chart"></div>
+        </section>
+
+        <section class="detail-section">
+          <h3>2060 Route Portfolio</h3>
+          <div id="allocationPanel"></div>
+        </section>
+
+        <section class="detail-section">
+          <h3>Uncertainty And Evidence Quality</h3>
+          <div id="uncertaintyPanel"></div>
+        </section>
+
+        <section class="detail-section">
+          <h3>Policy And Stress Scenarios</h3>
+          <div id="stressPanel" class="stress-grid"></div>
+        </section>
+      </aside>
+    </main>
+
+    <script src="./app.js"></script>
+  </body>
+</html>

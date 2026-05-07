@@ -1,0 +1,47 @@
+city_id,city_name,province,latitude,longitude,city_type,chemical_demand_index,fuel_demand_index,construction_material_demand_index,renewable_power_index,port_access_index,storage_access_hint,notes
+ORDOS,Ordos,Inner Mongolia,39.6086,109.7816,source_storage_renewable,0.7,0.6,0.7,0.9,0.1,high,Coal-chemical and Ordos basin storage/H2 candidate.
+YULIN,Yulin,Shaanxi,38.2852,109.7346,source_storage_renewable,0.7,0.6,0.6,0.8,0.1,high,Coal-chemical and storage corridor candidate.
+YINCHUAN,Yinchuan/Ningdong,Ningxia,38.4872,106.2309,source_storage_renewable,0.7,0.6,0.5,0.8,0.1,high,Ningdong energy-chemical base.
+BAOTOU,Baotou,Inner Mongolia,40.6574,109.8403,source_storage_renewable,0.5,0.4,0.6,0.8,0.1,medium,Steel/rare earth and renewable H2 candidate.
+WUHAI,Wuhai,Inner Mongolia,39.6737,106.8256,source_storage_renewable,0.6,0.4,0.6,0.8,0.1,medium,Coke/chemicals and renewable corridor.
+HAMI,Hami,Xinjiang,42.8193,93.5151,renewable_conversion,0.4,0.3,0.3,1.0,0.1,low,Low-cost renewable/electrochemical/photochemical candidate.
+TURPAN,Turpan,Xinjiang,42.9513,89.1895,renewable_conversion,0.3,0.2,0.3,1.0,0.1,low,High solar resource pilot candidate.
+URUMQI,Urumqi,Xinjiang,43.8256,87.6168,renewable_conversion,0.6,0.5,0.5,0.8,0.2,low,Industrial demand near renewable base.
+JIUQUAN,Jiuquan,Gansu,39.7328,98.4939,renewable_conversion,0.4,0.3,0.4,1.0,0.1,low,Wind/solar electrochemical candidate.
+ZHANGYE,Zhangye,Gansu,38.9259,100.4498,renewable_conversion,0.3,0.2,0.4,0.9,0.1,low,Wind/solar conversion candidate.
+JINCHANG,Jinchang,Gansu,38.5201,102.1880,renewable_conversion,0.5,0.3,0.4,0.9,0.1,low,Metals and renewable conversion candidate.
+GOLMUD,Golmud/Haixi,Qinghai,36.4067,94.9281,renewable_conversion,0.3,0.2,0.3,1.0,0.1,low,Solar/H2 and photochemical pilot candidate.
+XINING,Xining,Qinghai,36.6171,101.7782,renewable_conversion,0.5,0.4,0.5,0.8,0.1,low,Green H2 hub candidate.
+ZHONGWEI,Zhongwei,Ningxia,37.5002,105.1968,renewable_conversion,0.4,0.3,0.4,0.9,0.1,medium,Renewable and energy storage corridor.
+SHANGHAI,Shanghai,Shanghai,31.2304,121.4737,coastal_chemical_saf,1.0,1.0,0.9,0.5,1.0,low,Chemical/port/airport SAF offtake hub.
+NINGBO,Ningbo-Zhoushan,Zhejiang,29.8683,121.5440,coastal_chemical_saf,0.95,0.95,0.8,0.6,1.0,low,Refinery/port/offshore wind candidate.
+NANJING,Nanjing,Jiangsu,32.0603,118.7969,coastal_chemical,0.9,0.7,0.8,0.5,0.7,low,Chemicals and materials hub.
+SUZHOU,Suzhou/Zhangjiagang,Jiangsu,31.2989,120.5853,coastal_chemical,0.9,0.7,0.8,0.5,0.7,low,Chemical/materials demand hub.
+TIANJIN,Tianjin,Tianjin,39.3434,117.3616,coastal_storage_saf,0.9,0.95,0.8,0.5,1.0,medium,Port/refinery/storage corridor.
+CANGZHOU,Cangzhou,Hebei,38.3044,116.8387,coastal_storage_saf,0.75,0.85,0.7,0.5,0.8,medium,Petrochemical and Bohai storage access.
+TANGSHAN,Tangshan,Hebei,39.6309,118.1802,mineral_storage,0.7,0.6,1.0,0.5,0.7,medium,Steel/cement/mineralization/storage corridor.
+DONGYING,Dongying,Shandong,37.4346,118.6747,coastal_storage_saf,0.8,0.9,0.7,0.5,0.7,medium,Oilfield/refinery/EOR candidate.
+ZIBO,Zibo,Shandong,36.8131,118.0548,coastal_chemical,0.85,0.7,0.7,0.5,0.5,medium,Chemical cluster.
+QINGDAO,Qingdao,Shandong,36.0671,120.3826,coastal_chemical_saf,0.8,0.9,0.8,0.6,1.0,low,Port/chemical/SAF logistics.
+RIZHAO,Rizhao,Shandong,35.4164,119.5269,mineral_port,0.7,0.7,0.9,0.6,0.9,low,Steel/port/mineralization candidate.
+DALIAN,Dalian,Liaoning,38.9140,121.6147,coastal_chemical_saf,0.9,0.9,0.7,0.5,1.0,medium,Refinery/port/storage candidate.
+PANJIN,Panjin,Liaoning,41.1199,122.0707,coastal_storage_saf,0.8,0.9,0.6,0.5,0.6,medium,Refinery/oilfield candidate.
+WUHAN,Wuhan,Hubei,30.5928,114.3055,mineral_chemical,0.8,0.7,1.0,0.4,0.5,medium,Yangtze materials and mineralization hub.
+HUANGSHI,Huangshi,Hubei,30.1995,115.0389,mineral_materials,0.5,0.4,0.9,0.4,0.4,medium,Steel/cement/materials mineralization.
+ZHENGZHOU,Zhengzhou,Henan,34.7466,113.6254,mineral_materials,0.6,0.5,1.0,0.4,0.3,medium,Central construction/materials demand.
+LUOYANG,Luoyang,Henan,34.6197,112.4540,mineral_materials,0.5,0.4,0.8,0.4,0.2,medium,Industrial materials candidate.
+ANYANG,Anyang,Henan,36.0976,114.3924,mineral_materials,0.5,0.4,0.8,0.4,0.2,medium,Steel/mineralization candidate.
+HANDAN,Handan,Hebei,36.6256,114.5391,mineral_materials,0.5,0.4,0.9,0.4,0.2,medium,Steel/cement/mineralization candidate.
+MAANSHAN,Maanshan,Anhui,31.6705,118.5061,mineral_chemical,0.6,0.5,0.9,0.4,0.4,medium,Steel/Yangtze materials.
+WUHUX,Wuhu,Anhui,31.3525,118.4331,mineral_chemical,0.6,0.5,0.8,0.4,0.5,medium,Yangtze materials/chemicals.
+CHANGSHA,Changsha,Hunan,28.2282,112.9388,mineral_materials,0.6,0.5,0.9,0.4,0.3,low,Construction/materials demand hub.
+CHONGQING,Chongqing,Chongqing,29.5630,106.5516,mineral_chemical,0.8,0.7,1.0,0.4,0.4,medium,Industrial/construction market.
+CHENGDU,Chengdu,Sichuan,30.5728,104.0668,mineral_chemical,0.7,0.6,1.0,0.5,0.3,medium,Construction market and basin candidate.
+GUANGZHOU,Guangzhou,Guangdong,23.1291,113.2644,coastal_chemical_saf,0.9,1.0,0.9,0.5,0.9,low,Airport/fuel demand and port access.
+SHENZHEN,Shenzhen,Guangdong,22.5431,114.0579,coastal_saf,0.8,1.0,0.8,0.5,1.0,low,Port/airport demand.
+HUIZHOU,Huizhou,Guangdong,23.1115,114.4152,coastal_chemical_saf,0.9,0.9,0.7,0.5,0.8,low,Petrochemical/refinery candidate.
+ZHUHAI,Zhuhai,Guangdong,22.2707,113.5767,coastal_saf,0.7,0.9,0.7,0.5,1.0,low,Port/airport corridor.
+MAOMING,Maoming,Guangdong,21.6627,110.9255,coastal_chemical_saf,0.8,0.9,0.6,0.5,0.8,low,Refinery/fuel candidate.
+ZHANJIANG,Zhanjiang,Guangdong,21.2707,110.3594,coastal_chemical_saf,0.7,0.9,0.6,0.6,0.9,low,Port/refinery/steel candidate.
+XIAMEN,Xiamen,Fujian,24.4798,118.0894,coastal_saf,0.7,0.9,0.7,0.6,1.0,low,Port/fuel logistics.
+QUANZHOU,Quanzhou,Fujian,24.8741,118.6757,coastal_chemical_saf,0.8,0.9,0.7,0.6,0.9,low,Petrochemical/fuel candidate.

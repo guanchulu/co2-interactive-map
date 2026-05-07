@@ -1,0 +1,120 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1050" viewBox="0 0 1600 1050">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<style>
+text{font-family:Arial,Helvetica,sans-serif;fill:#202426}
+.title{font-size:26px;font-weight:700}.subtitle{font-size:13px;fill:#5f6b70}
+.paneltitle{font-size:14px;font-weight:700}.small{font-size:10.5px;fill:#5f6b70}
+.axis{font-size:11px;fill:#5f6b70}.label{font-size:12px;fill:#202426}
+.panelletter{font-size:17px;font-weight:700;fill:#202426}
+</style>
+<text x="36" y="34" class="title">Figure 1. Model architecture and evidence upgrade</text>
+<text x="36" y="56" class="subtitle">Functional unit, data layers, technology families, and evidence status.</text>
+<defs><marker id="arrow2" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto"><path d="M0,0 L10,4 L0,8 z" fill="#202426"/></marker></defs>
+<rect x="40" y="82" width="740" height="360" rx="8" fill="#f7f9f9" stroke="#d6dedf"/>
+<text x="52" y="104" class="panelletter">a</text>
+<text x="78" y="103" class="paneltitle">Allocation workflow</text>
+<rect x="85" y="180" width="130" height="76" rx="8" fill="#edf2f2" stroke="#9aa6aa" opacity="1.0"/>
+<text x="150" y="210" text-anchor="middle" class="label">CO2 sources</text>
+<text x="150" y="232" text-anchor="middle" class="small">purity / pressure / capture cost</text>
+<rect x="235" y="180" width="130" height="76" rx="8" fill="#edf2f2" stroke="#9aa6aa" opacity="1.0"/>
+<text x="300" y="210" text-anchor="middle" class="label">Transport + hubs</text>
+<text x="300" y="232" text-anchor="middle" class="small">pipeline / rail / truck / ship</text>
+<rect x="400" y="180" width="130" height="76" rx="8" fill="#edf2f2" stroke="#9aa6aa" opacity="1.0"/>
+<text x="465" y="210" text-anchor="middle" class="label">Pathway module</text>
+<text x="465" y="232" text-anchor="middle" class="small">storage / minerals / fuels / chemicals</text>
+<rect x="585" y="180" width="130" height="76" rx="8" fill="#edf2f2" stroke="#9aa6aa" opacity="1.0"/>
+<text x="650" y="210" text-anchor="middle" class="label">Markets + policy</text>
+<text x="650" y="232" text-anchor="middle" class="small">price / capacity / credits / MRV</text>
+<line x1="215" y1="218" x2="235" y2="218" stroke="#202426" stroke-width="1.8"/>
+<line x1="365" y1="218" x2="385" y2="218" stroke="#202426" stroke-width="1.8"/>
+<line x1="530" y1="218" x2="550" y2="218" stroke="#202426" stroke-width="1.8"/>
+<text x="400" y="305" text-anchor="middle" class="label">Output: margin, NPV proxy, net avoided emissions, permanence, first profitable year</text>
+<rect x="820" y="82" width="720" height="360" rx="8" fill="#f7f9f9" stroke="#d6dedf"/>
+<text x="832" y="104" class="panelletter">b</text>
+<text x="858" y="103" class="paneltitle">Evidence ladder</text>
+<line x1="940.0" y1="160" x2="940.0" y2="350" stroke="#8b969a" stroke-width="1"/>
+<rect x="940.0" y="168.55" width="140.0" height="26.125000000000004" rx="3" fill="#225f74" stroke="none" opacity="1.0"/>
+<text x="934" y="187.55" text-anchor="end" class="axis">B</text>
+<text x="1084.0" y="187.55" text-anchor="start" class="axis">1</text>
+<rect x="940.0" y="216.05" width="280.0" height="26.125000000000004" rx="3" fill="#7d63a6" stroke="none" opacity="1.0"/>
+<text x="934" y="235.05" text-anchor="end" class="axis">B/C mixed</text>
+<text x="1224.0" y="235.05" text-anchor="start" class="axis">2</text>
+<rect x="940.0" y="263.55" width="280.0" height="26.125000000000004" rx="3" fill="#c97836" stroke="none" opacity="1.0"/>
+<text x="934" y="282.55" text-anchor="end" class="axis">C</text>
+<text x="1224.0" y="282.55" text-anchor="start" class="axis">2</text>
+<rect x="940.0" y="311.05" width="420.0" height="26.125000000000004" rx="3" fill="#b94d5a" stroke="none" opacity="1.0"/>
+<text x="934" y="330.05" text-anchor="end" class="axis">D</text>
+<text x="1364.0" y="330.05" text-anchor="start" class="axis">3</text>
+<line x1="940" y1="350" x2="1360" y2="350" stroke="#8b969a" stroke-width="1"/>
+<text x="1150.0" y="370" text-anchor="middle" class="axis">parameter groups</text>
+<text x="860" y="385" text-anchor="start" class="small">Ledger separates measured data, literature calibration, and unresolved scenario inputs.</text>
+<rect x="40" y="480" width="460" height="500" rx="8" fill="#f7f9f9" stroke="#d6dedf"/>
+<text x="52" y="502" class="panelletter">c</text>
+<text x="78" y="501" class="paneltitle">Pathway portfolio</text>
+<rect x="75" y="524" width="20" height="20" rx="4" fill="#3d8f63" stroke="none" opacity="1.0"/>
+<text x="105" y="540" text-anchor="start" class="small">Mineralization</text>
+<text x="410" y="540" text-anchor="end" class="small">2035</text>
+<rect x="75" y="557" width="20" height="20" rx="4" fill="#c97836" stroke="none" opacity="1.0"/>
+<text x="105" y="573" text-anchor="start" class="small">FT-SAF</text>
+<text x="410" y="573" text-anchor="end" class="small">2040</text>
+<rect x="75" y="590" width="20" height="20" rx="4" fill="#7d63a6" stroke="none" opacity="1.0"/>
+<text x="105" y="606" text-anchor="start" class="small">E-formate</text>
+<text x="410" y="606" text-anchor="end" class="small">2040</text>
+<rect x="75" y="623" width="20" height="20" rx="4" fill="#225f74" stroke="none" opacity="1.0"/>
+<text x="105" y="639" text-anchor="start" class="small">Storage</text>
+<text x="410" y="639" text-anchor="end" class="small">2040</text>
+<rect x="75" y="656" width="20" height="20" rx="4" fill="#c97836" stroke="none" opacity="1.0"/>
+<text x="105" y="672" text-anchor="start" class="small">RWGS-CO</text>
+<text x="410" y="672" text-anchor="end" class="small">2040</text>
+<rect x="75" y="689" width="20" height="20" rx="4" fill="#c97836" stroke="none" opacity="1.0"/>
+<text x="105" y="705" text-anchor="start" class="small">MTJ-SAF</text>
+<text x="410" y="705" text-anchor="end" class="small">2045</text>
+<rect x="75" y="722" width="20" height="20" rx="4" fill="#c97836" stroke="none" opacity="1.0"/>
+<text x="105" y="738" text-anchor="start" class="small">Methane</text>
+<text x="410" y="738" text-anchor="end" class="small">2050</text>
+<rect x="75" y="755" width="20" height="20" rx="4" fill="#c97836" stroke="none" opacity="1.0"/>
+<text x="105" y="771" text-anchor="start" class="small">Methanol</text>
+<text x="410" y="771" text-anchor="end" class="small">2050</text>
+<rect x="75" y="788" width="20" height="20" rx="4" fill="#b8a23a" stroke="none" opacity="1.0"/>
+<text x="105" y="804" text-anchor="start" class="small">PEC-formate</text>
+<text x="410" y="804" text-anchor="end" class="small">2055</text>
+<rect x="75" y="821" width="20" height="20" rx="4" fill="#7d63a6" stroke="none" opacity="1.0"/>
+<text x="105" y="837" text-anchor="start" class="small">E-CO</text>
+<text x="410" y="837" text-anchor="end" class="small">not by 2060</text>
+<rect x="75" y="854" width="20" height="20" rx="4" fill="#7d63a6" stroke="none" opacity="1.0"/>
+<text x="105" y="870" text-anchor="start" class="small">E-ethylene</text>
+<text x="410" y="870" text-anchor="end" class="small">not by 2060</text>
+<rect x="75" y="887" width="20" height="20" rx="4" fill="#b8a23a" stroke="none" opacity="1.0"/>
+<text x="105" y="903" text-anchor="start" class="small">PCO</text>
+<text x="410" y="903" text-anchor="end" class="small">not by 2060</text>
+<rect x="535" y="480" width="480" height="500" rx="8" fill="#f7f9f9" stroke="#d6dedf"/>
+<text x="547" y="502" class="panelletter">d</text>
+<text x="573" y="501" class="paneltitle">Profit equation</text>
+<rect x="575" y="560" width="390" height="52" rx="6" fill="#ffffff" stroke="#d6dedf" opacity="1.0"/>
+<text x="595" y="592" text-anchor="start" class="small">margin = product revenue + policy revenue - risk-adjusted cost</text>
+<rect x="575" y="642" width="390" height="52" rx="6" fill="#ffffff" stroke="#d6dedf" opacity="1.0"/>
+<text x="595" y="674" text-anchor="start" class="small">risk-adjusted cost = process + capture + transport + MRV + finance + reliability</text>
+<rect x="575" y="724" width="390" height="52" rx="6" fill="#ffffff" stroke="#d6dedf" opacity="1.0"/>
+<text x="595" y="756" text-anchor="start" class="small">policy revenue = avoided-carbon credit + durable-removal credit + fuel/product premiums</text>
+<rect x="575" y="806" width="390" height="52" rx="6" fill="#ffffff" stroke="#d6dedf" opacity="1.0"/>
+<text x="595" y="838" text-anchor="start" class="small">profitability window = first year with margin &gt; 0 for at least one city-route pair</text>
+<rect x="1050" y="480" width="490" height="500" rx="8" fill="#f7f9f9" stroke="#d6dedf"/>
+<text x="1062" y="502" class="panelletter">e</text>
+<text x="1088" y="501" class="paneltitle">China dual-carbon time axis</text>
+<line x1="1110" y1="835" x2="1470" y2="835" stroke="#8b969a" stroke-width="1.0"/>
+<line x1="1110" y1="585" x2="1110" y2="835" stroke="#8b969a" stroke-width="1.0"/>
+<polyline points="1110.0,835.0 1170.0,755.5 1230.0,693.0 1290.0,673.6 1350.0,658.9 1410.0,650.9 1470.0,644.1" fill="none" stroke="#7d63a6" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="1478" y="648.0909090909091" text-anchor="start" class="small" fill="#7d63a6">H2 price (inverse)</text>
+<polyline points="1110.0,835.0 1170.0,781.4 1230.0,745.7 1290.0,710.0 1350.0,683.2 1410.0,665.4 1470.0,656.4" fill="none" stroke="#225f74" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="1478" y="660.4285714285714" text-anchor="start" class="small" fill="#225f74">Power price (inverse)</text>
+<polyline points="1110.0,793.3 1170.0,744.7 1230.0,703.1 1290.0,668.3 1350.0,640.6 1410.0,612.8 1470.0,585.0" fill="none" stroke="#3d8f63" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="1478" y="589.0" text-anchor="start" class="small" fill="#3d8f63">Carbon value</text>
+<text x="1110.0" y="853" text-anchor="middle" class="axis">2030</text>
+<text x="1170.0" y="853" text-anchor="middle" class="axis">2035</text>
+<text x="1230.0" y="853" text-anchor="middle" class="axis">2040</text>
+<text x="1290.0" y="853" text-anchor="middle" class="axis">2045</text>
+<text x="1350.0" y="853" text-anchor="middle" class="axis">2050</text>
+<text x="1410.0" y="853" text-anchor="middle" class="axis">2055</text>
+<text x="1470.0" y="853" text-anchor="middle" class="axis">2060</text>
+<text x="1110" y="880" text-anchor="start" class="small">Official framing: peak before 2030, carbon neutrality before 2060.</text>
+</svg>

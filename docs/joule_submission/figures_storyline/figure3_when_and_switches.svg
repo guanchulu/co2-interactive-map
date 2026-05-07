@@ -1,0 +1,215 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1420" height="980" viewBox="0 0 1420 980">
+<style>text{font-family:Arial,Helvetica,sans-serif;} .mono{font-family:Consolas,monospace;}</style>
+<rect x="0.0" y="0.0" width="1420.0" height="980.0" rx="0.0" fill="#ffffff" stroke="none" stroke-width="1.0"/>
+<rect x="0.0" y="0.0" width="1420.0" height="92.0" rx="0.0" fill="#ffffff" stroke="none" stroke-width="1.0"/>
+<text x="42.0" y="42.0" font-size="25" font-weight="700" text-anchor="start" fill="#243033">Figure 3. When routes turn profitable and what flips them</text>
+<text x="42.0" y="68.0" font-size="13" font-weight="400" text-anchor="start" fill="#627176">The 2030-2060 sequence is governed by product value, policy value, H2, electricity, transport and reliability.</text>
+<rect x="40.0" y="120.0" width="820.0" height="500.0" rx="6.0" fill="#ffffff" stroke="#dfe6e8" stroke-width="1.0"/>
+<text x="56.0" y="148.0" font-size="16" font-weight="700" text-anchor="start" fill="#243033">A</text>
+<text x="82.0" y="148.0" font-size="14" font-weight="700" text-anchor="start" fill="#243033">2030-2060 margin heatmap</text>
+<text x="246.0" y="156.0" font-size="10" font-weight="700" text-anchor="middle" fill="#627176">2030</text>
+<text x="328.0" y="156.0" font-size="10" font-weight="700" text-anchor="middle" fill="#627176">2035</text>
+<text x="410.0" y="156.0" font-size="10" font-weight="700" text-anchor="middle" fill="#627176">2040</text>
+<text x="492.0" y="156.0" font-size="10" font-weight="700" text-anchor="middle" fill="#627176">2045</text>
+<text x="574.0" y="156.0" font-size="10" font-weight="700" text-anchor="middle" fill="#627176">2050</text>
+<text x="656.0" y="156.0" font-size="10" font-weight="700" text-anchor="middle" fill="#627176">2055</text>
+<text x="738.0" y="156.0" font-size="10" font-weight="700" text-anchor="middle" fill="#627176">2060</text>
+<text x="70.0" y="189.0" font-size="10" font-weight="600" text-anchor="start" fill="#243033">Storage</text>
+<rect x="205.0" y="170.0" width="79.0" height="27.0" rx="2.0" fill="rgb(229,197,192)" stroke="#ffffff" stroke-width="0.5"/>
+<rect x="287.0" y="170.0" width="79.0" height="27.0" rx="2.0" fill="rgb(246,225,218)" stroke="#ffffff" stroke-width="0.5"/>
+<rect x="369.0" y="170.0" width="79.0" height="27.0" rx="2.0" fill="rgb(212,235,227)" stroke="#ffffff" stroke-width="0.5"/>
+<text x="410.0" y="189.0" font-size="9" font-weight="700" text-anchor="middle" fill="#243033">60</text>
+<rect x="451.0" y="170.0" width="79.0" height="27.0" rx="2.0" fill="rgb(187,221,212)" stroke="#ffffff" stroke-width="0.5"/>
+<text x="492.0" y="189.0" font-size="9" font-weight="700" text-anchor="middle" fill="#243033">126</text>
+<rect x="533.0" y="170.0" width="79.0" height="27.0" rx="2.0" fill="rgb(168,211,199)" stroke="#ffffff" stroke-width="0.5"/>
+<text x="574.0" y="189.0" font-size="9" font-weight="700" text-anchor="middle" fill="#243033">178</text>
+<rect x="615.0" y="170.0" width="79.0" height="27.0" rx="2.0" fill="rgb(145,199,185)" stroke="#ffffff" stroke-width="0.5"/>
+<text x="656.0" y="189.0" font-size="9" font-weight="700" text-anchor="middle" fill="#243033">237</text>
+<rect x="697.0" y="170.0" width="79.0" height="27.0" rx="2.0" fill="rgb(123,187,172)" stroke="#ffffff" stroke-width="0.5"/>
+<text x="738.0" y="189.0" font-size="9" font-weight="700" text-anchor="middle" fill="#243033">295</text>
+<text x="70.0" y="219.0" font-size="10" font-weight="600" text-anchor="start" fill="#243033">Mineralization</text>
+<rect x="205.0" y="200.0" width="79.0" height="27.0" rx="2.0" fill="rgb(242,219,212)" stroke="#ffffff" stroke-width="0.5"/>
+<rect x="287.0" y="200.0" width="79.0" height="27.0" rx="2.0" fill="rgb(209,233,225)" stroke="#ffffff" stroke-width="0.5"/>
+<text x="328.0" y="219.0" font-size="9" font-weight="700" text-anchor="middle" fill="#243033">68</text>
+<rect x="369.0" y="200.0" width="79.0" height="27.0" rx="2.0" fill="rgb(173,214,203)" stroke="#ffffff" stroke-width="0.5"/>
+<text x="410.0" y="219.0" font-size="9" font-weight="700" text-anchor="middle" fill="#243033">165</text>
+<rect x="451.0" y="200.0" width="79.0" height="27.0" rx="2.0" fill="rgb(142,197,183)" stroke="#ffffff" stroke-width="0.5"/>
+<text x="492.0" y="219.0" font-size="9" font-weight="700" text-anchor="middle" fill="#243033">246</text>
+<rect x="533.0" y="200.0" width="79.0" height="27.0" rx="2.0" fill="rgb(118,185,169)" stroke="#ffffff" stroke-width="0.5"/>
+<text x="574.0" y="219.0" font-size="9" font-weight="700" text-anchor="middle" fill="#243033">309</text>
+<rect x="615.0" y="200.0" width="79.0" height="27.0" rx="2.0" fill="rgb(94,172,153)" stroke="#ffffff" stroke-width="0.5"/>
+<text x="656.0" y="219.0" font-size="9" font-weight="700" text-anchor="middle" fill="#243033">375</text>
+<rect x="697.0" y="200.0" width="79.0" height="27.0" rx="2.0" fill="rgb(70,159,138)" stroke="#ffffff" stroke-width="0.5"/>
+<text x="738.0" y="219.0" font-size="9" font-weight="700" text-anchor="middle" fill="#243033">439</text>
+<text x="70.0" y="249.0" font-size="10" font-weight="600" text-anchor="start" fill="#243033">FT-SAF</text>
+<rect x="205.0" y="230.0" width="79.0" height="27.0" rx="2.0" fill="rgb(180,112,114)" stroke="#ffffff" stroke-width="0.5"/>
+<rect x="287.0" y="230.0" width="79.0" height="27.0" rx="2.0" fill="rgb(225,190,186)" stroke="#ffffff" stroke-width="0.5"/>
+<rect x="369.0" y="230.0" width="79.0" height="27.0" rx="2.0" fill="rgb(76,162,142)" stroke="#ffffff" stroke-width="0.5"/>
+<text x="410.0" y="249.0" font-size="9" font-weight="700" text-anchor="middle" fill="#243033">423</text>
+<rect x="451.0" y="230.0" width="79.0" height="27.0" rx="2.0" fill="rgb(47,147,124)" stroke="#ffffff" stroke-width="0.5"/>
+<text x="492.0" y="249.0" font-size="9" font-weight="700" text-anchor="middle" fill="#243033">863</text>
+<rect x="533.0" y="230.0" width="79.0" height="27.0" rx="2.0" fill="rgb(47,147,124)" stroke="#ffffff" stroke-width="0.5"/>
+<text x="574.0" y="249.0" font-size="9" font-weight="700" text-anchor="middle" fill="#243033">1185</text>
+<rect x="615.0" y="230.0" width="79.0" height="27.0" rx="2.0" fill="rgb(47,147,124)" stroke="#ffffff" stroke-width="0.5"/>
+<text x="656.0" y="249.0" font-size="9" font-weight="700" text-anchor="middle" fill="#243033">1410</text>
+<rect x="697.0" y="230.0" width="79.0" height="27.0" rx="2.0" fill="rgb(47,147,124)" stroke="#ffffff" stroke-width="0.5"/>
+<text x="738.0" y="249.0" font-size="9" font-weight="700" text-anchor="middle" fill="#243033">1554</text>
+<text x="70.0" y="279.0" font-size="10" font-weight="600" text-anchor="start" fill="#243033">MTJ-SAF</text>
+<rect x="205.0" y="260.0" width="79.0" height="27.0" rx="2.0" fill="rgb(180,112,114)" stroke="#ffffff" stroke-width="0.5"/>
+<rect x="287.0" y="260.0" width="79.0" height="27.0" rx="2.0" fill="rgb(180,112,114)" stroke="#ffffff" stroke-width="0.5"/>
+<rect x="369.0" y="260.0" width="79.0" height="27.0" rx="2.0" fill="rgb(240,215,208)" stroke="#ffffff" stroke-width="0.5"/>
+<rect x="451.0" y="260.0" width="79.0" height="27.0" rx="2.0" fill="rgb(129,190,175)" stroke="#ffffff" stroke-width="0.5"/>
+<text x="492.0" y="279.0" font-size="9" font-weight="700" text-anchor="middle" fill="#243033">282</text>
+<rect x="533.0" y="260.0" width="79.0" height="27.0" rx="2.0" fill="rgb(47,147,124)" stroke="#ffffff" stroke-width="0.5"/>
+<text x="574.0" y="279.0" font-size="9" font-weight="700" text-anchor="middle" fill="#243033">535</text>
+<rect x="615.0" y="260.0" width="79.0" height="27.0" rx="2.0" fill="rgb(47,147,124)" stroke="#ffffff" stroke-width="0.5"/>
+<text x="656.0" y="279.0" font-size="9" font-weight="700" text-anchor="middle" fill="#243033">710</text>
+<rect x="697.0" y="260.0" width="79.0" height="27.0" rx="2.0" fill="rgb(47,147,124)" stroke="#ffffff" stroke-width="0.5"/>
+<text x="738.0" y="279.0" font-size="9" font-weight="700" text-anchor="middle" fill="#243033">819</text>
+<text x="70.0" y="309.0" font-size="10" font-weight="600" text-anchor="start" fill="#243033">RWGS-CO</text>
+<rect x="205.0" y="290.0" width="79.0" height="27.0" rx="2.0" fill="rgb(215,172,169)" stroke="#ffffff" stroke-width="0.5"/>
+<rect x="287.0" y="290.0" width="79.0" height="27.0" rx="2.0" fill="rgb(235,207,201)" stroke="#ffffff" stroke-width="0.5"/>
+<rect x="369.0" y="290.0" width="79.0" height="27.0" rx="2.0" fill="rgb(205,231,223)" stroke="#ffffff" stroke-width="0.5"/>
+<text x="410.0" y="309.0" font-size="9" font-weight="700" text-anchor="middle" fill="#243033">79</text>
+<rect x="451.0" y="290.0" width="79.0" height="27.0" rx="2.0" fill="rgb(153,203,190)" stroke="#ffffff" stroke-width="0.5"/>
+<text x="492.0" y="309.0" font-size="9" font-weight="700" text-anchor="middle" fill="#243033">217</text>
+<rect x="533.0" y="290.0" width="79.0" height="27.0" rx="2.0" fill="rgb(102,176,158)" stroke="#ffffff" stroke-width="0.5"/>
+<text x="574.0" y="309.0" font-size="9" font-weight="700" text-anchor="middle" fill="#243033">353</text>
+<rect x="615.0" y="290.0" width="79.0" height="27.0" rx="2.0" fill="rgb(68,158,137)" stroke="#ffffff" stroke-width="0.5"/>
+<text x="656.0" y="309.0" font-size="9" font-weight="700" text-anchor="middle" fill="#243033">444</text>
+<rect x="697.0" y="290.0" width="79.0" height="27.0" rx="2.0" fill="rgb(47,147,124)" stroke="#ffffff" stroke-width="0.5"/>
+<text x="738.0" y="309.0" font-size="9" font-weight="700" text-anchor="middle" fill="#243033">532</text>
+<text x="70.0" y="339.0" font-size="10" font-weight="600" text-anchor="start" fill="#243033">Methanol</text>
+<rect x="205.0" y="320.0" width="79.0" height="27.0" rx="2.0" fill="rgb(192,133,134)" stroke="#ffffff" stroke-width="0.5"/>
+<rect x="287.0" y="320.0" width="79.0" height="27.0" rx="2.0" fill="rgb(214,170,167)" stroke="#ffffff" stroke-width="0.5"/>
+<rect x="369.0" y="320.0" width="79.0" height="27.0" rx="2.0" fill="rgb(234,205,199)" stroke="#ffffff" stroke-width="0.5"/>
+<rect x="451.0" y="320.0" width="79.0" height="27.0" rx="2.0" fill="rgb(249,230,222)" stroke="#ffffff" stroke-width="0.5"/>
+<rect x="533.0" y="320.0" width="79.0" height="27.0" rx="2.0" fill="rgb(201,229,220)" stroke="#ffffff" stroke-width="0.5"/>
+<text x="574.0" y="339.0" font-size="9" font-weight="700" text-anchor="middle" fill="#243033">90</text>
+<rect x="615.0" y="320.0" width="79.0" height="27.0" rx="2.0" fill="rgb(176,215,205)" stroke="#ffffff" stroke-width="0.5"/>
+<text x="656.0" y="339.0" font-size="9" font-weight="700" text-anchor="middle" fill="#243033">155</text>
+<rect x="697.0" y="320.0" width="79.0" height="27.0" rx="2.0" fill="rgb(154,204,191)" stroke="#ffffff" stroke-width="0.5"/>
+<text x="738.0" y="339.0" font-size="9" font-weight="700" text-anchor="middle" fill="#243033">215</text>
+<text x="70.0" y="369.0" font-size="10" font-weight="600" text-anchor="start" fill="#243033">Methane</text>
+<rect x="205.0" y="350.0" width="79.0" height="27.0" rx="2.0" fill="rgb(180,112,114)" stroke="#ffffff" stroke-width="0.5"/>
+<rect x="287.0" y="350.0" width="79.0" height="27.0" rx="2.0" fill="rgb(197,142,141)" stroke="#ffffff" stroke-width="0.5"/>
+<rect x="369.0" y="350.0" width="79.0" height="27.0" rx="2.0" fill="rgb(227,192,188)" stroke="#ffffff" stroke-width="0.5"/>
+<rect x="451.0" y="350.0" width="79.0" height="27.0" rx="2.0" fill="rgb(244,221,214)" stroke="#ffffff" stroke-width="0.5"/>
+<rect x="533.0" y="350.0" width="79.0" height="27.0" rx="2.0" fill="rgb(209,233,226)" stroke="#ffffff" stroke-width="0.5"/>
+<text x="574.0" y="369.0" font-size="9" font-weight="700" text-anchor="middle" fill="#243033">67</text>
+<rect x="615.0" y="350.0" width="79.0" height="27.0" rx="2.0" fill="rgb(181,218,208)" stroke="#ffffff" stroke-width="0.5"/>
+<text x="656.0" y="369.0" font-size="9" font-weight="700" text-anchor="middle" fill="#243033">142</text>
+<rect x="697.0" y="350.0" width="79.0" height="27.0" rx="2.0" fill="rgb(155,204,192)" stroke="#ffffff" stroke-width="0.5"/>
+<text x="738.0" y="369.0" font-size="9" font-weight="700" text-anchor="middle" fill="#243033">212</text>
+<text x="70.0" y="399.0" font-size="10" font-weight="600" text-anchor="start" fill="#243033">E-formate</text>
+<rect x="205.0" y="380.0" width="79.0" height="27.0" rx="2.0" fill="rgb(199,144,144)" stroke="#ffffff" stroke-width="0.5"/>
+<rect x="287.0" y="380.0" width="79.0" height="27.0" rx="2.0" fill="rgb(233,203,197)" stroke="#ffffff" stroke-width="0.5"/>
+<rect x="369.0" y="380.0" width="79.0" height="27.0" rx="2.0" fill="rgb(191,223,214)" stroke="#ffffff" stroke-width="0.5"/>
+<text x="410.0" y="399.0" font-size="9" font-weight="700" text-anchor="middle" fill="#243033">116</text>
+<rect x="451.0" y="380.0" width="79.0" height="27.0" rx="2.0" fill="rgb(124,188,172)" stroke="#ffffff" stroke-width="0.5"/>
+<text x="492.0" y="399.0" font-size="9" font-weight="700" text-anchor="middle" fill="#243033">294</text>
+<rect x="533.0" y="380.0" width="79.0" height="27.0" rx="2.0" fill="rgb(62,155,133)" stroke="#ffffff" stroke-width="0.5"/>
+<text x="574.0" y="399.0" font-size="9" font-weight="700" text-anchor="middle" fill="#243033">458</text>
+<rect x="615.0" y="380.0" width="79.0" height="27.0" rx="2.0" fill="rgb(47,147,124)" stroke="#ffffff" stroke-width="0.5"/>
+<text x="656.0" y="399.0" font-size="9" font-weight="700" text-anchor="middle" fill="#243033">577</text>
+<rect x="697.0" y="380.0" width="79.0" height="27.0" rx="2.0" fill="rgb(47,147,124)" stroke="#ffffff" stroke-width="0.5"/>
+<text x="738.0" y="399.0" font-size="9" font-weight="700" text-anchor="middle" fill="#243033">692</text>
+<text x="70.0" y="429.0" font-size="10" font-weight="600" text-anchor="start" fill="#243033">E-CO</text>
+<rect x="205.0" y="410.0" width="79.0" height="27.0" rx="2.0" fill="rgb(180,112,114)" stroke="#ffffff" stroke-width="0.5"/>
+<rect x="287.0" y="410.0" width="79.0" height="27.0" rx="2.0" fill="rgb(180,112,114)" stroke="#ffffff" stroke-width="0.5"/>
+<rect x="369.0" y="410.0" width="79.0" height="27.0" rx="2.0" fill="rgb(196,140,140)" stroke="#ffffff" stroke-width="0.5"/>
+<rect x="451.0" y="410.0" width="79.0" height="27.0" rx="2.0" fill="rgb(207,159,157)" stroke="#ffffff" stroke-width="0.5"/>
+<rect x="533.0" y="410.0" width="79.0" height="27.0" rx="2.0" fill="rgb(217,176,172)" stroke="#ffffff" stroke-width="0.5"/>
+<rect x="615.0" y="410.0" width="79.0" height="27.0" rx="2.0" fill="rgb(222,184,180)" stroke="#ffffff" stroke-width="0.5"/>
+<rect x="697.0" y="410.0" width="79.0" height="27.0" rx="2.0" fill="rgb(226,191,187)" stroke="#ffffff" stroke-width="0.5"/>
+<text x="70.0" y="459.0" font-size="10" font-weight="600" text-anchor="start" fill="#243033">E-ethylene</text>
+<rect x="205.0" y="440.0" width="79.0" height="27.0" rx="2.0" fill="rgb(180,112,114)" stroke="#ffffff" stroke-width="0.5"/>
+<rect x="287.0" y="440.0" width="79.0" height="27.0" rx="2.0" fill="rgb(180,112,114)" stroke="#ffffff" stroke-width="0.5"/>
+<rect x="369.0" y="440.0" width="79.0" height="27.0" rx="2.0" fill="rgb(180,112,114)" stroke="#ffffff" stroke-width="0.5"/>
+<rect x="451.0" y="440.0" width="79.0" height="27.0" rx="2.0" fill="rgb(180,112,114)" stroke="#ffffff" stroke-width="0.5"/>
+<rect x="533.0" y="440.0" width="79.0" height="27.0" rx="2.0" fill="rgb(180,112,114)" stroke="#ffffff" stroke-width="0.5"/>
+<rect x="615.0" y="440.0" width="79.0" height="27.0" rx="2.0" fill="rgb(180,112,114)" stroke="#ffffff" stroke-width="0.5"/>
+<rect x="697.0" y="440.0" width="79.0" height="27.0" rx="2.0" fill="rgb(180,112,114)" stroke="#ffffff" stroke-width="0.5"/>
+<text x="70.0" y="489.0" font-size="10" font-weight="600" text-anchor="start" fill="#243033">PEC-formate</text>
+<rect x="205.0" y="470.0" width="79.0" height="27.0" rx="2.0" fill="rgb(180,112,114)" stroke="#ffffff" stroke-width="0.5"/>
+<rect x="287.0" y="470.0" width="79.0" height="27.0" rx="2.0" fill="rgb(191,132,132)" stroke="#ffffff" stroke-width="0.5"/>
+<rect x="369.0" y="470.0" width="79.0" height="27.0" rx="2.0" fill="rgb(215,172,169)" stroke="#ffffff" stroke-width="0.5"/>
+<rect x="451.0" y="470.0" width="79.0" height="27.0" rx="2.0" fill="rgb(230,199,193)" stroke="#ffffff" stroke-width="0.5"/>
+<rect x="533.0" y="470.0" width="79.0" height="27.0" rx="2.0" fill="rgb(243,220,213)" stroke="#ffffff" stroke-width="0.5"/>
+<rect x="615.0" y="470.0" width="79.0" height="27.0" rx="2.0" fill="rgb(229,244,238)" stroke="#ffffff" stroke-width="0.5"/>
+<text x="656.0" y="489.0" font-size="9" font-weight="700" text-anchor="middle" fill="#243033">15</text>
+<rect x="697.0" y="470.0" width="79.0" height="27.0" rx="2.0" fill="rgb(208,232,225)" stroke="#ffffff" stroke-width="0.5"/>
+<text x="738.0" y="489.0" font-size="9" font-weight="700" text-anchor="middle" fill="#243033">70</text>
+<text x="70.0" y="519.0" font-size="10" font-weight="600" text-anchor="start" fill="#243033">PCO</text>
+<rect x="205.0" y="500.0" width="79.0" height="27.0" rx="2.0" fill="rgb(180,112,114)" stroke="#ffffff" stroke-width="0.5"/>
+<rect x="287.0" y="500.0" width="79.0" height="27.0" rx="2.0" fill="rgb(180,112,114)" stroke="#ffffff" stroke-width="0.5"/>
+<rect x="369.0" y="500.0" width="79.0" height="27.0" rx="2.0" fill="rgb(180,112,114)" stroke="#ffffff" stroke-width="0.5"/>
+<rect x="451.0" y="500.0" width="79.0" height="27.0" rx="2.0" fill="rgb(180,112,114)" stroke="#ffffff" stroke-width="0.5"/>
+<rect x="533.0" y="500.0" width="79.0" height="27.0" rx="2.0" fill="rgb(180,113,115)" stroke="#ffffff" stroke-width="0.5"/>
+<rect x="615.0" y="500.0" width="79.0" height="27.0" rx="2.0" fill="rgb(182,116,118)" stroke="#ffffff" stroke-width="0.5"/>
+<rect x="697.0" y="500.0" width="79.0" height="27.0" rx="2.0" fill="rgb(183,118,120)" stroke="#ffffff" stroke-width="0.5"/>
+<rect x="900.0" y="120.0" width="440.0" height="500.0" rx="6.0" fill="#ffffff" stroke="#dfe6e8" stroke-width="1.0"/>
+<text x="916.0" y="148.0" font-size="16" font-weight="700" text-anchor="start" fill="#243033">B</text>
+<text x="942.0" y="148.0" font-size="14" font-weight="700" text-anchor="start" fill="#243033">Dominant uncertainty drivers</text>
+<text x="1068.0" y="162.0" font-size="8" font-weight="600" text-anchor="middle" fill="#627176">produc</text>
+<text x="1114.0" y="162.0" font-size="8" font-weight="600" text-anchor="middle" fill="#627176">policy</text>
+<text x="1160.0" y="162.0" font-size="8" font-weight="600" text-anchor="middle" fill="#627176">h2</text>
+<text x="1206.0" y="162.0" font-size="8" font-weight="600" text-anchor="middle" fill="#627176">transp</text>
+<text x="1252.0" y="162.0" font-size="8" font-weight="600" text-anchor="middle" fill="#627176">captur</text>
+<text x="1298.0" y="162.0" font-size="8" font-weight="600" text-anchor="middle" fill="#627176">reliab</text>
+<text x="925.0" y="207.0" font-size="9" font-weight="600" text-anchor="start" fill="#243033">FT-SAF</text>
+<rect x="1045.0" y="180.0" width="43.0" height="40.0" rx="2.0" fill="rgb(68,148,114)" stroke="#ffffff" stroke-width="0.4"/>
+<text x="1068.0" y="207.0" font-size="8" font-weight="700" text-anchor="middle" fill="#243033">0.99</text>
+<rect x="1091.0" y="180.0" width="43.0" height="40.0" rx="2.0" fill="rgb(232,242,237)" stroke="#ffffff" stroke-width="0.4"/>
+<rect x="1137.0" y="180.0" width="43.0" height="40.0" rx="2.0" fill="rgb(234,243,238)" stroke="#ffffff" stroke-width="0.4"/>
+<rect x="1183.0" y="180.0" width="43.0" height="40.0" rx="2.0" fill="rgb(242,248,244)" stroke="#ffffff" stroke-width="0.4"/>
+<rect x="1229.0" y="180.0" width="43.0" height="40.0" rx="2.0" fill="rgb(226,239,232)" stroke="#ffffff" stroke-width="0.4"/>
+<rect x="1275.0" y="180.0" width="43.0" height="40.0" rx="2.0" fill="rgb(242,248,244)" stroke="#ffffff" stroke-width="0.4"/>
+<text x="925.0" y="250.0" font-size="9" font-weight="600" text-anchor="start" fill="#243033">Mineralization</text>
+<rect x="1045.0" y="223.0" width="43.0" height="40.0" rx="2.0" fill="rgb(113,174,148)" stroke="#ffffff" stroke-width="0.4"/>
+<text x="1068.0" y="250.0" font-size="8" font-weight="700" text-anchor="middle" fill="#243033">0.73</text>
+<rect x="1091.0" y="223.0" width="43.0" height="40.0" rx="2.0" fill="rgb(118,177,152)" stroke="#ffffff" stroke-width="0.4"/>
+<text x="1114.0" y="250.0" font-size="8" font-weight="700" text-anchor="middle" fill="#243033">0.71</text>
+<rect x="1137.0" y="223.0" width="43.0" height="40.0" rx="2.0" fill="rgb(237,245,240)" stroke="#ffffff" stroke-width="0.4"/>
+<rect x="1183.0" y="223.0" width="43.0" height="40.0" rx="2.0" fill="rgb(242,248,244)" stroke="#ffffff" stroke-width="0.4"/>
+<rect x="1229.0" y="223.0" width="43.0" height="40.0" rx="2.0" fill="rgb(242,248,244)" stroke="#ffffff" stroke-width="0.4"/>
+<rect x="1275.0" y="223.0" width="43.0" height="40.0" rx="2.0" fill="rgb(242,248,244)" stroke="#ffffff" stroke-width="0.4"/>
+<text x="925.0" y="293.0" font-size="9" font-weight="600" text-anchor="start" fill="#243033">Storage</text>
+<rect x="1045.0" y="266.0" width="43.0" height="40.0" rx="2.0" fill="rgb(242,248,244)" stroke="#ffffff" stroke-width="0.4"/>
+<rect x="1091.0" y="266.0" width="43.0" height="40.0" rx="2.0" fill="rgb(67,148,114)" stroke="#ffffff" stroke-width="0.4"/>
+<text x="1114.0" y="293.0" font-size="8" font-weight="700" text-anchor="middle" fill="#243033">1.00</text>
+<rect x="1137.0" y="266.0" width="43.0" height="40.0" rx="2.0" fill="rgb(237,245,240)" stroke="#ffffff" stroke-width="0.4"/>
+<rect x="1183.0" y="266.0" width="43.0" height="40.0" rx="2.0" fill="rgb(238,245,241)" stroke="#ffffff" stroke-width="0.4"/>
+<rect x="1229.0" y="266.0" width="43.0" height="40.0" rx="2.0" fill="rgb(242,248,244)" stroke="#ffffff" stroke-width="0.4"/>
+<rect x="1275.0" y="266.0" width="43.0" height="40.0" rx="2.0" fill="rgb(242,248,244)" stroke="#ffffff" stroke-width="0.4"/>
+<text x="925.0" y="336.0" font-size="9" font-weight="600" text-anchor="start" fill="#243033">E-formate</text>
+<rect x="1045.0" y="309.0" width="43.0" height="40.0" rx="2.0" fill="rgb(69,149,115)" stroke="#ffffff" stroke-width="0.4"/>
+<text x="1068.0" y="336.0" font-size="8" font-weight="700" text-anchor="middle" fill="#243033">0.99</text>
+<rect x="1091.0" y="309.0" width="43.0" height="40.0" rx="2.0" fill="rgb(215,232,224)" stroke="#ffffff" stroke-width="0.4"/>
+<text x="1114.0" y="336.0" font-size="8" font-weight="700" text-anchor="middle" fill="#243033">0.15</text>
+<rect x="1137.0" y="309.0" width="43.0" height="40.0" rx="2.0" fill="rgb(242,248,244)" stroke="#ffffff" stroke-width="0.4"/>
+<rect x="1183.0" y="309.0" width="43.0" height="40.0" rx="2.0" fill="rgb(242,248,244)" stroke="#ffffff" stroke-width="0.4"/>
+<rect x="1229.0" y="309.0" width="43.0" height="40.0" rx="2.0" fill="rgb(237,245,240)" stroke="#ffffff" stroke-width="0.4"/>
+<rect x="1275.0" y="309.0" width="43.0" height="40.0" rx="2.0" fill="rgb(239,246,242)" stroke="#ffffff" stroke-width="0.4"/>
+<text x="925.0" y="379.0" font-size="9" font-weight="600" text-anchor="start" fill="#243033">RWGS-CO</text>
+<rect x="1045.0" y="352.0" width="43.0" height="40.0" rx="2.0" fill="rgb(70,149,116)" stroke="#ffffff" stroke-width="0.4"/>
+<text x="1068.0" y="379.0" font-size="8" font-weight="700" text-anchor="middle" fill="#243033">0.98</text>
+<rect x="1091.0" y="352.0" width="43.0" height="40.0" rx="2.0" fill="rgb(216,233,224)" stroke="#ffffff" stroke-width="0.4"/>
+<rect x="1137.0" y="352.0" width="43.0" height="40.0" rx="2.0" fill="rgb(219,235,227)" stroke="#ffffff" stroke-width="0.4"/>
+<rect x="1183.0" y="352.0" width="43.0" height="40.0" rx="2.0" fill="rgb(242,248,244)" stroke="#ffffff" stroke-width="0.4"/>
+<rect x="1229.0" y="352.0" width="43.0" height="40.0" rx="2.0" fill="rgb(231,241,235)" stroke="#ffffff" stroke-width="0.4"/>
+<rect x="1275.0" y="352.0" width="43.0" height="40.0" rx="2.0" fill="rgb(242,248,244)" stroke="#ffffff" stroke-width="0.4"/>
+<text x="925.0" y="422.0" font-size="9" font-weight="600" text-anchor="start" fill="#243033">Methanol</text>
+<rect x="1045.0" y="395.0" width="43.0" height="40.0" rx="2.0" fill="rgb(74,152,119)" stroke="#ffffff" stroke-width="0.4"/>
+<text x="1068.0" y="422.0" font-size="8" font-weight="700" text-anchor="middle" fill="#243033">0.96</text>
+<rect x="1091.0" y="395.0" width="43.0" height="40.0" rx="2.0" fill="rgb(201,224,214)" stroke="#ffffff" stroke-width="0.4"/>
+<text x="1114.0" y="422.0" font-size="8" font-weight="700" text-anchor="middle" fill="#243033">0.23</text>
+<rect x="1137.0" y="395.0" width="43.0" height="40.0" rx="2.0" fill="rgb(234,243,238)" stroke="#ffffff" stroke-width="0.4"/>
+<rect x="1183.0" y="395.0" width="43.0" height="40.0" rx="2.0" fill="rgb(242,248,244)" stroke="#ffffff" stroke-width="0.4"/>
+<rect x="1229.0" y="395.0" width="43.0" height="40.0" rx="2.0" fill="rgb(220,235,228)" stroke="#ffffff" stroke-width="0.4"/>
+<rect x="1275.0" y="395.0" width="43.0" height="40.0" rx="2.0" fill="rgb(242,248,244)" stroke="#ffffff" stroke-width="0.4"/>
+<rect x="40.0" y="665.0" width="1300.0" height="165.0" rx="6.0" fill="#ffffff" stroke="#dfe6e8" stroke-width="1.0"/>
+<text x="56.0" y="693.0" font-size="16" font-weight="700" text-anchor="start" fill="#243033">C</text>
+<text x="82.0" y="693.0" font-size="14" font-weight="700" text-anchor="start" fill="#243033">Takeaway</text>
+<text x="690.0" y="735.0" font-size="18" font-weight="700" text-anchor="middle" fill="#243033">Mineralization opens first; SAF, storage, RWGS-CO and formate require combined policy, product and clean-energy progress.</text>
+</svg>

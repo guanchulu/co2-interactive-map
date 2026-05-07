@@ -1,0 +1,14 @@
+parameter,value,unit,notes
+electricity_price_usd_per_mwh,45,USD/MWh,Base electricity price
+h2_price_usd_per_kg,2.5,USD/kg,Base low-carbon hydrogen price
+heat_price_usd_per_gj,6,USD/GJ,Base process heat price
+cooling_price_usd_per_gj,0.6,USD/GJ,Base cooling utility price
+carbon_price_usd_per_tco2,80,USD/tCO2,Carbon credit applied to net avoided emissions
+co2_transport_distance_km,100,km,Base source-to-destination distance
+co2_transport_cost_usd_per_tkm,0.025,USD/tkm,Pipeline or bulk transport screening cost
+grid_emissions_kgco2e_per_mwh,80,kgCO2e/MWh,Low-carbon electricity case
+h2_emissions_kgco2e_per_kg,1,kgCO2e/kg H2,Low-carbon hydrogen case
+discount_rate,0.08,fraction,Real discount rate
+plant_lifetime_years,20,years,Economic lifetime
+capacity_factor,0.9,fraction,Annual utilization factor
+

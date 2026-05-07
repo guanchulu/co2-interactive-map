@@ -1,0 +1,3 @@
+case_id,pathway,year,model_type,co2_feed_t_per_tco2,h2_kg_per_tco2,electricity_kwh_per_tco2,heat_gj_per_tco2,saf_kg_per_tco2,naphtha_kg_per_tco2,diesel_kg_per_tco2,light_gas_kg_per_tco2,carbon_balance_error_fraction,energy_balance_error_fraction,capex_usd_per_tpa_co2,fixed_opex_usd_per_tco2,variable_opex_usd_per_tco2,source,evidence_grade,notes
+SAF_FT_REDUCED_ORDER_2030,co2_h2_ft_saf,2030,reduced_order,1.0,145,450,2.2,235,80,70,35,0.03,0.08,1800,70,210,internal_screening,D,Placeholder until Aspen/IDAES/validated literature case is added.
+SAF_MTJ_REDUCED_ORDER_2030,co2_methanol_to_jet_saf,2030,reduced_order,1.0,188,520,2.8,210,95,65,40,0.03,0.08,2100,85,240,internal_screening,D,Placeholder until methanol-to-jet process case is calibrated.

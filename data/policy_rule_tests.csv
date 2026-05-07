@@ -1,0 +1,6 @@
+policy_id,test_id,test_description,required_field,pass_value,fail_action,source,evidence_grade,notes
+china_current,china_current_location,Production and credit claim occur in China,production_country,China,zero_credit,policy_table_parameterized,C,Replace with audited China ETS/CCER rule citation.
+china_high_2040,china_high_location,High China policy sensitivity applies only to China production,production_country,China,zero_credit,scenario_policy,D,Scenario rule, not current law.
+eu_saf_mandate,eu_saf_product,Product must be SAF blending component,sustainable_aviation_fuel,yes,zero_saf_premium,EU ReFuelEU/RFNBO proxy,C,Needs legal review for certificate transfer and production-location eligibility.
+eu_saf_mandate,eu_saf_electricity,Electricity must satisfy low-carbon matching,electricity_matching,low_carbon,discount_eligibility,EU RFNBO proxy,C,Temporal/geographic/additionality rules not fully audited.
+durable_removal_global,cdr_permanence,Storage or mineral product must meet permanence rule,permanence_years,100,zero_durable_credit,voluntary_CDR_proxy,C,Replace with method-specific MRV protocol.

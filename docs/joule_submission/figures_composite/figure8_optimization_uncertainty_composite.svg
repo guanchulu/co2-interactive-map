@@ -1,0 +1,158 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1420" height="920" viewBox="0 0 1420 920">
+<style>text{font-family:Arial,Helvetica,sans-serif;white-space:pre;} .title{font-size:25px;font-weight:700;}</style>
+<rect x="0.0" y="0.0" width="1420.0" height="920.0" fill="#ffffff" stroke="none" stroke-width="1.0"/>
+<text x="40" y="44" class="title">Formal deployment optimization and uncertainty screen</text>
+<text x="40.0" y="68.0" font-size="13" font-weight="400" text-anchor="start" fill="#5f6b70">LP separates profit maximization from durable carbon-neutrality targets; Monte Carlo tests whether best routes survive uncertainty.</text>
+<text x="40.0" y="105.0" font-size="16" font-weight="700" text-anchor="start" fill="#202426">A</text>
+<text x="64.0" y="105.0" font-size="14" font-weight="700" text-anchor="start" fill="#202426">Formal LP: maximum-profit deployment</text>
+<rect x="117.0" y="227.4" width="26.0" height="159.6" fill="#7d63a6" stroke="none" stroke-width="1.0"/>
+<rect x="147.0" y="145.0" width="26.0" height="242.0" fill="#2f8f83" stroke="none" stroke-width="1.0"/>
+<text x="188.3" y="405.0" font-size="9" font-weight="400" text-anchor="middle" fill="#5f6b70">policy
+supported
+e</text>
+<rect x="303.7" y="357.4" width="26.0" height="29.6" fill="#7d63a6" stroke="none" stroke-width="1.0"/>
+<rect x="333.7" y="259.7" width="26.0" height="127.3" fill="#2f8f83" stroke="none" stroke-width="1.0"/>
+<text x="375.0" y="405.0" font-size="9" font-weight="400" text-anchor="middle" fill="#5f6b70">policy
+exit
+green
+</text>
+<rect x="490.3" y="387.0" width="26.0" height="0.0" fill="#7d63a6" stroke="none" stroke-width="1.0"/>
+<rect x="520.3" y="357.4" width="26.0" height="29.6" fill="#2f8f83" stroke="none" stroke-width="1.0"/>
+<text x="561.7" y="405.0" font-size="9" font-weight="400" text-anchor="middle" fill="#5f6b70">commodity
+only
+no
+</text>
+<line x1="95.0" y1="387.0" x2="655.0" y2="387.0" stroke="#9aa6aa" stroke-width="1"/>
+<text x="95.0" y="413.0" font-size="10" font-weight="400" text-anchor="start" fill="#5f6b70">Bars: 2040 purple, 2060 green; source, sink and product-market constraints active.</text>
+<text x="730.0" y="105.0" font-size="16" font-weight="700" text-anchor="start" fill="#202426">B</text>
+<text x="754.0" y="105.0" font-size="14" font-weight="700" text-anchor="start" fill="#202426">Durable carbon-neutrality target feasibility</text>
+<text x="738.0" y="165.0" font-size="10" font-weight="600" text-anchor="start" fill="#5f6b70">80 Mt</text>
+<rect x="792.0" y="149.0" width="41.2" height="18.0" fill="#e8edf0" stroke="none" stroke-width="1.0"/>
+<rect x="792.0" y="149.0" width="41.2" height="18.0" fill="#2f8f83" stroke="none" stroke-width="1.0"/>
+<text x="839.2" y="163.0" font-size="10" font-weight="700" text-anchor="start" fill="#2f8f83">feasible</text>
+<text x="738.0" y="207.0" font-size="10" font-weight="600" text-anchor="start" fill="#5f6b70">100 Mt</text>
+<rect x="792.0" y="191.0" width="51.5" height="18.0" fill="#e8edf0" stroke="none" stroke-width="1.0"/>
+<rect x="792.0" y="191.0" width="51.5" height="18.0" fill="#2f8f83" stroke="none" stroke-width="1.0"/>
+<text x="849.5" y="205.0" font-size="10" font-weight="700" text-anchor="start" fill="#2f8f83">feasible</text>
+<text x="738.0" y="249.0" font-size="10" font-weight="600" text-anchor="start" fill="#5f6b70">500 Mt</text>
+<rect x="792.0" y="233.0" width="257.5" height="18.0" fill="#e8edf0" stroke="none" stroke-width="1.0"/>
+<rect x="792.0" y="233.0" width="257.5" height="18.0" fill="#2f8f83" stroke="none" stroke-width="1.0"/>
+<text x="1055.5" y="247.0" font-size="10" font-weight="700" text-anchor="start" fill="#2f8f83">feasible</text>
+<text x="738.0" y="291.0" font-size="10" font-weight="600" text-anchor="start" fill="#5f6b70">1000 Mt</text>
+<rect x="792.0" y="275.0" width="515.0" height="18.0" fill="#e8edf0" stroke="none" stroke-width="1.0"/>
+<rect x="792.0" y="275.0" width="0.0" height="18.0" fill="#b94d5a" stroke="none" stroke-width="1.0"/>
+<text x="1313.0" y="289.0" font-size="10" font-weight="700" text-anchor="start" fill="#b94d5a">infeasible</text>
+<text x="792.0" y="411.0" font-size="10" font-weight="400" text-anchor="start" fill="#5f6b70">Result: current screened durable capacity cannot satisfy 0.5-1.0 GtCO2/yr targets.</text>
+<text x="40.0" y="475.0" font-size="16" font-weight="700" text-anchor="start" fill="#202426">C</text>
+<text x="64.0" y="475.0" font-size="14" font-weight="700" text-anchor="start" fill="#202426">Monte Carlo probability of positive margin</text>
+<text x="44.0" y="526.5" font-size="10" font-weight="500" text-anchor="start" fill="#202426">FT-SAF</text>
+<rect x="168.0" y="513.0" width="444.8" height="20.2" fill="#2f8f83" stroke="none" stroke-width="1.0"/>
+<rect x="612.8" y="513.0" width="0.2" height="20.2" fill="#e8edf0" stroke="none" stroke-width="1.0"/>
+<text x="626.0" y="526.5" font-size="10" font-weight="700" text-anchor="end" fill="#202426">100%</text>
+<text x="44.0" y="554.7" font-size="10" font-weight="500" text-anchor="start" fill="#202426">Mineralization</text>
+<rect x="168.0" y="541.2" width="444.8" height="20.2" fill="#2f8f83" stroke="none" stroke-width="1.0"/>
+<rect x="612.8" y="541.2" width="0.2" height="20.2" fill="#e8edf0" stroke="none" stroke-width="1.0"/>
+<text x="626.0" y="554.7" font-size="10" font-weight="700" text-anchor="end" fill="#202426">100%</text>
+<text x="44.0" y="582.9" font-size="10" font-weight="500" text-anchor="start" fill="#202426">E-formate</text>
+<rect x="168.0" y="569.4" width="434.6" height="20.2" fill="#2f8f83" stroke="none" stroke-width="1.0"/>
+<rect x="602.6" y="569.4" width="10.4" height="20.2" fill="#e8edf0" stroke="none" stroke-width="1.0"/>
+<text x="626.0" y="582.9" font-size="10" font-weight="700" text-anchor="end" fill="#202426">98%</text>
+<text x="44.0" y="611.1" font-size="10" font-weight="500" text-anchor="start" fill="#202426">MTJ-SAF</text>
+<rect x="168.0" y="597.6" width="430.9" height="20.2" fill="#2f8f83" stroke="none" stroke-width="1.0"/>
+<rect x="598.9" y="597.6" width="14.1" height="20.2" fill="#e8edf0" stroke="none" stroke-width="1.0"/>
+<text x="626.0" y="611.1" font-size="10" font-weight="700" text-anchor="end" fill="#202426">97%</text>
+<text x="44.0" y="639.3" font-size="10" font-weight="500" text-anchor="start" fill="#202426">RWGS-CO</text>
+<rect x="168.0" y="625.8" width="425.8" height="20.2" fill="#2f8f83" stroke="none" stroke-width="1.0"/>
+<rect x="593.8" y="625.8" width="19.2" height="20.2" fill="#e8edf0" stroke="none" stroke-width="1.0"/>
+<text x="626.0" y="639.3" font-size="10" font-weight="700" text-anchor="end" fill="#202426">96%</text>
+<text x="44.0" y="667.5" font-size="10" font-weight="500" text-anchor="start" fill="#202426">Storage</text>
+<rect x="168.0" y="654.0" width="370.9" height="20.2" fill="#2f8f83" stroke="none" stroke-width="1.0"/>
+<rect x="538.9" y="654.0" width="74.1" height="20.2" fill="#e8edf0" stroke="none" stroke-width="1.0"/>
+<text x="626.0" y="667.5" font-size="10" font-weight="700" text-anchor="end" fill="#202426">83%</text>
+<text x="44.0" y="695.7" font-size="10" font-weight="500" text-anchor="start" fill="#202426">Methanol</text>
+<rect x="168.0" y="682.2" width="345.9" height="20.2" fill="#2f8f83" stroke="none" stroke-width="1.0"/>
+<rect x="513.9" y="682.2" width="99.1" height="20.2" fill="#e8edf0" stroke="none" stroke-width="1.0"/>
+<text x="626.0" y="695.7" font-size="10" font-weight="700" text-anchor="end" fill="#202426">78%</text>
+<text x="44.0" y="723.9" font-size="10" font-weight="500" text-anchor="start" fill="#202426">Methane</text>
+<rect x="168.0" y="710.4" width="336.1" height="20.2" fill="#2f8f83" stroke="none" stroke-width="1.0"/>
+<rect x="504.1" y="710.4" width="108.9" height="20.2" fill="#e8edf0" stroke="none" stroke-width="1.0"/>
+<text x="626.0" y="723.9" font-size="10" font-weight="700" text-anchor="end" fill="#202426">76%</text>
+<text x="44.0" y="752.1" font-size="10" font-weight="500" text-anchor="start" fill="#202426">PEC-formate</text>
+<rect x="168.0" y="738.6" width="292.3" height="20.2" fill="#2f8f83" stroke="none" stroke-width="1.0"/>
+<rect x="460.3" y="738.6" width="152.7" height="20.2" fill="#e8edf0" stroke="none" stroke-width="1.0"/>
+<text x="626.0" y="752.1" font-size="10" font-weight="700" text-anchor="end" fill="#202426">66%</text>
+<text x="44.0" y="780.3" font-size="10" font-weight="500" text-anchor="start" fill="#202426">E-CO</text>
+<rect x="168.0" y="766.8" width="126.8" height="20.2" fill="#2f8f83" stroke="none" stroke-width="1.0"/>
+<rect x="294.8" y="766.8" width="318.2" height="20.2" fill="#e8edf0" stroke="none" stroke-width="1.0"/>
+<text x="626.0" y="780.3" font-size="10" font-weight="700" text-anchor="end" fill="#202426">28%</text>
+<text x="690.0" y="475.0" font-size="16" font-weight="700" text-anchor="start" fill="#202426">D</text>
+<text x="714.0" y="475.0" font-size="14" font-weight="700" text-anchor="start" fill="#202426">Top uncertainty drivers</text>
+<text x="853.5" y="501.0" font-size="8" font-weight="600" text-anchor="middle" fill="#5f6b70">product pr</text>
+<text x="928.5" y="501.0" font-size="8" font-weight="600" text-anchor="middle" fill="#5f6b70">policy cre</text>
+<text x="1003.5" y="501.0" font-size="8" font-weight="600" text-anchor="middle" fill="#5f6b70">h2 price</text>
+<text x="1078.5" y="501.0" font-size="8" font-weight="600" text-anchor="middle" fill="#5f6b70">transport </text>
+<text x="1153.5" y="501.0" font-size="8" font-weight="600" text-anchor="middle" fill="#5f6b70">capture en</text>
+<text x="1228.5" y="501.0" font-size="8" font-weight="600" text-anchor="middle" fill="#5f6b70">reliabilit</text>
+<text x="1303.5" y="501.0" font-size="8" font-weight="600" text-anchor="middle" fill="#5f6b70">shock extr</text>
+<text x="694.0" y="542.1" font-size="9" font-weight="500" text-anchor="start" fill="#202426">FT-SAF</text>
+<rect x="816.0" y="513.0" width="73.0" height="45.0" fill="rgb(63,148,112)" stroke="#ffffff" stroke-width="0.4"/>
+<text x="853.5" y="542.1" font-size="8" font-weight="600" text-anchor="middle" fill="#202426">0.99</text>
+<rect x="891.0" y="513.0" width="73.0" height="45.0" fill="rgb(230,240,235)" stroke="#ffffff" stroke-width="0.4"/>
+<rect x="966.0" y="513.0" width="73.0" height="45.0" fill="rgb(232,241,236)" stroke="#ffffff" stroke-width="0.4"/>
+<rect x="1041.0" y="513.0" width="73.0" height="45.0" fill="rgb(240,246,242)" stroke="#ffffff" stroke-width="0.4"/>
+<rect x="1116.0" y="513.0" width="73.0" height="45.0" fill="rgb(224,237,230)" stroke="#ffffff" stroke-width="0.4"/>
+<rect x="1191.0" y="513.0" width="73.0" height="45.0" fill="rgb(240,246,242)" stroke="#ffffff" stroke-width="0.4"/>
+<rect x="1266.0" y="513.0" width="73.0" height="45.0" fill="rgb(240,246,242)" stroke="#ffffff" stroke-width="0.4"/>
+<text x="694.0" y="589.1" font-size="9" font-weight="500" text-anchor="start" fill="#202426">Mineralization</text>
+<rect x="816.0" y="560.0" width="73.0" height="45.0" fill="rgb(109,174,146)" stroke="#ffffff" stroke-width="0.4"/>
+<text x="853.5" y="589.1" font-size="8" font-weight="600" text-anchor="middle" fill="#202426">0.73</text>
+<rect x="891.0" y="560.0" width="73.0" height="45.0" fill="rgb(114,176,150)" stroke="#ffffff" stroke-width="0.4"/>
+<text x="928.5" y="589.1" font-size="8" font-weight="600" text-anchor="middle" fill="#202426">0.71</text>
+<rect x="966.0" y="560.0" width="73.0" height="45.0" fill="rgb(235,243,238)" stroke="#ffffff" stroke-width="0.4"/>
+<rect x="1041.0" y="560.0" width="73.0" height="45.0" fill="rgb(240,246,242)" stroke="#ffffff" stroke-width="0.4"/>
+<rect x="1116.0" y="560.0" width="73.0" height="45.0" fill="rgb(240,246,242)" stroke="#ffffff" stroke-width="0.4"/>
+<rect x="1191.0" y="560.0" width="73.0" height="45.0" fill="rgb(240,246,242)" stroke="#ffffff" stroke-width="0.4"/>
+<rect x="1266.0" y="560.0" width="73.0" height="45.0" fill="rgb(230,240,234)" stroke="#ffffff" stroke-width="0.4"/>
+<text x="694.0" y="636.1" font-size="9" font-weight="500" text-anchor="start" fill="#202426">Storage</text>
+<rect x="816.0" y="607.0" width="73.0" height="45.0" fill="rgb(240,246,242)" stroke="#ffffff" stroke-width="0.4"/>
+<rect x="891.0" y="607.0" width="73.0" height="45.0" fill="rgb(62,148,112)" stroke="#ffffff" stroke-width="0.4"/>
+<text x="928.5" y="636.1" font-size="8" font-weight="600" text-anchor="middle" fill="#202426">1.00</text>
+<rect x="966.0" y="607.0" width="73.0" height="45.0" fill="rgb(235,243,238)" stroke="#ffffff" stroke-width="0.4"/>
+<rect x="1041.0" y="607.0" width="73.0" height="45.0" fill="rgb(235,243,239)" stroke="#ffffff" stroke-width="0.4"/>
+<rect x="1116.0" y="607.0" width="73.0" height="45.0" fill="rgb(240,246,242)" stroke="#ffffff" stroke-width="0.4"/>
+<rect x="1191.0" y="607.0" width="73.0" height="45.0" fill="rgb(240,246,242)" stroke="#ffffff" stroke-width="0.4"/>
+<rect x="1266.0" y="607.0" width="73.0" height="45.0" fill="rgb(233,242,237)" stroke="#ffffff" stroke-width="0.4"/>
+<text x="694.0" y="683.1" font-size="9" font-weight="500" text-anchor="start" fill="#202426">E-formate</text>
+<rect x="816.0" y="654.0" width="73.0" height="45.0" fill="rgb(64,149,113)" stroke="#ffffff" stroke-width="0.4"/>
+<text x="853.5" y="683.1" font-size="8" font-weight="600" text-anchor="middle" fill="#202426">0.99</text>
+<rect x="891.0" y="654.0" width="73.0" height="45.0" fill="rgb(212,231,222)" stroke="#ffffff" stroke-width="0.4"/>
+<text x="928.5" y="683.1" font-size="8" font-weight="600" text-anchor="middle" fill="#202426">0.15</text>
+<rect x="966.0" y="654.0" width="73.0" height="45.0" fill="rgb(240,246,242)" stroke="#ffffff" stroke-width="0.4"/>
+<rect x="1041.0" y="654.0" width="73.0" height="45.0" fill="rgb(240,246,242)" stroke="#ffffff" stroke-width="0.4"/>
+<rect x="1116.0" y="654.0" width="73.0" height="45.0" fill="rgb(235,243,238)" stroke="#ffffff" stroke-width="0.4"/>
+<rect x="1191.0" y="654.0" width="73.0" height="45.0" fill="rgb(237,244,240)" stroke="#ffffff" stroke-width="0.4"/>
+<rect x="1266.0" y="654.0" width="73.0" height="45.0" fill="rgb(240,246,242)" stroke="#ffffff" stroke-width="0.4"/>
+<text x="694.0" y="730.1" font-size="9" font-weight="500" text-anchor="start" fill="#202426">RWGS-CO</text>
+<rect x="816.0" y="701.0" width="73.0" height="45.0" fill="rgb(65,149,114)" stroke="#ffffff" stroke-width="0.4"/>
+<text x="853.5" y="730.1" font-size="8" font-weight="600" text-anchor="middle" fill="#202426">0.98</text>
+<rect x="891.0" y="701.0" width="73.0" height="45.0" fill="rgb(213,231,222)" stroke="#ffffff" stroke-width="0.4"/>
+<text x="928.5" y="730.1" font-size="8" font-weight="600" text-anchor="middle" fill="#202426">0.15</text>
+<rect x="966.0" y="701.0" width="73.0" height="45.0" fill="rgb(217,233,225)" stroke="#ffffff" stroke-width="0.4"/>
+<text x="1003.5" y="730.1" font-size="8" font-weight="600" text-anchor="middle" fill="#202426">0.13</text>
+<rect x="1041.0" y="701.0" width="73.0" height="45.0" fill="rgb(240,246,242)" stroke="#ffffff" stroke-width="0.4"/>
+<rect x="1116.0" y="701.0" width="73.0" height="45.0" fill="rgb(228,239,233)" stroke="#ffffff" stroke-width="0.4"/>
+<rect x="1191.0" y="701.0" width="73.0" height="45.0" fill="rgb(240,246,242)" stroke="#ffffff" stroke-width="0.4"/>
+<rect x="1266.0" y="701.0" width="73.0" height="45.0" fill="rgb(240,246,242)" stroke="#ffffff" stroke-width="0.4"/>
+<text x="694.0" y="777.1" font-size="9" font-weight="500" text-anchor="start" fill="#202426">Methanol</text>
+<rect x="816.0" y="748.0" width="73.0" height="45.0" fill="rgb(69,151,117)" stroke="#ffffff" stroke-width="0.4"/>
+<text x="853.5" y="777.1" font-size="8" font-weight="600" text-anchor="middle" fill="#202426">0.96</text>
+<rect x="891.0" y="748.0" width="73.0" height="45.0" fill="rgb(199,223,212)" stroke="#ffffff" stroke-width="0.4"/>
+<text x="928.5" y="777.1" font-size="8" font-weight="600" text-anchor="middle" fill="#202426">0.23</text>
+<rect x="966.0" y="748.0" width="73.0" height="45.0" fill="rgb(232,241,236)" stroke="#ffffff" stroke-width="0.4"/>
+<rect x="1041.0" y="748.0" width="73.0" height="45.0" fill="rgb(240,246,242)" stroke="#ffffff" stroke-width="0.4"/>
+<rect x="1116.0" y="748.0" width="73.0" height="45.0" fill="rgb(218,234,226)" stroke="#ffffff" stroke-width="0.4"/>
+<text x="1153.5" y="777.1" font-size="8" font-weight="600" text-anchor="middle" fill="#202426">0.12</text>
+<rect x="1191.0" y="748.0" width="73.0" height="45.0" fill="rgb(240,246,242)" stroke="#ffffff" stroke-width="0.4"/>
+<rect x="1266.0" y="748.0" width="73.0" height="45.0" fill="rgb(240,246,242)" stroke="#ffffff" stroke-width="0.4"/>
+<text x="40.0" y="860.0" font-size="13" font-weight="700" text-anchor="start" fill="#202426">Reviewer-facing conclusion: profitable managed CO2 and durable carbon-neutrality capacity are not the same optimization problem.</text>
+</svg>

@@ -1,0 +1,8 @@
+scheme,target_market,product,pathway,fixed_cost_usd_per_year,variable_cost_usd_per_tproduct,verification_delay_months,uncertainty_discount_fraction,reversal_buffer_fraction,chain_of_custody,notes
+basic_lca,all,all,all,50000,0.5,3,0.02,0.0,mass_balance,Basic product LCA and audit cost.
+durable_storage_mrv,global,none,geological_storage,1200000,1.5,12,0.05,0.10,project_specific,Storage monitoring and reversal buffer proxy.
+mineral_mrv,global,carbonate_product,mineralization,400000,0.8,9,0.08,0.05,batch_tracking,Mineral product permanence and leaching verification.
+chemical_chain_of_custody,all,carbon_monoxide,all,180000,2.0,6,0.03,0.0,mass_balance,Chemical-grade CO chain of custody.
+chemical_chain_of_custody,all,methanol,all,180000,1.5,6,0.03,0.0,mass_balance,Low-carbon methanol certification.
+formate_chain_of_custody,all,formic_acid_equivalent,all,160000,2.5,6,0.04,0.0,mass_balance,Formate/formic acid certification.
+saf_corsia_like,eu_saf,sustainable_aviation_fuel,all,1500000,6.0,12,0.08,0.0,mass_balance,CORSIA/RFNBO-like certification and chain-of-custody proxy.

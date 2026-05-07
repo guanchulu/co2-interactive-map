@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1420" height="980" viewBox="0 0 1420 980">
+<style>text{font-family:Arial,Helvetica,sans-serif;} .mono{font-family:Consolas,monospace;}</style>
+<rect x="0.0" y="0.0" width="1420.0" height="980.0" rx="0.0" fill="#ffffff" stroke="none" stroke-width="1.0"/>
+<rect x="0.0" y="0.0" width="1420.0" height="92.0" rx="0.0" fill="#ffffff" stroke="none" stroke-width="1.0"/>
+<text x="42.0" y="42.0" font-size="25" font-weight="700" text-anchor="start" fill="#243033">Figure 4. Market size is not carbon neutrality</text>
+<text x="42.0" y="68.0" font-size="13" font-weight="400" text-anchor="start" fill="#627176">Product value can be large while durable CO2 capacity remains limited.</text>
+<rect x="40.0" y="120.0" width="620.0" height="330.0" rx="6.0" fill="#ffffff" stroke="#dfe6e8" stroke-width="1.0"/>
+<text x="56.0" y="148.0" font-size="16" font-weight="700" text-anchor="start" fill="#243033">A</text>
+<text x="82.0" y="148.0" font-size="14" font-weight="700" text-anchor="start" fill="#243033">Addressable product-market value</text>
+<line x1="300.2" y1="165.0" x2="300.2" y2="410.0" stroke="#9aa6aa" stroke-width="1"/>
+<text x="65.0" y="188.2" font-size="10" font-weight="500" text-anchor="start" fill="#243033">methane</text>
+<rect x="300.2" y="176.2" width="291.2" height="15.0" rx="0.0" fill="#c97836" stroke="none" stroke-width="1.0"/>
+<text x="596.4" y="188.2" font-size="9" font-weight="600" text-anchor="start" fill="#627176">1435.0</text>
+<text x="65.0" y="223.2" font-size="10" font-weight="500" text-anchor="start" fill="#243033">sustainable_aviation_fuel</text>
+<rect x="300.2" y="211.2" width="227.3" height="15.0" rx="0.0" fill="#c97836" stroke="none" stroke-width="1.0"/>
+<text x="532.5" y="223.2" font-size="9" font-weight="600" text-anchor="start" fill="#627176">1120.0</text>
+<text x="65.0" y="258.2" font-size="10" font-weight="500" text-anchor="start" fill="#243033">methanol</text>
+<rect x="300.2" y="246.2" width="76.7" height="15.0" rx="0.0" fill="#c97836" stroke="none" stroke-width="1.0"/>
+<text x="381.9" y="258.2" font-size="9" font-weight="600" text-anchor="start" fill="#627176">378.0</text>
+<text x="65.0" y="293.2" font-size="10" font-weight="500" text-anchor="start" fill="#243033">ethylene</text>
+<rect x="300.2" y="281.2" width="41.1" height="15.0" rx="0.0" fill="#c97836" stroke="none" stroke-width="1.0"/>
+<text x="346.3" y="293.2" font-size="9" font-weight="600" text-anchor="start" fill="#627176">202.5</text>
+<text x="65.0" y="328.2" font-size="10" font-weight="500" text-anchor="start" fill="#243033">carbonate_product</text>
+<rect x="300.2" y="316.2" width="23.4" height="15.0" rx="0.0" fill="#c97836" stroke="none" stroke-width="1.0"/>
+<text x="328.6" y="328.2" font-size="9" font-weight="600" text-anchor="start" fill="#627176">115.5</text>
+<text x="65.0" y="363.2" font-size="10" font-weight="500" text-anchor="start" fill="#243033">carbon_monoxide</text>
+<rect x="300.2" y="351.2" width="18.5" height="15.0" rx="0.0" fill="#c97836" stroke="none" stroke-width="1.0"/>
+<text x="323.7" y="363.2" font-size="9" font-weight="600" text-anchor="start" fill="#627176">91.0</text>
+<text x="65.0" y="398.2" font-size="10" font-weight="500" text-anchor="start" fill="#243033">formic_acid_equivalent</text>
+<rect x="300.2" y="386.2" width="17.2" height="15.0" rx="0.0" fill="#c97836" stroke="none" stroke-width="1.0"/>
+<text x="322.4" y="398.2" font-size="9" font-weight="600" text-anchor="start" fill="#627176">84.6</text>
+<rect x="700.0" y="120.0" width="640.0" height="330.0" rx="6.0" fill="#ffffff" stroke="#dfe6e8" stroke-width="1.0"/>
+<text x="716.0" y="148.0" font-size="16" font-weight="700" text-anchor="start" fill="#243033">B</text>
+<text x="742.0" y="148.0" font-size="14" font-weight="700" text-anchor="start" fill="#243033">2060 factory count by category</text>
+<line x1="964.4" y1="165.0" x2="964.4" y2="410.0" stroke="#9aa6aa" stroke-width="1"/>
+<text x="725.0" y="213.9" font-size="10" font-weight="500" text-anchor="start" fill="#243033">SAF / synthetic fuels</text>
+<rect x="964.4" y="201.9" width="296.4" height="15.0" rx="0.0" fill="#c97836" stroke="none" stroke-width="1.0"/>
+<text x="1265.8" y="213.9" font-size="9" font-weight="600" text-anchor="start" fill="#627176">40.0</text>
+<text x="725.0" y="295.6" font-size="10" font-weight="500" text-anchor="start" fill="#243033">Mineral products</text>
+<rect x="964.4" y="283.6" width="133.4" height="15.0" rx="0.0" fill="#3d8f63" stroke="none" stroke-width="1.0"/>
+<text x="1102.8" y="295.6" font-size="9" font-weight="600" text-anchor="start" fill="#627176">18.0</text>
+<text x="725.0" y="377.3" font-size="10" font-weight="500" text-anchor="start" fill="#243033">Geological storage</text>
+<rect x="964.4" y="365.3" width="103.7" height="15.0" rx="0.0" fill="#225f74" stroke="none" stroke-width="1.0"/>
+<text x="1073.1" y="377.3" font-size="9" font-weight="600" text-anchor="start" fill="#627176">14.0</text>
+<rect x="40.0" y="490.0" width="1300.0" height="300.0" rx="6.0" fill="#ffffff" stroke="#dfe6e8" stroke-width="1.0"/>
+<text x="56.0" y="518.0" font-size="16" font-weight="700" text-anchor="start" fill="#243033">C</text>
+<text x="82.0" y="518.0" font-size="14" font-weight="700" text-anchor="start" fill="#243033">Durable target frontier</text>
+<line x1="115.0" y1="725.0" x2="1195.0" y2="725.0" stroke="#9aa6aa" stroke-width="1"/>
+<line x1="115.0" y1="565.0" x2="115.0" y2="725.0" stroke="#9aa6aa" stroke-width="1"/>
+<circle cx="115.0" cy="565.0" r="6.0" fill="#2f8f83" stroke="#ffffff" stroke-width="1.0" opacity="1.00"/>
+<circle cx="169.0" cy="565.0" r="6.0" fill="#2f8f83" stroke="#ffffff" stroke-width="1.0" opacity="1.00"/>
+<circle cx="201.4" cy="565.0" r="6.0" fill="#2f8f83" stroke="#ffffff" stroke-width="1.0" opacity="1.00"/>
+<circle cx="223.0" cy="565.0" r="6.0" fill="#2f8f83" stroke="#ffffff" stroke-width="1.0" opacity="1.00"/>
+<circle cx="277.0" cy="565.8" r="6.0" fill="#2f8f83" stroke="#ffffff" stroke-width="1.0" opacity="1.00"/>
+<circle cx="385.0" cy="582.2" r="6.0" fill="#2f8f83" stroke="#ffffff" stroke-width="1.0" opacity="1.00"/>
+<circle cx="655.0" cy="644.7" r="6.0" fill="#2f8f83" stroke="#ffffff" stroke-width="1.0" opacity="1.00"/>
+<text x="655.0" y="757.0" font-size="11" font-weight="600" text-anchor="middle" fill="#627176">Durable target (MtCO2/yr)</text>
+<text x="135.0" y="549.0" font-size="11" font-weight="600" text-anchor="start" fill="#627176">Profit frontier</text>
+<text x="1020.0" y="600.0" font-size="14" font-weight="700" text-anchor="middle" fill="#b9525f">1 Gt durable target is infeasible in screened network</text>
+</svg>

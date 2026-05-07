@@ -1,0 +1,6 @@
+pathway,technology_family,year,catalyst_or_absorber,cell_or_reactor_type,current_density_ma_cm2,initial_faradaic_efficiency_fraction,faradaic_efficiency_decay_per_1000h,voltage_v,voltage_increase_v_per_1000h,solar_to_chemical_efficiency_fraction,lifetime_h,replacement_cost_fraction,availability_penalty_fraction,source,evidence_grade,notes
+electrolysis_to_co,electrochemical,2030,Ag-based placeholder,flow_cell,200,0.85,0.03,3.1,0.04,,12000,0.18,0.04,literature_placeholder,C,Replace with experiment-specific durability data.
+electrolysis_to_formate,electrochemical,2030,Bi/Sn placeholder,flow_cell,150,0.80,0.04,3.2,0.05,,10000,0.20,0.05,literature_placeholder,C,Replace with product-specific membrane/cathode lifetime data.
+electrolysis_to_ethylene,electrochemical,2030,Cu placeholder,flow_cell,250,0.45,0.06,3.8,0.07,,7000,0.28,0.08,literature_placeholder,C,High uncertainty due C2+ selectivity and lifetime.
+photocatalytic_to_co,photochemical,2030,semiconductor placeholder,slurry_or_panel,,,0.08,,,0.01,5000,0.20,0.10,literature_placeholder,D,Photochemical durability not calibrated to pilot data.
+photoelectrochemical_to_formate,photochemical,2030,photoelectrode placeholder,pec_cell,20,0.55,0.08,1.8,0.08,0.02,4000,0.25,0.12,literature_placeholder,D,Requires device-specific lifetime calibration.

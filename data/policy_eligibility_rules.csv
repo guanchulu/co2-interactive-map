@@ -1,0 +1,7 @@
+policy_id,jurisdiction,target_market,product,pathway,start_year,end_year,credit_usd_per_tco2_avoided,durable_credit_usd_per_tco2,carbon_tax_usd_per_tco2,saf_premium_usd_per_kg,clean_fuel_credit_usd_per_kg,eligibility_fraction,stacking_allowed,certificate_transfer_allowed,notes
+china_current,China,china,all,all,2025,2035,10,12,0,0,0,1,true,true,Domestic CEA/CCER-like low policy case.
+china_high_2040,China,china,all,all,2035,2050,100,80,50,0,0,1,true,true,High policy sensitivity.
+durable_removal_global,voluntary,global,none,geological_storage,2025,2050,0,140,0,0,0,0.85,false,true,Durable removal credit with conservative issuance fraction.
+mineral_durable_global,voluntary,global,carbonate_product,mineralization,2025,2050,0,90,0,0,0,0.70,false,true,Mineralization credit discounted by product/MRV uncertainty.
+eu_saf_mandate,EU,eu_saf,sustainable_aviation_fuel,all,2030,2050,40,0,0,1.20,0.25,0.80,true,true,SAF/RFNBO-style mandate premium proxy; requires certification.
+us_clean_fuel,USA,us_saf,sustainable_aviation_fuel,all,2025,2035,35,0,0,0.65,0.35,0.40,false,false,Included only as sensitivity; production-location eligibility must be checked.
