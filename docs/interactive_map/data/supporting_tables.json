@@ -1,1 +1,647 @@
-{"uncertainty":{"co2_h2_ft_saf":{"pathway_label":"FT-SAF","product":"sustainable_aviation_fuel","probability_positive":0.9996,"p05":585.643842223815,"p50":1423.1976604366728,"p95":2783.6822761377857},"mineralization":{"pathway_label":"Mineralization","product":"carbonate_product","probability_positive":0.9996,"p05":146.40693158929344,"p50":346.92913949120873,"p95":550.5122369837709},"electrolysis_to_formate":{"pathway_label":"E-formate","product":"formic_acid_equivalent","probability_positive":0.9766,"p05":108.71519815951662,"p50":691.1076001156954,"p95":1655.2648490609324},"co2_methanol_to_jet_saf":{"pathway_label":"MTJ-SAF","product":"sustainable_aviation_fuel","probability_positive":0.9684,"p05":76.35992746480505,"p50":730.7613681029436,"p95":1817.180354593505},"rwgs_to_co":{"pathway_label":"RWGS-CO","product":"carbon_monoxide","probability_positive":0.9568,"p05":15.04790617136936,"p50":517.9756366272892,"p95":1343.7591813545644},"geological_storage":{"pathway_label":"Storage","product":"none","probability_positive":0.8334,"p05":-107.66640519349187,"p50":171.304818850247,"p95":335.4114245266694},"co2_to_methanol":{"pathway_label":"Methanol","product":"methanol","probability_positive":0.7774,"p05":-259.83921663646504,"p50":255.77374841940508,"p95":1054.3521864495851},"co2_to_methane":{"pathway_label":"Methane","product":"methane","probability_positive":0.7552,"p05":-291.64199849902593,"p50":251.04421107285754,"p95":1054.2286317631006},"photoelectrochemical_to_formate":{"pathway_label":"PEC-formate","product":"formic_acid_equivalent","probability_positive":0.6568,"p05":-214.43773504574258,"p50":88.74795744317734,"p95":565.951225540984},"electrolysis_to_co":{"pathway_label":"E-CO","product":"carbon_monoxide","probability_positive":0.285,"p05":-396.4091091449115,"p50":-123.01613168692491,"p95":276.56928133709835},"electrolysis_to_ethylene":{"pathway_label":"E-ethylene","product":"ethylene","probability_positive":0.0,"p05":-1025.3268245659838,"p50":-837.6070970974284,"p95":-579.1243722429933},"photocatalytic_to_co":{"pathway_label":"PCO","product":"carbon_monoxide","probability_positive":0.0,"p05":-552.6445378872802,"p50":-425.06943633471326,"p95":-253.80991336770754}},"drivers":{"co2_h2_ft_saf":[{"driver":"product_price","correlation":0.9937732748268687},{"driver":"capture_energy_cost","correlation":0.08715086072581356},{"driver":"policy_credit","correlation":0.05301999886920019},{"driver":"h2_price","correlation":0.041449360672568325}],"co2_methanol_to_jet_saf":[{"driver":"product_price","correlation":0.9912903040219065},{"driver":"capture_energy_cost","correlation":0.1327832963169467},{"driver":"h2_price","correlation":0.043017636961670595},{"driver":"shock_extra","correlation":0.020728582684258756}],"co2_to_methane":[{"driver":"product_price","correlation":0.960135844676597},{"driver":"policy_credit","correlation":0.2261051772072859},{"driver":"capture_energy_cost","correlation":0.16772864962600895},{"driver":"h2_price","correlation":0.09129464854024183}],"co2_to_methanol":[{"driver":"product_price","correlation":0.9593456787952149},{"driver":"policy_credit","correlation":0.23026694518493265},{"driver":"capture_energy_cost","correlation":0.12011853601207444},{"driver":"h2_price","correlation":0.04095235038541375}],"electrolysis_to_co":[{"driver":"product_price","correlation":0.930910671108883},{"driver":"policy_credit","correlation":0.35288971760799215},{"driver":"capture_energy_cost","correlation":0.10353078621411792},{"driver":"reliability_cost","correlation":0.03003876836713807}],"electrolysis_to_ethylene":[{"driver":"policy_credit","correlation":0.7699092377444084},{"driver":"product_price","correlation":0.6185153707658261},{"driver":"capture_energy_cost","correlation":0.1751181513348891},{"driver":"shock_extra","correlation":0.04530361820322102}],"electrolysis_to_formate":[{"driver":"product_price","correlation":0.986568978565696},{"driver":"policy_credit","correlation":0.152112875022098},{"driver":"capture_energy_cost","correlation":0.02704805232674839},{"driver":"reliability_cost","correlation":0.011690565858938818}],"geological_storage":[{"driver":"policy_credit","correlation":0.9989672153876549},{"driver":"shock_extra","correlation":0.03472643500499231},{"driver":"h2_price","correlation":0.024728777113663135},{"driver":"transport_cost","correlation":0.022813248441154708}],"mineralization":[{"driver":"product_price","correlation":0.7325206315461531},{"driver":"policy_credit","correlation":0.7050887471980083},{"driver":"shock_extra","correlation":0.05544541792745684},{"driver":"h2_price","correlation":0.025454231256515733}],"photocatalytic_to_co":[{"driver":"product_price","correlation":0.7200126723053115},{"driver":"policy_credit","correlation":0.645360266803105},{"driver":"capture_energy_cost","correlation":0.2593200749658485},{"driver":"shock_extra","correlation":0.08557676215653887}],"photoelectrochemical_to_formate":[{"driver":"product_price","correlation":0.9644687332527714},{"driver":"policy_credit","correlation":0.23125236119129566},{"driver":"capture_energy_cost","correlation":0.10335589441561877},{"driver":"shock_extra","correlation":0.03217050431652841}],"rwgs_to_co":[{"driver":"product_price","correlation":0.981487558318691},{"driver":"policy_credit","correlation":0.1462511234263513},{"driver":"h2_price","correlation":0.1284771596569083},{"driver":"capture_energy_cost","correlation":0.062215723240052895}]},"stress":[{"scenario":"policy_supported_effort","scenario_label":"Policy-supported effort","category":"synthetic_fuels","category_label":"SAF / synthetic fuels","profit_busd_per_year":44.350506805076584,"allocated_mtco2_per_year":39.988042},{"scenario":"policy_supported_effort","scenario_label":"Policy-supported effort","category":"mineral_products","category_label":"Mineral products","profit_busd_per_year":15.153021034473408,"allocated_mtco2_per_year":34.99796},{"scenario":"policy_supported_effort","scenario_label":"Policy-supported effort","category":"geological_storage","category_label":"Geological storage","profit_busd_per_year":16.371854368276956,"allocated_mtco2_per_year":67.119334},{"scenario":"policy_exit_green_premium","scenario_label":"Policy exit, green premium remains","category":"synthetic_fuels","category_label":"SAF / synthetic fuels","profit_busd_per_year":40.11398691579967,"allocated_mtco2_per_year":39.988042},{"scenario":"policy_exit_green_premium","scenario_label":"Policy exit, green premium remains","category":"chemicals","category_label":"Chemicals","profit_busd_per_year":5.9556815386703565,"allocated_mtco2_per_year":18.180794},{"scenario":"policy_exit_green_premium","scenario_label":"Policy exit, green premium remains","category":"mineral_products","category_label":"Mineral products","profit_busd_per_year":4.0795906664819706,"allocated_mtco2_per_year":34.99796},{"scenario":"commodity_only_no_support","scenario_label":"Commodity only, no support","category":"synthetic_fuels","category_label":"SAF / synthetic fuels","profit_busd_per_year":0.633883322060204,"allocated_mtco2_per_year":14.988042},{"scenario":"commodity_only_no_support","scenario_label":"Commodity only, no support","category":"chemicals","category_label":"Chemicals","profit_busd_per_year":2.039006097672202,"allocated_mtco2_per_year":6.7},{"scenario":"war_energy_security_shock","scenario_label":"War / energy-security shock","category":"synthetic_fuels","category_label":"SAF / synthetic fuels","profit_busd_per_year":41.07036144916364,"allocated_mtco2_per_year":35.9892378},{"scenario":"war_energy_security_shock","scenario_label":"War / energy-security shock","category":"mineral_products","category_label":"Mineral products","profit_busd_per_year":13.91981390046324,"allocated_mtco2_per_year":31.498164},{"scenario":"war_energy_security_shock","scenario_label":"War / energy-security shock","category":"geological_storage","category_label":"Geological storage","profit_busd_per_year":9.26082999843396,"allocated_mtco2_per_year":36.939419199999996},{"scenario":"war_energy_security_shock","scenario_label":"War / energy-security shock","category":"chemicals","category_label":"Chemicals","profit_busd_per_year":3.76930409626906,"allocated_mtco2_per_year":16.362714599999997},{"scenario":"earthquake_pipeline_disruption","scenario_label":"Earthquake / pipeline disruption","category":"synthetic_fuels","category_label":"SAF / synthetic fuels","profit_busd_per_year":32.12863392848357,"allocated_mtco2_per_year":29.991031500000002},{"scenario":"earthquake_pipeline_disruption","scenario_label":"Earthquake / pipeline disruption","category":"mineral_products","category_label":"Mineral products","profit_busd_per_year":10.918144679070156,"allocated_mtco2_per_year":26.248469999999998},{"scenario":"earthquake_pipeline_disruption","scenario_label":"Earthquake / pipeline disruption","category":"geological_storage","category_label":"Geological storage","profit_busd_per_year":14.730007872028082,"allocated_mtco2_per_year":71.6553009},{"scenario":"pandemic_demand_slump","scenario_label":"Pandemic demand slump","category":"synthetic_fuels","category_label":"SAF / synthetic fuels","profit_busd_per_year":21.66479560292372,"allocated_mtco2_per_year":35.9892378},{"scenario":"pandemic_demand_slump","scenario_label":"Pandemic demand slump","category":"mineral_products","category_label":"Mineral products","profit_busd_per_year":11.330009971979525,"allocated_mtco2_per_year":31.498164},{"scenario":"pandemic_demand_slump","scenario_label":"Pandemic demand slump","category":"geological_storage","category_label":"Geological storage","profit_busd_per_year":13.72143584503911,"allocated_mtco2_per_year":60.4074006},{"scenario":"compound_stress_no_support","scenario_label":"Compound stress, no support","category":"chemicals","category_label":"Chemicals","profit_busd_per_year":0.21682203260749067,"allocated_mtco2_per_year":5.025}],"modalities":[{"modality":"tabular_tea_lca","current_inputs":"pathway costs, capture energy, product prices, policy values, uncertainty draws","encoder":"standardized numeric feature table","decision_use":"route margin, net emissions, uncertainty and profitability probability","evidence_grade_now":"B/C","upgrade_to_a_grade":"replace proxy product prices and process yields with audited market/process datasets"},{"modality":"geospatial_vector","current_inputs":"prefecture boundaries, source-city joins, routed distance, storage/product destinations","encoder":"city polygon, centroid, distance bands, hub adjacency","decision_use":"source-sink matching, hub siting, transport penalty, national heatmap","evidence_grade_now":"B","upgrade_to_a_grade":"audited official prefecture boundaries, pipeline corridors, port/rail/road network costs"},{"modality":"temporal_power_policy","current_inputs":"2030-2060 learning cases, electricity and grid-carbon proxies, policy support cases","encoder":"year-scenario tensor","decision_use":"break-even timing, policy-exit risk, China 2030/2060 alignment","evidence_grade_now":"C","upgrade_to_a_grade":"province hourly prices, hourly grid emissions, explicit dispatch or power-system coupling"},{"modality":"text_policy_literature","current_inputs":"official dual-carbon policy notes, carbon-market rules, policy eligibility tables and literature-derived priors","encoder":"deterministic local TF-IDF hash embeddings plus source provenance","decision_use":"policy qualification, route eligibility, assumption provenance, reviewer traceability","evidence_grade_now":"B/C","upgrade_to_a_grade":"full legal-text corpus with human-audited retrieval passages and policy-effective-date tracking"},{"modality":"process_simulation","current_inputs":"transparent SAF flowsheet screen, electro/photo lifetime benchmarks, open/Aspen CSV interface and reservoir pressure screen","encoder":"process-yield, energy-intensity, lifetime and pressure feature vectors","decision_use":"route-specific CAPEX/OPEX, H2 demand, separations, reliability, lifetime and injectivity penalty","evidence_grade_now":"B/C","upgrade_to_a_grade":"validated Aspen Plus, IDAES or DWSIM packages and calibrated field-scale reservoir simulators"},{"modality":"remote_sensing_facility_proxy","current_inputs":"VIIRS/FIRMS source interfaces plus GEM/Climate TRACE facility coordinates and intensity proxies","encoder":"city raster/proxy aggregation for nightlight, thermal anomaly and facility-density features","decision_use":"CO2 source density, hub aggregation, capture-ready prioritization","evidence_grade_now":"B/C","upgrade_to_a_grade":"city-clipped VIIRS nightlight GeoTIFF and FIRMS thermal-anomaly CSV extracts with QA filtering"},{"modality":"market_demand","current_inputs":"regional product market capacity, price saturation, SAF export and shock cases","encoder":"regional demand ceiling and price-erosion curves","decision_use":"avoid treating all CO2-derived products as unlimited sinks","evidence_grade_now":"C","upgrade_to_a_grade":"audited offtake, NBS/industry-yearbook product flows and regional import/export balances"}]}
+{
+  "uncertainty": {
+    "co2_h2_ft_saf": {
+      "pathway_label": "FT-SAF",
+      "product": "sustainable_aviation_fuel",
+      "probability_positive": 1.0,
+      "p05": 914.8582397196154,
+      "p50": 1758.3122770843102,
+      "p95": 3118.8344181309117
+    },
+    "co2_methanol_to_jet_saf": {
+      "pathway_label": "MTJ-SAF",
+      "product": "sustainable_aviation_fuel",
+      "probability_positive": 0.9996,
+      "p05": 407.43455856213427,
+      "p50": 1062.647501692701,
+      "p95": 2132.892006555271
+    },
+    "mineralization": {
+      "pathway_label": "Mineralization",
+      "product": "carbonate_product",
+      "probability_positive": 0.9994,
+      "p05": 111.1950864302343,
+      "p50": 251.8362140890513,
+      "p95": 436.2560794639914
+    },
+    "electrolysis_to_formate": {
+      "pathway_label": "E-formate",
+      "product": "formic_acid_equivalent",
+      "probability_positive": 0.9984,
+      "p05": 307.81223902218636,
+      "p50": 896.4838172964064,
+      "p95": 1865.2481270455653
+    },
+    "rwgs_to_co": {
+      "pathway_label": "RWGS-CO",
+      "product": "carbon_monoxide",
+      "probability_positive": 0.9964,
+      "p05": 258.65996020513785,
+      "p50": 751.0606232073646,
+      "p95": 1580.9399914243777
+    },
+    "co2_to_methane": {
+      "pathway_label": "Methane",
+      "product": "methane",
+      "probability_positive": 0.9824,
+      "p05": 119.08610424308795,
+      "p50": 625.3174217804635,
+      "p95": 1426.9799442643462
+    },
+    "co2_to_methanol": {
+      "pathway_label": "Methanol",
+      "product": "methanol",
+      "probability_positive": 0.9802,
+      "p05": 90.06406434994908,
+      "p50": 581.3965118083186,
+      "p95": 1373.7625171149155
+    },
+    "photoelectrochemical_to_formate": {
+      "pathway_label": "PEC-formate",
+      "product": "formic_acid_equivalent",
+      "probability_positive": 0.9516,
+      "p05": 3.5348207011130115,
+      "p50": 299.7778873189832,
+      "p95": 774.9679836890706
+    },
+    "electrolysis_to_co": {
+      "pathway_label": "E-CO",
+      "product": "carbon_monoxide",
+      "probability_positive": 0.6578,
+      "p05": -191.1368972578267,
+      "p50": 74.38037628824847,
+      "p95": 471.0788057510687
+    },
+    "geological_storage": {
+      "pathway_label": "Storage",
+      "product": "none",
+      "probability_positive": 0.6214,
+      "p05": -141.3347572488591,
+      "p50": 34.07682521479056,
+      "p95": 136.75922145428916
+    },
+    "photocatalytic_to_co": {
+      "pathway_label": "PCO",
+      "product": "carbon_monoxide",
+      "probability_positive": 0.0158,
+      "p05": -343.5742878344756,
+      "p50": -226.89535058496742,
+      "p95": -65.3130295042667
+    },
+    "electrolysis_to_ethylene": {
+      "pathway_label": "E-ethylene",
+      "product": "ethylene",
+      "probability_positive": 0.0004,
+      "p05": -820.1821885215583,
+      "p50": -637.8888667292588,
+      "p95": -390.67924788563005
+    }
+  },
+  "drivers": {
+    "co2_h2_ft_saf": [
+      {
+        "driver": "product_price",
+        "correlation": 0.9946069749812324
+      },
+      {
+        "driver": "policy_credit",
+        "correlation": 0.08088095898397074
+      },
+      {
+        "driver": "capture_energy_cost",
+        "correlation": 0.050684358204808946
+      },
+      {
+        "driver": "h2_price",
+        "correlation": 0.04155268718156305
+      }
+    ],
+    "co2_methanol_to_jet_saf": [
+      {
+        "driver": "product_price",
+        "correlation": 0.9950759016935522
+      },
+      {
+        "driver": "capture_energy_cost",
+        "correlation": 0.08532342734414178
+      },
+      {
+        "driver": "h2_price",
+        "correlation": 0.043845056869424484
+      },
+      {
+        "driver": "policy_credit",
+        "correlation": 0.029624574049872388
+      }
+    ],
+    "co2_to_methane": [
+      {
+        "driver": "product_price",
+        "correlation": 0.9824939659955552
+      },
+      {
+        "driver": "policy_credit",
+        "correlation": 0.14318067221966008
+      },
+      {
+        "driver": "capture_energy_cost",
+        "correlation": 0.11059129985569581
+      },
+      {
+        "driver": "h2_price",
+        "correlation": 0.09473338655315298
+      }
+    ],
+    "co2_to_methanol": [
+      {
+        "driver": "product_price",
+        "correlation": 0.9791861933878999
+      },
+      {
+        "driver": "policy_credit",
+        "correlation": 0.1642001634972828
+      },
+      {
+        "driver": "capture_energy_cost",
+        "correlation": 0.0684174076813873
+      },
+      {
+        "driver": "h2_price",
+        "correlation": 0.04103434984498176
+      }
+    ],
+    "electrolysis_to_co": [
+      {
+        "driver": "product_price",
+        "correlation": 0.9438219027197241
+      },
+      {
+        "driver": "policy_credit",
+        "correlation": 0.32822157194602597
+      },
+      {
+        "driver": "capture_energy_cost",
+        "correlation": 0.05924060831783133
+      },
+      {
+        "driver": "reliability_cost",
+        "correlation": 0.030709304071498307
+      }
+    ],
+    "electrolysis_to_ethylene": [
+      {
+        "driver": "policy_credit",
+        "correlation": 0.7574482378339427
+      },
+      {
+        "driver": "product_price",
+        "correlation": 0.6459374731611557
+      },
+      {
+        "driver": "capture_energy_cost",
+        "correlation": 0.11289473906835909
+      },
+      {
+        "driver": "shock_extra",
+        "correlation": 0.04697326729669145
+      }
+    ],
+    "electrolysis_to_formate": [
+      {
+        "driver": "product_price",
+        "correlation": 0.9897647100595922
+      },
+      {
+        "driver": "policy_credit",
+        "correlation": 0.13559264496389523
+      },
+      {
+        "driver": "reliability_cost",
+        "correlation": 0.011494032568726718
+      },
+      {
+        "driver": "h2_price",
+        "correlation": 0.009231545100707875
+      }
+    ],
+    "geological_storage": [
+      {
+        "driver": "policy_credit",
+        "correlation": 0.9972824828909512
+      },
+      {
+        "driver": "shock_extra",
+        "correlation": 0.0607394099426112
+      },
+      {
+        "driver": "transport_cost",
+        "correlation": 0.03426506341299615
+      },
+      {
+        "driver": "h2_price",
+        "correlation": 0.024784112819848853
+      }
+    ],
+    "mineralization": [
+      {
+        "driver": "product_price",
+        "correlation": 0.8858501368658936
+      },
+      {
+        "driver": "policy_credit",
+        "correlation": 0.49151483915211913
+      },
+      {
+        "driver": "shock_extra",
+        "correlation": 0.06538388617357525
+      },
+      {
+        "driver": "h2_price",
+        "correlation": 0.02198745315212044
+      }
+    ],
+    "photocatalytic_to_co": [
+      {
+        "driver": "product_price",
+        "correlation": 0.7680930551698975
+      },
+      {
+        "driver": "policy_credit",
+        "correlation": 0.618145933891769
+      },
+      {
+        "driver": "capture_energy_cost",
+        "correlation": 0.16565712076488853
+      },
+      {
+        "driver": "shock_extra",
+        "correlation": 0.08865209320771135
+      }
+    ],
+    "photoelectrochemical_to_formate": [
+      {
+        "driver": "product_price",
+        "correlation": 0.9769439712740123
+      },
+      {
+        "driver": "policy_credit",
+        "correlation": 0.19007477185641525
+      },
+      {
+        "driver": "capture_energy_cost",
+        "correlation": 0.0654982789563117
+      },
+      {
+        "driver": "shock_extra",
+        "correlation": 0.032312283812459715
+      }
+    ],
+    "rwgs_to_co": [
+      {
+        "driver": "product_price",
+        "correlation": 0.9880789134120516
+      },
+      {
+        "driver": "h2_price",
+        "correlation": 0.12749135945528425
+      },
+      {
+        "driver": "policy_credit",
+        "correlation": 0.1018375604331025
+      },
+      {
+        "driver": "capture_energy_cost",
+        "correlation": 0.03916587159182374
+      }
+    ]
+  },
+  "stress": [
+    {
+      "scenario": "accelerated_clean_energy_low_h2",
+      "scenario_label": "accelerated_clean_energy_low_h2",
+      "category": "chemicals",
+      "category_label": "Chemicals",
+      "profit_busd_per_year": 38.891,
+      "allocated_mtco2_per_year": 34.115,
+      "durable_mtco2_per_year": 0.0,
+      "net_avoided_mtco2e_per_year": 24.66
+    },
+    {
+      "scenario": "accelerated_clean_energy_low_h2",
+      "scenario_label": "accelerated_clean_energy_low_h2",
+      "category": "geological_storage",
+      "category_label": "Geological storage",
+      "profit_busd_per_year": 6.907,
+      "allocated_mtco2_per_year": 31.858,
+      "durable_mtco2_per_year": 31.858,
+      "net_avoided_mtco2e_per_year": 31.446
+    },
+    {
+      "scenario": "accelerated_clean_energy_low_h2",
+      "scenario_label": "accelerated_clean_energy_low_h2",
+      "category": "mineral_products",
+      "category_label": "Mineral products",
+      "profit_busd_per_year": 10.263,
+      "allocated_mtco2_per_year": 27.0,
+      "durable_mtco2_per_year": 27.0,
+      "net_avoided_mtco2e_per_year": 21.697
+    },
+    {
+      "scenario": "commodity_only_no_support",
+      "scenario_label": "commodity_only_no_support",
+      "category": "chemicals",
+      "category_label": "Chemicals",
+      "profit_busd_per_year": 13.877,
+      "allocated_mtco2_per_year": 31.727,
+      "durable_mtco2_per_year": 0.0,
+      "net_avoided_mtco2e_per_year": 22.915
+    },
+    {
+      "scenario": "commodity_only_no_support",
+      "scenario_label": "commodity_only_no_support",
+      "category": "mineral_products",
+      "category_label": "Mineral products",
+      "profit_busd_per_year": 0.401,
+      "allocated_mtco2_per_year": 25.0,
+      "durable_mtco2_per_year": 25.0,
+      "net_avoided_mtco2e_per_year": 20.09
+    },
+    {
+      "scenario": "compound_stress_no_support",
+      "scenario_label": "compound_stress_no_support",
+      "category": "chemicals",
+      "category_label": "Chemicals",
+      "profit_busd_per_year": 5.35,
+      "allocated_mtco2_per_year": 23.192,
+      "durable_mtco2_per_year": 0.0,
+      "net_avoided_mtco2e_per_year": 16.751
+    },
+    {
+      "scenario": "earthquake_pipeline_disruption",
+      "scenario_label": "earthquake_pipeline_disruption",
+      "category": "chemicals",
+      "category_label": "Chemicals",
+      "profit_busd_per_year": 25.776,
+      "allocated_mtco2_per_year": 24.176,
+      "durable_mtco2_per_year": 0.0,
+      "net_avoided_mtco2e_per_year": 17.461
+    },
+    {
+      "scenario": "earthquake_pipeline_disruption",
+      "scenario_label": "earthquake_pipeline_disruption",
+      "category": "geological_storage",
+      "category_label": "Geological storage",
+      "profit_busd_per_year": 4.299,
+      "allocated_mtco2_per_year": 22.1,
+      "durable_mtco2_per_year": 22.1,
+      "net_avoided_mtco2e_per_year": 21.806
+    },
+    {
+      "scenario": "earthquake_pipeline_disruption",
+      "scenario_label": "earthquake_pipeline_disruption",
+      "category": "mineral_products",
+      "category_label": "Mineral products",
+      "profit_busd_per_year": 6.729,
+      "allocated_mtco2_per_year": 19.05,
+      "durable_mtco2_per_year": 19.05,
+      "net_avoided_mtco2e_per_year": 15.309
+    },
+    {
+      "scenario": "pandemic_demand_slump",
+      "scenario_label": "pandemic_demand_slump",
+      "category": "chemicals",
+      "category_label": "Chemicals",
+      "profit_busd_per_year": 22.223,
+      "allocated_mtco2_per_year": 27.987,
+      "durable_mtco2_per_year": 0.0,
+      "net_avoided_mtco2e_per_year": 20.23
+    },
+    {
+      "scenario": "pandemic_demand_slump",
+      "scenario_label": "pandemic_demand_slump",
+      "category": "geological_storage",
+      "category_label": "Geological storage",
+      "profit_busd_per_year": 5.188,
+      "allocated_mtco2_per_year": 26.309,
+      "durable_mtco2_per_year": 26.309,
+      "net_avoided_mtco2e_per_year": 25.962
+    },
+    {
+      "scenario": "pandemic_demand_slump",
+      "scenario_label": "pandemic_demand_slump",
+      "category": "mineral_products",
+      "category_label": "Mineral products",
+      "profit_busd_per_year": 6.47,
+      "allocated_mtco2_per_year": 22.15,
+      "durable_mtco2_per_year": 22.15,
+      "net_avoided_mtco2e_per_year": 17.8
+    },
+    {
+      "scenario": "policy_exit_green_premium",
+      "scenario_label": "policy_exit_green_premium",
+      "category": "chemicals",
+      "category_label": "Chemicals",
+      "profit_busd_per_year": 31.731,
+      "allocated_mtco2_per_year": 31.727,
+      "durable_mtco2_per_year": 0.0,
+      "net_avoided_mtco2e_per_year": 22.915
+    },
+    {
+      "scenario": "policy_exit_green_premium",
+      "scenario_label": "policy_exit_green_premium",
+      "category": "mineral_products",
+      "category_label": "Mineral products",
+      "profit_busd_per_year": 3.833,
+      "allocated_mtco2_per_year": 25.0,
+      "durable_mtco2_per_year": 25.0,
+      "net_avoided_mtco2e_per_year": 20.09
+    },
+    {
+      "scenario": "policy_supported_effort",
+      "scenario_label": "policy_supported_effort",
+      "category": "chemicals",
+      "category_label": "Chemicals",
+      "profit_busd_per_year": 34.19,
+      "allocated_mtco2_per_year": 31.588,
+      "durable_mtco2_per_year": 0.0,
+      "net_avoided_mtco2e_per_year": 22.833
+    },
+    {
+      "scenario": "policy_supported_effort",
+      "scenario_label": "policy_supported_effort",
+      "category": "geological_storage",
+      "category_label": "Geological storage",
+      "profit_busd_per_year": 6.326,
+      "allocated_mtco2_per_year": 29.617,
+      "durable_mtco2_per_year": 29.617,
+      "net_avoided_mtco2e_per_year": 29.233
+    },
+    {
+      "scenario": "policy_supported_effort",
+      "scenario_label": "policy_supported_effort",
+      "category": "mineral_products",
+      "category_label": "Mineral products",
+      "profit_busd_per_year": 9.199,
+      "allocated_mtco2_per_year": 25.0,
+      "durable_mtco2_per_year": 25.0,
+      "net_avoided_mtco2e_per_year": 20.09
+    },
+    {
+      "scenario": "slow_clean_energy_high_h2",
+      "scenario_label": "slow_clean_energy_high_h2",
+      "category": "chemicals",
+      "category_label": "Chemicals",
+      "profit_busd_per_year": 30.459,
+      "allocated_mtco2_per_year": 30.008,
+      "durable_mtco2_per_year": 0.0,
+      "net_avoided_mtco2e_per_year": 21.691
+    },
+    {
+      "scenario": "slow_clean_energy_high_h2",
+      "scenario_label": "slow_clean_energy_high_h2",
+      "category": "geological_storage",
+      "category_label": "Geological storage",
+      "profit_busd_per_year": 5.709,
+      "allocated_mtco2_per_year": 28.213,
+      "durable_mtco2_per_year": 28.213,
+      "net_avoided_mtco2e_per_year": 27.84
+    },
+    {
+      "scenario": "slow_clean_energy_high_h2",
+      "scenario_label": "slow_clean_energy_high_h2",
+      "category": "mineral_products",
+      "category_label": "Mineral products",
+      "profit_busd_per_year": 8.302,
+      "allocated_mtco2_per_year": 23.75,
+      "durable_mtco2_per_year": 23.75,
+      "net_avoided_mtco2e_per_year": 19.086
+    },
+    {
+      "scenario": "strict_storage_pressure_slow_wells",
+      "scenario_label": "strict_storage_pressure_slow_wells",
+      "category": "chemicals",
+      "category_label": "Chemicals",
+      "profit_busd_per_year": 20.956,
+      "allocated_mtco2_per_year": 19.584,
+      "durable_mtco2_per_year": 0.0,
+      "net_avoided_mtco2e_per_year": 14.157
+    },
+    {
+      "scenario": "strict_storage_pressure_slow_wells",
+      "scenario_label": "strict_storage_pressure_slow_wells",
+      "category": "geological_storage",
+      "category_label": "Geological storage",
+      "profit_busd_per_year": 3.683,
+      "allocated_mtco2_per_year": 18.582,
+      "durable_mtco2_per_year": 18.582,
+      "net_avoided_mtco2e_per_year": 18.334
+    },
+    {
+      "scenario": "strict_storage_pressure_slow_wells",
+      "scenario_label": "strict_storage_pressure_slow_wells",
+      "category": "mineral_products",
+      "category_label": "Mineral products",
+      "profit_busd_per_year": 5.524,
+      "allocated_mtco2_per_year": 15.5,
+      "durable_mtco2_per_year": 15.5,
+      "net_avoided_mtco2e_per_year": 12.456
+    },
+    {
+      "scenario": "strong_product_markets_hub_scale",
+      "scenario_label": "strong_product_markets_hub_scale",
+      "category": "chemicals",
+      "category_label": "Chemicals",
+      "profit_busd_per_year": 47.839,
+      "allocated_mtco2_per_year": 36.486,
+      "durable_mtco2_per_year": 0.0,
+      "net_avoided_mtco2e_per_year": 26.353
+    },
+    {
+      "scenario": "strong_product_markets_hub_scale",
+      "scenario_label": "strong_product_markets_hub_scale",
+      "category": "geological_storage",
+      "category_label": "Geological storage",
+      "profit_busd_per_year": 7.135,
+      "allocated_mtco2_per_year": 32.903,
+      "durable_mtco2_per_year": 32.903,
+      "net_avoided_mtco2e_per_year": 32.479
+    },
+    {
+      "scenario": "strong_product_markets_hub_scale",
+      "scenario_label": "strong_product_markets_hub_scale",
+      "category": "mineral_products",
+      "category_label": "Mineral products",
+      "profit_busd_per_year": 12.085,
+      "allocated_mtco2_per_year": 28.75,
+      "durable_mtco2_per_year": 28.75,
+      "net_avoided_mtco2e_per_year": 23.104
+    },
+    {
+      "scenario": "war_energy_security_shock",
+      "scenario_label": "war_energy_security_shock",
+      "category": "chemicals",
+      "category_label": "Chemicals",
+      "profit_busd_per_year": 34.518,
+      "allocated_mtco2_per_year": 28.142,
+      "durable_mtco2_per_year": 0.0,
+      "net_avoided_mtco2e_per_year": 20.325
+    },
+    {
+      "scenario": "war_energy_security_shock",
+      "scenario_label": "war_energy_security_shock",
+      "category": "geological_storage",
+      "category_label": "Geological storage",
+      "profit_busd_per_year": 4.887,
+      "allocated_mtco2_per_year": 25.499,
+      "durable_mtco2_per_year": 25.499,
+      "net_avoided_mtco2e_per_year": 25.163
+    },
+    {
+      "scenario": "war_energy_security_shock",
+      "scenario_label": "war_energy_security_shock",
+      "category": "mineral_products",
+      "category_label": "Mineral products",
+      "profit_busd_per_year": 8.62,
+      "allocated_mtco2_per_year": 22.175,
+      "durable_mtco2_per_year": 22.175,
+      "net_avoided_mtco2e_per_year": 17.82
+    },
+    {
+      "scenario": "weak_product_markets",
+      "scenario_label": "weak_product_markets",
+      "category": "chemicals",
+      "category_label": "Chemicals",
+      "profit_busd_per_year": 25.754,
+      "allocated_mtco2_per_year": 30.324,
+      "durable_mtco2_per_year": 0.0,
+      "net_avoided_mtco2e_per_year": 21.92
+    },
+    {
+      "scenario": "weak_product_markets",
+      "scenario_label": "weak_product_markets",
+      "category": "geological_storage",
+      "category_label": "Geological storage",
+      "profit_busd_per_year": 5.864,
+      "allocated_mtco2_per_year": 28.534,
+      "durable_mtco2_per_year": 28.534,
+      "net_avoided_mtco2e_per_year": 28.157
+    },
+    {
+      "scenario": "weak_product_markets",
+      "scenario_label": "weak_product_markets",
+      "category": "mineral_products",
+      "category_label": "Mineral products",
+      "profit_busd_per_year": 7.448,
+      "allocated_mtco2_per_year": 24.0,
+      "durable_mtco2_per_year": 24.0,
+      "net_avoided_mtco2e_per_year": 19.287
+    }
+  ],
+  "modalities": [],
+  "final_model_note": {
+    "source": "output/final_multiscenario_regression",
+    "policy_case": "policy_supported_effort / climate_constrained_profit_max / positive_net_avoided",
+    "eor_rule": "EOR overlay is not counted as durable CO2.",
+    "dac_rule": "DAC is displayed as fallback/removal context, not cheap feedstock."
+  }
+}

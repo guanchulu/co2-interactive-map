@@ -339,6 +339,61 @@ h3 {
   line-height: 1.45;
 }
 
+.chain-list {
+  display: grid;
+  gap: 8px;
+  margin-top: 10px;
+}
+
+.chain-row {
+  display: grid;
+  grid-template-columns: 14px minmax(0, 1fr);
+  gap: 9px;
+  align-items: start;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 9px;
+  background: #ffffff;
+}
+
+.chain-dot {
+  width: 10px;
+  height: 10px;
+  margin-top: 4px;
+  border-radius: 50%;
+  background: var(--rose);
+}
+
+.chain-row.available .chain-dot {
+  background: var(--green);
+}
+
+.chain-row.partial .chain-dot {
+  background: var(--amber);
+}
+
+.chain-row strong {
+  display: block;
+  font-size: 12px;
+}
+
+.chain-row em {
+  display: inline-block;
+  margin-top: 3px;
+  color: var(--muted);
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.chain-row p {
+  margin: 5px 0 0;
+  color: var(--muted);
+  font-size: 11px;
+  line-height: 1.35;
+}
+
 .timeline-chart {
   margin-top: 12px;
 }

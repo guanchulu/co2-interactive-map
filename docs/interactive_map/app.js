@@ -49,6 +49,13 @@ const ALLOWED_LAYERS = new Set(["margin", "allocation", "fusion", "policy", "vis
 const requestedLayer = URL_PARAMS.get("layer");
 const requestedYear = URL_PARAMS.get("year");
 const requestedRoutes = URL_PARAMS.get("routes");
+const DATA_BASE = window.CO2_MAP_BASE || "./";
+const BOUNDARY_CDN_URL = "https://cdn.jsdelivr.net/npm/cn-atlas@0.1.2/prefectures.json";
+
+function dataPath(path) {
+  const base = DATA_BASE.endsWith("/") ? DATA_BASE : `${DATA_BASE}/`;
+  return `${base}${path}`;
+}
 
 const state = {
   year: requestedYear || "2060",
@@ -88,6 +95,10 @@ const el = {
 function fmt(value, digits = 0) {
   if (value === null || value === undefined || Number.isNaN(Number(value))) return "n/a";
   return Number(value).toLocaleString("en-US", { maximumFractionDigits: digits, minimumFractionDigits: digits });
+}
+
+function hasNumber(value) {
+  return value !== null && value !== undefined && !Number.isNaN(Number(value));
 }
 
 function project(lon, lat) {
@@ -161,6 +172,85 @@ function cityForFeature(feature) {
   return state.cities[feature.properties.city_id];
 }
 
+function featureForCityId(cityId) {
+  return state.boundaries.features.find((feature) => feature.properties.city_id === cityId) || null;
+}
+
+function normalizeCityId(value) {
+  if (value === null || value === undefined) return "";
+  const text = String(value).trim();
+  return text.length === 6 ? text : text.padStart(6, "0");
+}
+
+function boundaryFeatureId(feature) {
+  const props = feature.properties || {};
+  return normalizeCityId(props.city_id || props.id || props.adcode || props["\u533a\u5212\u7801"] || "");
+}
+
+function dataStatusLabel(dataStatus) {
+  if (dataStatus === "model_result") return "Full pathway chain is available in the current screened model.";
+  if (dataStatus === "emissions_only") return "City emissions are available, but the full source-capture-destination-transport-market chain is incomplete.";
+  return "Boundary available; no CO2 pathway or CEADs record is linked yet.";
+}
+
+function expandOverlayRecord(record) {
+  if (Array.isArray(record)) {
+    const [latestEmissions, latestYear, peakEmissions, peakYear, screenedFlag, sourceCount] = record;
+    const screened = Boolean(screenedFlag);
+    const dataStatus = screened ? "model_result" : (hasNumber(latestEmissions) ? "emissions_only" : "boundary_only");
+    return {
+      screened,
+      data_status: dataStatus,
+      data_status_label: dataStatusLabel(dataStatus),
+      screened_source_count: sourceCount || 0,
+      ceads_latest_emissions: latestEmissions,
+      ceads_latest_year: latestYear,
+      ceads_peak_emissions: peakEmissions,
+      ceads_peak_year: peakYear,
+    };
+  }
+  return record || {};
+}
+
+function mergeBoundaryOverlay(boundaries, overlay) {
+  const overlayById = overlay?.cities || overlay || {};
+  const features = (boundaries?.features || []).map((feature) => {
+    const cityId = boundaryFeatureId(feature);
+    const props = feature.properties || {};
+    const extra = expandOverlayRecord(overlayById[cityId]);
+    const defaultName = isEnglishSafe(props.name) ? props.name : "Boundary city";
+    const dataStatus = extra.data_status || "boundary_only";
+    const merged = {
+      city_id: cityId,
+      city_name: extra.city_name || defaultName,
+      city_name_en: extra.city_name_en || extra.city_name || defaultName,
+      province_name: extra.province_name || "",
+      province_name_en: extra.province_name_en || extra.province_name || "",
+      screened: false,
+      data_status: dataStatus,
+      data_status_label: extra.data_status_label || dataStatusLabel(dataStatus),
+      screened_source_count: 0,
+      missing_chain_count: undefined,
+      missing_chain_labels: [],
+      ...props,
+      ...extra,
+      city_id: cityId,
+    };
+    return { ...feature, properties: merged };
+  });
+  return { type: "FeatureCollection", features };
+}
+
+async function fetchJsonOrNull(url) {
+  try {
+    const response = await fetch(url);
+    if (!response.ok) return null;
+    return response.json();
+  } catch (_) {
+    return null;
+  }
+}
+
 function yearData(city, year = state.year) {
   return city?.timeline?.[year] || null;
 }
@@ -175,17 +265,18 @@ function displayName(city) {
   if (isEnglishSafe(city.city_name_en)) return city.city_name_en;
   if (isEnglishSafe(city.display_name)) return city.display_name;
   if (isEnglishSafe(city.city_name)) return city.city_name;
-  return `City ${city.city_id || "unknown"}`;
+  return "Boundary city";
 }
 
 function featureDisplayName(feature) {
   const props = feature.properties || {};
   if (isEnglishSafe(props.city_name_en)) return props.city_name_en;
   if (isEnglishSafe(props.city_name)) return props.city_name;
-  return `City ${props.city_id || "unknown"}`;
+  return "Boundary city";
 }
 
 function featureFill(feature) {
+  if (state.layer === "ceads") return ceadsColor(feature.properties.ceads_latest_emissions);
   if (!feature.properties.screened) return COLORS.empty;
   const city = cityForFeature(feature);
   const yd = yearData(city);
@@ -198,7 +289,6 @@ function featureFill(feature) {
     const processScore = 0.55 * Number(city.multimodal?.component_scores?.process_flowsheet || 0) + 0.45 * Number(city.multimodal?.component_scores?.reservoir_simulation || 0);
     return componentColor(processScore);
   }
-  if (state.layer === "ceads") return ceadsColor(city.ceads_history?.latest_emissions_mtco2);
   if (state.layer === "archetype") return ARCHETYPE_COLORS[yd.archetype] || COLORS.wait;
   return marginColor(yd.best_margin_usd_per_tco2);
 }
@@ -206,10 +296,10 @@ function featureFill(feature) {
 function renderStats() {
   const s = state.summary;
   el.statsStrip.innerHTML = [
-    [`${fmt(s.city_count)}`, "screened cities"],
-    [`${fmt(s.positive_2030)}`, "positive in 2030"],
-    [`${fmt(s.positive_2060)}`, "positive in 2060"],
-    [`${fmt(s.ceads_history_city_count)}`, "with CEADs history"],
+    [`${fmt(s.prefecture_boundary_count)}`, "prefecture boundaries"],
+    [`${fmt(s.city_count)}`, "full pathway cities"],
+    [`${fmt(s.emissions_only_city_count)}`, "emissions-only cities"],
+    [`${fmt(s.boundary_only_city_count)}`, "boundary-only cities"],
     [`${fmt(s.managed_mtco2_2060, 1)} Mt`, "managed CO2 in LP"],
     [`${fmt(s.profit_busd_2060, 1)} BUSD`, "2060 profit pool"],
   ]
@@ -357,7 +447,7 @@ function showTooltip(event, feature) {
   el.tooltip.style.top = `${event.clientY + 14}px`;
   el.tooltip.innerHTML = city
     ? `<strong>${displayName(city)}</strong><br>${yd.best_pathway_label}<br>${fmt(yd.best_margin_usd_per_tco2, 1)} USD/tCO2 in ${state.year}<br>CEADs latest: ${city.ceads_history?.available ? `${fmt(city.ceads_history.latest_emissions_mtco2, 1)} MtCO2` : "n/a"}`
-    : `<strong>${featureDisplayName(feature)}</strong><br>No model result / not screened`;
+    : `<strong>${featureDisplayName(feature)}</strong><br>${feature.properties.data_status_label || "No model result / not screened"}<br>CEADs latest: ${hasNumber(feature.properties.ceads_latest_emissions) ? `${fmt(feature.properties.ceads_latest_emissions, 1)} MtCO2` : "n/a"}`;
 }
 
 function hideTooltip() {
@@ -373,7 +463,7 @@ function routeCategoryColor(category) {
 }
 
 function selectCity(cityId) {
-  if (!state.cities[cityId]) return;
+  if (!state.cities[cityId] && !featureForCityId(cityId)) return;
   state.selectedCityId = cityId;
   renderRoutes();
   renderSelectedOutline();
@@ -382,14 +472,17 @@ function selectCity(cityId) {
 
 function renderDetails() {
   const city = state.cities[state.selectedCityId];
-  if (!city) return;
+  if (!city) {
+    renderNoDataDetails(featureForCityId(state.selectedCityId));
+    return;
+  }
   const current = yearData(city, "2030");
   const future = yearData(city, "2060");
   const active = yearData(city, state.year);
   const alloc = city.allocation_summary || {};
   const uncertainty = state.support.uncertainty[future.best_pathway] || null;
 
-  el.cityTitle.textContent = `${displayName(city)} (${city.city_id})`;
+  el.cityTitle.textContent = displayName(city);
   el.cityBadges.innerHTML = [
     badge(current.best_margin_usd_per_tco2 > 0 ? "Profitable now" : "Not profitable now", current.best_margin_usd_per_tco2 > 0 ? "ok" : "neg"),
     badge(future.best_margin_usd_per_tco2 > 0 ? "Profitable in 2060" : "Not profitable in 2060", future.best_margin_usd_per_tco2 > 0 ? "ok" : "warn"),
@@ -414,6 +507,117 @@ function renderDetails() {
   renderAllocation(city);
   renderUncertainty(city, uncertainty);
   renderStress();
+}
+
+function chainStatusLabel(status) {
+  if (status === "available") return "available";
+  if (status === "partial") return "partial";
+  return "missing";
+}
+
+function renderChainList(steps = []) {
+  return `
+    <div class="chain-list">
+      ${steps
+        .map((step) => `
+          <div class="chain-row ${step.status}">
+            <span class="chain-dot"></span>
+            <div>
+              <strong>${step.label}</strong>
+              <em>${chainStatusLabel(step.status)}</em>
+              <p>${step.detail}</p>
+            </div>
+          </div>
+        `)
+        .join("")}
+    </div>
+  `;
+}
+
+function inferChainSteps(props = {}) {
+  const hasMetrics = props.screened || props.data_status === "model_result";
+  const hasCeads = hasNumber(props.ceads_latest_emissions);
+  const sourceCount = Number(props.screened_source_count || 0);
+  return [
+    {
+      label: "1. City boundary",
+      status: "available",
+      detail: "Prefecture polygon is available and drawn on the map.",
+    },
+    {
+      label: "2. Large industrial CO2 point source",
+      status: hasMetrics || sourceCount > 0 ? "available" : "missing",
+      detail: hasMetrics || sourceCount > 0
+        ? `${Math.max(sourceCount, 1)} screened point-source package is linked.`
+        : "No screened large industrial point source is joined to this prefecture in the current public source package.",
+    },
+    {
+      label: "3. Capture cost, energy, purity and pressure",
+      status: hasMetrics ? "available" : "missing",
+      detail: hasMetrics
+        ? "Capture cost, energy, purity, pressure and impurity assumptions are assigned."
+        : "Needs source-specific capture cost, capture energy, CO2 purity, pressure and impurity assumptions.",
+    },
+    {
+      label: "4. Destination and CO2 specification",
+      status: hasMetrics ? "available" : "missing",
+      detail: hasMetrics
+        ? "Storage/utilization destinations, capacity limits and CO2 acceptance specifications are linked."
+        : "Needs a linked storage basin, oilfield, mineralization site, chemical/fuel market, hub or port with CO2 acceptance specifications.",
+    },
+    {
+      label: "5. Transport route and cost",
+      status: hasMetrics ? "available" : "missing",
+      detail: hasMetrics
+        ? "Source-sink distance, transport mode and route-cost assumptions are evaluated."
+        : "Needs a source-to-destination route, distance, transport mode and scale-adjusted cost/emissions calculation.",
+    },
+    {
+      label: "6. Market and policy parameters",
+      status: hasMetrics ? "available" : (hasCeads ? "partial" : "missing"),
+      detail: hasMetrics
+        ? "Product price/capacity, carbon price, carbon tax and credit assumptions are available."
+        : (hasCeads
+          ? "City emissions are available, but product-market, policy-credit and pathway-capacity parameters are not linked."
+          : "Needs product market size/prices and carbon-policy assumptions before profitability can be evaluated."),
+    },
+  ];
+}
+
+function renderNoDataDetails(feature) {
+  if (!feature) return;
+  const props = feature.properties || {};
+  const hasEmissions = hasNumber(props.ceads_latest_emissions);
+  const chainSteps = props.chain_steps?.length ? props.chain_steps : inferChainSteps(props);
+  const missingLabels = props.missing_chain_labels?.length
+    ? props.missing_chain_labels
+    : chainSteps.filter((step) => step.status === "missing").map((step) => step.label);
+  el.cityTitle.textContent = featureDisplayName(feature);
+  el.cityBadges.innerHTML = [
+    badge("No pathway result", "warn"),
+    badge(props.data_status === "emissions_only" ? "CEADs emissions only" : "boundary only", "warn"),
+    badge(hasEmissions ? `${fmt(props.ceads_latest_emissions, 0)} Mt CEADs` : "no CEADs history", hasEmissions ? "ok" : "warn"),
+  ].join("");
+  el.recommendation.innerHTML = `
+    <div class="metric-grid">
+      <div class="metric"><strong>${props.data_status === "emissions_only" ? "Emissions-only" : "No matched data"}</strong><span>current map status</span></div>
+      <div class="metric"><strong>${hasEmissions ? fmt(props.ceads_latest_emissions, 1) : "n/a"}</strong><span>latest CEADs MtCO2</span></div>
+      <div class="metric"><strong>${props.ceads_latest_year || "n/a"}</strong><span>CEADs latest year</span></div>
+      <div class="metric"><strong>${fmt(props.screened_source_count || 0)}</strong><span>screened point sources</span></div>
+      <div class="metric"><strong>${hasNumber(props.ceads_peak_emissions) ? fmt(props.ceads_peak_emissions, 1) : "n/a"}</strong><span>CEADs peak MtCO2</span></div>
+      <div class="metric"><strong>${fmt(hasNumber(props.missing_chain_count) ? props.missing_chain_count : missingLabels.length)}</strong><span>missing chain nodes</span></div>
+    </div>
+    <p class="logic">${props.data_status_label || "This prefecture has a boundary polygon but no city-level pathway result in the current screened source-sink model."}</p>
+    <p class="logic">Interpretation: this does not mean the city has no CO2 emissions. It means the current public map has not linked it to every source-capture-destination-transport-market node required for a pathway recommendation.</p>
+    ${renderChainList(chainSteps)}
+  `;
+  el.timelineChart.innerHTML = `<p class="logic">No model profitability timeline is available for this prefecture yet.</p>`;
+  el.allocationPanel.innerHTML = `<p class="logic">No 2060 LP route is allocated from this prefecture in the current screened model.</p>`;
+  el.uncertaintyPanel.innerHTML = `
+    <p class="logic">${hasEmissions ? `The latest matched CEADs city emissions are ${fmt(props.ceads_latest_emissions, 1)} MtCO2 in ${props.ceads_latest_year || "the latest matched year"}.` : "No matched CEADs city emissions are available in the current crosswalk; this is missing data, not zero emissions."}</p>
+    <p class="logic">Priority data gaps: ${missingLabels.length ? missingLabels.join("; ") : "none"}.</p>
+  `;
+  el.stressPanel.innerHTML = "";
 }
 
 function renderTimeline(city) {
@@ -594,9 +798,11 @@ function initControls() {
   }
   el.layerSelect.value = state.layer;
   el.routeToggle.checked = state.showRoutes;
-  const sortedCities = Object.values(state.cities).sort((a, b) => displayName(a).localeCompare(displayName(b), "en-US"));
-  el.cityList.innerHTML = sortedCities
-    .map((city) => `<option value="${displayName(city)}">${city.city_id}</option><option value="${city.city_id}">${displayName(city)}</option>`)
+  const sortedFeatures = state.boundaries.features
+    .slice()
+    .sort((a, b) => featureDisplayName(a).localeCompare(featureDisplayName(b), "en-US"));
+  el.cityList.innerHTML = sortedFeatures
+    .map((feature) => `<option value="${featureDisplayName(feature)}"></option>`)
     .join("");
   el.yearSelect.addEventListener("change", () => {
     state.year = el.yearSelect.value;
@@ -613,20 +819,23 @@ function initControls() {
   });
   el.citySearch.addEventListener("change", () => {
     const value = el.citySearch.value.trim();
-    const city = Object.values(state.cities).find((item) => displayName(item) === value || item.city_id === value);
-    if (city) selectCity(city.city_id);
+    const feature = state.boundaries.features.find((item) => featureDisplayName(item) === value || item.properties.city_id === value);
+    if (feature) selectCity(feature.properties.city_id);
   });
 }
 
 async function loadData() {
-  const [boundaries, cities, routes, support, summary] = await Promise.all([
-    fetch("./data/city_boundaries.geojson").then((response) => response.json()),
-    fetch("./data/city_metrics.json").then((response) => response.json()),
-    fetch("./data/route_links.json").then((response) => response.json()),
-    fetch("./data/supporting_tables.json").then((response) => response.json()),
-    fetch("./data/summary.json").then((response) => response.json()),
+  const [localBoundaries, boundaryOverlay, cdnBoundaries, cities, routes, support, summary] = await Promise.all([
+    fetchJsonOrNull(dataPath("data/city_boundaries.geojson")),
+    fetchJsonOrNull(dataPath("data/city_overlay.json")),
+    fetchJsonOrNull(BOUNDARY_CDN_URL),
+    fetch(dataPath("data/city_metrics.json")).then((response) => response.json()),
+    fetch(dataPath("data/route_links.json")).then((response) => response.json()),
+    fetch(dataPath("data/supporting_tables.json")).then((response) => response.json()),
+    fetch(dataPath("data/summary.json")).then((response) => response.json()),
   ]);
-  state.boundaries = boundaries;
+  const boundarySource = cdnBoundaries?.features?.length >= 300 ? cdnBoundaries : localBoundaries;
+  state.boundaries = mergeBoundaryOverlay(boundarySource, boundaryOverlay);
   state.cities = cities;
   state.routes = routes;
   state.support = support;
