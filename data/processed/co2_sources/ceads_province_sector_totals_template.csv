@@ -1,2 +1,0 @@
-year,province,source_type,emissions_mtco2,notes
-2024,Shandong,steel,,Fill from manually downloaded CEADs province-sector table; units must be MtCO2/yr before capture.

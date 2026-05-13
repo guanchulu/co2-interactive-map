@@ -1,9 +1,0 @@
-region,pathway,technology_family,project_type,year,wacc_low,wacc_base,wacc_high,construction_years,capex_contingency_fraction,owner_cost_fraction,debt_fraction,required_dscr,offtake_contract_years,merchant_risk_premium,policy_risk_premium,notes
-all,all,all,merchant,2030,0.07,0.09,0.13,3,0.15,0.08,0.55,1.30,0,0.02,0.02,Generic merchant project.
-all,geological_storage,storage,regulated_storage,2030,0.055,0.075,0.10,4,0.18,0.10,0.65,1.25,15,0.005,0.015,Storage infrastructure has lower technology risk but higher liability/permit risk.
-all,mineralization,mineralization,industrial_integration,2030,0.065,0.085,0.12,2,0.14,0.07,0.60,1.25,10,0.01,0.02,Mineralization integrated with construction materials.
-all,all,thermochemical,chemical_project,2030,0.07,0.095,0.14,3,0.18,0.09,0.55,1.35,8,0.015,0.025,Thermochemical utilization/SAF financing proxy.
-all,all,electrochemical,foak_modular,2030,0.09,0.13,0.19,2,0.28,0.12,0.45,1.45,5,0.03,0.035,FOAK electrochemical risk premium.
-all,all,photochemical,foak_solar_chemical,2030,0.10,0.15,0.22,2,0.35,0.12,0.40,1.50,3,0.04,0.04,FOAK photochemical risk premium.
-all,co2_h2_ft_saf,thermochemical,saf_offtake,2040,0.06,0.085,0.13,4,0.22,0.10,0.60,1.35,12,0.01,0.03,SAF with partial offtake.
-all,co2_methanol_to_jet_saf,thermochemical,saf_offtake,2040,0.06,0.09,0.14,4,0.24,0.10,0.58,1.35,12,0.01,0.03,MTJ SAF with partial offtake.

@@ -1,5 +1,0 @@
-source_id,claim,source_url,model_use
-china_dual_carbon_policy,China policy framing is CO2 emissions peak before 2030 and carbon neutrality before 2060.,https://en.ndrc.gov.cn/policies/202110/t20211024_1300725.html,sets 2030-2060 time axis
-irena_h2_cost_effort,Electrolyser cost reductions and low-cost renewable power can push green hydrogen toward low-cost ranges in best locations.,https://www.irena.org/Energy-Transition/Technology/Hydrogen/Electrolyser-costs,supports optimistic H2 cost effort curve
-cdr_fyi_durable_credit_anchor,CDR.fyi reports publicly disclosed durable CDR order pricing falling from about 490 USD/t in 2023 to about 320 USD/t in 2024.,https://www.cdr.fyi/blog/2024-year-in-review,"supports high-credit CDR sensitivity, not a China policy forecast"
-e_saf_literature_cost_anchor,Recent e-kerosene literature reports multi-USD/kg costs and high sensitivity to electricity and hydrogen.,https://www.sciencedirect.com/science/article/pii/S0196890425008787,supports high SAF offtake/mandate price sensitivity

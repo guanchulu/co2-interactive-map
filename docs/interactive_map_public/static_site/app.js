@@ -189,6 +189,7 @@ function boundaryFeatureId(feature) {
 
 function dataStatusLabel(dataStatus) {
   if (dataStatus === "model_result") return "Full pathway chain is available in the current screened model.";
+  if (dataStatus === "screened_no_allocation") return "A screened chain exists, but the final LP does not allocate this city under the selected policy case.";
   if (dataStatus === "emissions_only") return "City emissions are available, but the full source-capture-destination-transport-market chain is incomplete.";
   return "Boundary available; no CO2 pathway or CEADs record is linked yet.";
 }
@@ -599,12 +600,12 @@ function renderNoDataDetails(feature) {
   el.cityTitle.textContent = featureDisplayName(feature);
   el.cityBadges.innerHTML = [
     badge("No pathway result", "warn"),
-    badge(props.data_status === "emissions_only" ? "CEADs emissions only" : "boundary only", "warn"),
+    badge(props.data_status === "screened_no_allocation" ? "Screened / no LP allocation" : (props.data_status === "emissions_only" ? "CEADs emissions only" : "boundary only"), "warn"),
     badge(hasEmissions ? `${fmt(props.ceads_latest_emissions, 0)} Mt CEADs` : "no CEADs history", hasEmissions ? "ok" : "warn"),
   ].join("");
   el.recommendation.innerHTML = `
     <div class="metric-grid">
-      <div class="metric"><strong>${props.data_status === "emissions_only" ? "Emissions-only" : "No matched data"}</strong><span>current map status</span></div>
+      <div class="metric"><strong>${props.data_status === "screened_no_allocation" ? "Screened, not selected" : (props.data_status === "emissions_only" ? "Emissions-only" : "No matched data")}</strong><span>current map status</span></div>
       <div class="metric"><strong>${hasEmissions ? fmt(props.ceads_latest_emissions, 1) : "n/a"}</strong><span>latest CEADs MtCO2</span></div>
       <div class="metric"><strong>${props.ceads_latest_year || "n/a"}</strong><span>CEADs latest year</span></div>
       <div class="metric"><strong>${fmt(props.screened_source_count || 0)}</strong><span>screened point sources</span></div>

@@ -416,7 +416,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 4,
         "chain_steps": [
           {
@@ -467,13 +467,9 @@
         "ceads_peak_year": 2012,
         "ceads_peak_emissions": 160.32536079675523,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -152.2589636061416,
-        "best_margin_2060": 203.31916383802636,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -859,7 +855,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 3,
         "chain_steps": [
           {
@@ -910,13 +906,9 @@
         "ceads_peak_year": 2008,
         "ceads_peak_emissions": 149.13124670801258,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -139.12109697100092,
-        "best_margin_2060": 241.1193923980104,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1274,7 +1266,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 17,
         "chain_steps": [
           {
@@ -1325,13 +1317,9 @@
         "ceads_peak_year": 2018,
         "ceads_peak_emissions": 415.9770775855284,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -156.60869405291066,
-        "best_margin_2060": 214.26476942121735,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1861,7 +1849,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 2,
         "chain_steps": [
           {
@@ -1912,13 +1900,9 @@
         "ceads_peak_year": 2017,
         "ceads_peak_emissions": 41.33066349175283,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -161.83415784125268,
-        "best_margin_2060": 201.99371894800575,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2556,7 +2540,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 2,
         "chain_steps": [
           {
@@ -2607,13 +2591,9 @@
         "ceads_peak_year": 2014,
         "ceads_peak_emissions": 156.52647658841335,
         "ceads_evidence_grade": "B",
-        "archetype": "coastal_saf_export_hub",
-        "best_pathway": "co2_h2_ft_saf",
-        "best_margin_2030": -138.29840245748454,
-        "best_margin_2060": 333.0719861459834,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3612,7 +3592,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -3663,13 +3643,9 @@
         "ceads_peak_year": 2005,
         "ceads_peak_emissions": 40.87311698687349,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -141.17855924711972,
-        "best_margin_2060": 217.25390790533746,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4019,7 +3995,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -4070,13 +4046,9 @@
         "ceads_peak_year": 2011,
         "ceads_peak_emissions": 50.09126310059249,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -186.04883718910904,
-        "best_margin_2060": 115.14487593989247,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4430,7 +4402,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 2,
         "chain_steps": [
           {
@@ -4481,13 +4453,9 @@
         "ceads_peak_year": 2016,
         "ceads_peak_emissions": 48.14360993303397,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -168.59754557062143,
-        "best_margin_2060": 198.06947031280532,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4877,7 +4845,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 3,
         "chain_steps": [
           {
@@ -4928,13 +4896,9 @@
         "ceads_peak_year": 2012,
         "ceads_peak_emissions": 65.09547373200225,
         "ceads_evidence_grade": "B",
-        "archetype": "coastal_saf_export_hub",
-        "best_pathway": "co2_h2_ft_saf",
-        "best_margin_2030": -97.04658484372464,
-        "best_margin_2060": 827.2413110038215,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6097,7 +6061,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -6148,13 +6112,9 @@
         "ceads_peak_year": 2017,
         "ceads_peak_emissions": 13.945581078555898,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -143.6129000578744,
-        "best_margin_2060": 212.16354021598647,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6628,7 +6588,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 2,
         "chain_steps": [
           {
@@ -6679,13 +6639,9 @@
         "ceads_peak_year": 2006,
         "ceads_peak_emissions": 113.73971366326867,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -139.59909743621054,
-        "best_margin_2060": 240.58959899154652,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7138,13 +7094,9 @@
         "ceads_peak_year": null,
         "ceads_peak_emissions": null,
         "ceads_evidence_grade": null,
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -143.62774299034842,
-        "best_margin_2060": 210.1241310124272,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8075,7 +8027,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 2,
         "chain_steps": [
           {
@@ -8126,13 +8078,9 @@
         "ceads_peak_year": 2018,
         "ceads_peak_emissions": 71.65375097939405,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -141.27216118189386,
-        "best_margin_2060": 220.53238035691083,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8590,7 +8538,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -8641,13 +8589,9 @@
         "ceads_peak_year": 2017,
         "ceads_peak_emissions": 99.3659191560979,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -141.16699295398456,
-        "best_margin_2060": 217.55634316092238,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8997,7 +8941,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 2,
         "chain_steps": [
           {
@@ -9048,13 +8992,9 @@
         "ceads_peak_year": 2014,
         "ceads_peak_emissions": 75.86539434886933,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -144.5227151878159,
-        "best_margin_2060": 209.0363474050124,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9941,7 +9881,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -9992,13 +9932,9 @@
         "ceads_peak_year": 2005,
         "ceads_peak_emissions": 107.47775020958468,
         "ceads_evidence_grade": "B",
-        "archetype": "policy_backed_chemical_hub",
-        "best_pathway": "co2_h2_ft_saf",
-        "best_margin_2030": -143.30730149853687,
-        "best_margin_2060": 322.46495860095365,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10412,7 +10348,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 2,
         "chain_steps": [
           {
@@ -10463,13 +10399,9 @@
         "ceads_peak_year": 2017,
         "ceads_peak_emissions": 56.94185709480818,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -144.63410663824612,
-        "best_margin_2060": 208.60028127527647,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10970,13 +10902,9 @@
         "ceads_peak_year": null,
         "ceads_peak_emissions": null,
         "ceads_evidence_grade": null,
-        "archetype": "policy_backed_chemical_hub",
-        "best_pathway": "co2_h2_ft_saf",
-        "best_margin_2030": -142.75821530272503,
-        "best_margin_2060": 324.22020122206686,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11852,7 +11780,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -11903,13 +11831,9 @@
         "ceads_peak_year": 2013,
         "ceads_peak_emissions": 89.35652412462692,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -141.82329667523388,
-        "best_margin_2060": 216.86593897661567,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12443,7 +12367,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 2,
         "chain_steps": [
           {
@@ -12494,13 +12418,9 @@
         "ceads_peak_year": 2015,
         "ceads_peak_emissions": 146.7023375381291,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -146.88636342165503,
-        "best_margin_2060": 230.85617941712596,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13131,7 +13051,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -13182,13 +13102,9 @@
         "ceads_peak_year": 2019,
         "ceads_peak_emissions": 59.41342564384258,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -166.4089335409853,
-        "best_margin_2060": 157.36865513045552,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13554,7 +13470,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 4,
         "chain_steps": [
           {
@@ -13605,13 +13521,9 @@
         "ceads_peak_year": 2019,
         "ceads_peak_emissions": 81.14689861932959,
         "ceads_evidence_grade": "B",
-        "archetype": "wait_or_aggregate",
-        "best_pathway": "geological_storage",
-        "best_margin_2030": -490.8243440188903,
-        "best_margin_2060": -305.3911586614521,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14028,13 +13940,14 @@
         "ceads_peak_year": 2019,
         "ceads_peak_emissions": 313.41987954512325,
         "ceads_evidence_grade": "B",
-        "archetype": "policy_backed_chemical_hub",
-        "best_pathway": "co2_h2_ft_saf",
-        "best_margin_2030": -91.01810277047991,
-        "best_margin_2060": 1536.39102892306,
-        "allocated_2060": 7.1412673440099965,
         "allocated_mtco2_per_year_2060": 19.977,
-        "durable_mtco2_per_year_2060": 6.617
+        "durable_mtco2_per_year_2060": 6.617,
+        "archetype": "policy_backed_chemical_hub",
+        "best_pathway": "rwgs_to_co",
+        "best_product": "carbon_monoxide",
+        "best_margin_2030": null,
+        "best_margin_2060": 805.054,
+        "allocated_2060": 19.977
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14436,7 +14349,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -14487,13 +14400,9 @@
         "ceads_peak_year": 2019,
         "ceads_peak_emissions": 64.73283409456447,
         "ceads_evidence_grade": "B",
-        "archetype": "wait_or_aggregate",
-        "best_pathway": "geological_storage",
-        "best_margin_2030": -495.3730091862684,
-        "best_margin_2060": -303.9390196885147,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "Polygon",
@@ -15500,7 +15409,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -15551,13 +15460,9 @@
         "ceads_peak_year": 2014,
         "ceads_peak_emissions": 55.57534462619698,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -145.23894437263067,
-        "best_margin_2060": 206.73215024955883,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16420,7 +16325,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 2,
         "chain_steps": [
           {
@@ -16471,13 +16376,9 @@
         "ceads_peak_year": 2019,
         "ceads_peak_emissions": 72.94934147515603,
         "ceads_evidence_grade": "B",
-        "archetype": "policy_backed_chemical_hub",
-        "best_pathway": "co2_h2_ft_saf",
-        "best_margin_2030": -189.06865021939942,
-        "best_margin_2060": 749.1346066608339,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17753,7 +17654,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -17804,13 +17705,9 @@
         "ceads_peak_year": 2019,
         "ceads_peak_emissions": 74.78458485163335,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -147.5957759880444,
-        "best_margin_2060": 197.91347349390594,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19416,7 +19313,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -19467,13 +19364,9 @@
         "ceads_peak_year": 2014,
         "ceads_peak_emissions": 108.66888786594586,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -144.78615168688233,
-        "best_margin_2060": 230.98192082966875,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -20284,7 +20177,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -20335,13 +20228,9 @@
         "ceads_peak_year": 2013,
         "ceads_peak_emissions": 84.11848018826713,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -148.7305081250684,
-        "best_margin_2060": 226.38721262546807,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -21781,13 +21670,9 @@
         "ceads_peak_year": null,
         "ceads_peak_emissions": null,
         "ceads_evidence_grade": null,
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -148.94963142082702,
-        "best_margin_2060": 227.79622350419072,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -23595,13 +23480,9 @@
         "ceads_peak_year": null,
         "ceads_peak_emissions": null,
         "ceads_evidence_grade": null,
-        "archetype": "wait_or_aggregate",
-        "best_pathway": "geological_storage",
-        "best_margin_2030": -488.4740961581987,
-        "best_margin_2060": -295.05636273825576,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -23967,7 +23848,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -24018,13 +23899,9 @@
         "ceads_peak_year": 2014,
         "ceads_peak_emissions": 39.70267020692381,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -176.1080338177586,
-        "best_margin_2060": 193.3298642074072,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -24461,13 +24338,9 @@
         "ceads_peak_year": null,
         "ceads_peak_emissions": null,
         "ceads_evidence_grade": null,
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -154.4550675782071,
-        "best_margin_2060": 182.62872398207156,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -25951,7 +25824,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -26002,13 +25875,9 @@
         "ceads_peak_year": 2019,
         "ceads_peak_emissions": 24.661039223846295,
         "ceads_evidence_grade": "B",
-        "archetype": "wait_or_aggregate",
-        "best_pathway": "geological_storage",
-        "best_margin_2030": -490.07970746381613,
-        "best_margin_2060": -296.54920637220704,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -26819,7 +26688,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -26870,13 +26739,9 @@
         "ceads_peak_year": 2018,
         "ceads_peak_emissions": 35.66441598018248,
         "ceads_evidence_grade": "B",
-        "archetype": "wait_or_aggregate",
-        "best_pathway": "geological_storage",
-        "best_margin_2030": -402.8954008973432,
-        "best_margin_2060": -177.18592648846428,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -28942,7 +28807,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -28993,13 +28858,9 @@
         "ceads_peak_year": 2016,
         "ceads_peak_emissions": 79.50577241226392,
         "ceads_evidence_grade": "B",
-        "archetype": "wait_or_aggregate",
-        "best_pathway": "geological_storage",
-        "best_margin_2030": -490.48021082645926,
-        "best_margin_2060": -295.3110091498755,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -29377,7 +29238,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -29428,13 +29289,9 @@
         "ceads_peak_year": 2019,
         "ceads_peak_emissions": 30.364377333219196,
         "ceads_evidence_grade": "B",
-        "archetype": "wait_or_aggregate",
-        "best_pathway": "geological_storage",
-        "best_margin_2030": -493.02322603298086,
-        "best_margin_2060": -298.7366899270214,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -31512,7 +31369,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -31563,13 +31420,9 @@
         "ceads_peak_year": 2019,
         "ceads_peak_emissions": 19.260310555350408,
         "ceads_evidence_grade": "B",
-        "archetype": "wait_or_aggregate",
-        "best_pathway": "geological_storage",
-        "best_margin_2030": -407.6480687087503,
-        "best_margin_2060": -188.76478623320585,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -32495,13 +32348,9 @@
         "ceads_peak_year": null,
         "ceads_peak_emissions": null,
         "ceads_evidence_grade": null,
-        "archetype": "wait_or_aggregate",
-        "best_pathway": "geological_storage",
-        "best_margin_2030": -493.3030918316796,
-        "best_margin_2060": -304.4849323967312,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -34971,7 +34820,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 5,
         "chain_steps": [
           {
@@ -35022,13 +34871,9 @@
         "ceads_peak_year": 2013,
         "ceads_peak_emissions": 207.6336928198307,
         "ceads_evidence_grade": "B",
-        "archetype": "coastal_saf_export_hub",
-        "best_pathway": "co2_h2_ft_saf",
-        "best_margin_2030": -147.708699840543,
-        "best_margin_2060": 840.8079751191217,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -35546,7 +35391,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 3,
         "chain_steps": [
           {
@@ -35597,13 +35442,9 @@
         "ceads_peak_year": 2017,
         "ceads_peak_emissions": 178.4163272113612,
         "ceads_evidence_grade": "B",
-        "archetype": "coastal_saf_export_hub",
-        "best_pathway": "co2_h2_ft_saf",
-        "best_margin_2030": -138.93510314725012,
-        "best_margin_2060": 332.7858740110437,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -35993,7 +35834,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 2,
         "chain_steps": [
           {
@@ -36044,13 +35885,9 @@
         "ceads_peak_year": 2019,
         "ceads_peak_emissions": 91.22845982060775,
         "ceads_evidence_grade": "B",
-        "archetype": "coastal_saf_export_hub",
-        "best_pathway": "co2_h2_ft_saf",
-        "best_margin_2030": -140.99585994233175,
-        "best_margin_2060": 299.25140719429965,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -36432,7 +36269,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 3,
         "chain_steps": [
           {
@@ -36483,13 +36320,9 @@
         "ceads_peak_year": 2015,
         "ceads_peak_emissions": 141.75667528733211,
         "ceads_evidence_grade": "B",
-        "archetype": "coastal_saf_export_hub",
-        "best_pathway": "co2_h2_ft_saf",
-        "best_margin_2030": -140.5361776854494,
-        "best_margin_2060": 326.76696375489746,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -36875,7 +36708,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -36926,13 +36759,9 @@
         "ceads_peak_year": 2019,
         "ceads_peak_emissions": 61.538747406601914,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -165.08954832815678,
-        "best_margin_2060": 219.2100249503315,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -37286,7 +37115,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 8,
         "chain_steps": [
           {
@@ -37337,13 +37166,9 @@
         "ceads_peak_year": 2015,
         "ceads_peak_emissions": 236.48695531789673,
         "ceads_evidence_grade": "B",
-        "archetype": "coastal_saf_export_hub",
-        "best_pathway": "co2_h2_ft_saf",
-        "best_margin_2030": -147.2870365268428,
-        "best_margin_2060": 830.1765292525156,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -37721,7 +37546,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 3,
         "chain_steps": [
           {
@@ -37772,13 +37597,9 @@
         "ceads_peak_year": 2016,
         "ceads_peak_emissions": 53.458607733825325,
         "ceads_evidence_grade": "B",
-        "archetype": "coastal_saf_export_hub",
-        "best_pathway": "co2_h2_ft_saf",
-        "best_margin_2030": -149.92034890906984,
-        "best_margin_2060": 297.5463505957855,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -38260,7 +38081,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -38311,13 +38132,9 @@
         "ceads_peak_year": 2019,
         "ceads_peak_emissions": 30.404642130384445,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -142.31211977136923,
-        "best_margin_2060": 216.54384196241716,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -39076,7 +38893,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 2,
         "chain_steps": [
           {
@@ -39127,13 +38944,9 @@
         "ceads_peak_year": 2018,
         "ceads_peak_emissions": 46.53273759728482,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -141.97771363106676,
-        "best_margin_2060": 217.5980445671976,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -39511,7 +39324,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -39562,13 +39375,9 @@
         "ceads_peak_year": 2019,
         "ceads_peak_emissions": 35.48044194095253,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -141.5158559082547,
-        "best_margin_2060": 219.02405682271421,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -39946,7 +39755,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 3,
         "chain_steps": [
           {
@@ -39997,13 +39806,9 @@
         "ceads_peak_year": 2019,
         "ceads_peak_emissions": 53.285643614072924,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -139.8645429868293,
-        "best_margin_2060": 223.51254758350828,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -40357,7 +40162,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -40408,13 +40213,9 @@
         "ceads_peak_year": 2017,
         "ceads_peak_emissions": 42.411004254009484,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -140.38735296489384,
-        "best_margin_2060": 221.43068939692085,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -41710,7 +41511,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 4,
         "chain_steps": [
           {
@@ -41761,13 +41562,9 @@
         "ceads_peak_year": 2018,
         "ceads_peak_emissions": 130.0524193992469,
         "ceads_evidence_grade": "B",
-        "archetype": "coastal_saf_export_hub",
-        "best_pathway": "co2_h2_ft_saf",
-        "best_margin_2030": -141.3965409284463,
-        "best_margin_2060": 296.7790036429219,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -42753,7 +42550,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 3,
         "chain_steps": [
           {
@@ -42804,13 +42601,9 @@
         "ceads_peak_year": 2017,
         "ceads_peak_emissions": 57.30141153289316,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -142.5242604344752,
-        "best_margin_2060": 215.3553637539932,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -43800,7 +43593,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -43851,13 +43644,9 @@
         "ceads_peak_year": 2019,
         "ceads_peak_emissions": 53.09229263119113,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -146.19242953715144,
-        "best_margin_2060": 205.3151128919534,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -45133,7 +44922,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -45184,13 +44973,9 @@
         "ceads_peak_year": 2011,
         "ceads_peak_emissions": 28.018394558429318,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -141.72820382309655,
-        "best_margin_2060": 218.13721310986134,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -45556,7 +45341,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -45607,13 +45392,9 @@
         "ceads_peak_year": 2017,
         "ceads_peak_emissions": 32.141865720162556,
         "ceads_evidence_grade": "B",
-        "archetype": "coastal_saf_export_hub",
-        "best_pathway": "co2_h2_ft_saf",
-        "best_margin_2030": -141.03922790943665,
-        "best_margin_2060": 333.0636480840335,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -46035,7 +45816,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 2,
         "chain_steps": [
           {
@@ -46086,13 +45867,9 @@
         "ceads_peak_year": 2019,
         "ceads_peak_emissions": 28.455712189409976,
         "ceads_evidence_grade": "B",
-        "archetype": "coastal_saf_export_hub",
-        "best_pathway": "co2_h2_ft_saf",
-        "best_margin_2030": -92.90486492473869,
-        "best_margin_2060": 1380.0309208710623,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -50002,7 +49779,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 2,
         "chain_steps": [
           {
@@ -50053,13 +49830,9 @@
         "ceads_peak_year": 2011,
         "ceads_peak_emissions": 56.204616435954485,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -141.78746832281126,
-        "best_margin_2060": 218.82967610969172,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -51570,7 +51343,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -51621,13 +51394,9 @@
         "ceads_peak_year": 2014,
         "ceads_peak_emissions": 43.25158860534249,
         "ceads_evidence_grade": "B/C",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -138.01994242789092,
-        "best_margin_2060": 222.73487816364155,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -52025,7 +51794,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -52076,13 +51845,9 @@
         "ceads_peak_year": 2019,
         "ceads_peak_emissions": 37.27410956980402,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -137.27318042432566,
-        "best_margin_2060": 226.05878149093758,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -52504,7 +52269,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -52555,13 +52320,9 @@
         "ceads_peak_year": 2019,
         "ceads_peak_emissions": 17.450045603774146,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -137.35780196744565,
-        "best_margin_2060": 222.73785199726507,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -52955,7 +52716,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 4,
         "chain_steps": [
           {
@@ -53006,13 +52767,9 @@
         "ceads_peak_year": 2017,
         "ceads_peak_emissions": 67.35059695346318,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -136.36898649947707,
-        "best_margin_2060": 229.15526845893217,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -53486,7 +53243,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -53537,13 +53294,9 @@
         "ceads_peak_year": 2018,
         "ceads_peak_emissions": 97.4815586319222,
         "ceads_evidence_grade": "B",
-        "archetype": "coastal_saf_export_hub",
-        "best_pathway": "co2_h2_ft_saf",
-        "best_margin_2030": -137.45687938584382,
-        "best_margin_2060": 336.02023335416743,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "Polygon",
@@ -53907,7 +53660,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -53958,13 +53711,9 @@
         "ceads_peak_year": 2015,
         "ceads_peak_emissions": 76.24924247410442,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -140.55553995459903,
-        "best_margin_2060": 219.63403013537427,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -54538,7 +54287,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -54589,13 +54338,9 @@
         "ceads_peak_year": 2017,
         "ceads_peak_emissions": 33.46550875517907,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -137.0311513358135,
-        "best_margin_2060": 224.9035828740095,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -55081,7 +54826,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -55132,13 +54877,9 @@
         "ceads_peak_year": 2017,
         "ceads_peak_emissions": 33.700590559809044,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -135.90693478084557,
-        "best_margin_2060": 229.18396656373446,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "Polygon",
@@ -56513,13 +56254,14 @@
         "ceads_peak_year": 2019,
         "ceads_peak_emissions": 23.066315008435147,
         "ceads_evidence_grade": "B",
-        "archetype": "policy_backed_chemical_hub",
-        "best_pathway": "co2_h2_ft_saf",
-        "best_margin_2030": -83.92328824197506,
-        "best_margin_2060": 1377.3487767886359,
-        "allocated_2060": 2.59297804,
         "allocated_mtco2_per_year_2060": 2.593,
-        "durable_mtco2_per_year_2060": 2.593
+        "durable_mtco2_per_year_2060": 2.593,
+        "archetype": "mineralization_base",
+        "best_pathway": "mineralization",
+        "best_product": "carbonate_product",
+        "best_margin_2030": null,
+        "best_margin_2060": 369.003,
+        "allocated_2060": 2.593
       },
       "geometry": {
         "type": "Polygon",
@@ -57765,7 +57507,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -57816,13 +57558,9 @@
         "ceads_peak_year": 2019,
         "ceads_peak_emissions": 12.433865494714487,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -137.032932283242,
-        "best_margin_2060": 224.67987872794745,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -59262,7 +59000,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 3,
         "chain_steps": [
           {
@@ -59313,13 +59051,9 @@
         "ceads_peak_year": 2019,
         "ceads_peak_emissions": 60.115611465417786,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -145.09283430263858,
-        "best_margin_2060": 207.52936666031266,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -61254,7 +60988,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -61305,13 +61039,9 @@
         "ceads_peak_year": 2019,
         "ceads_peak_emissions": 16.425319557076556,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -145.5868628876508,
-        "best_margin_2060": 204.5056793130636,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -62077,7 +61807,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -62128,13 +61858,9 @@
         "ceads_peak_year": 2013,
         "ceads_peak_emissions": 39.7656508392534,
         "ceads_evidence_grade": "B",
-        "archetype": "coastal_saf_export_hub",
-        "best_pathway": "co2_h2_ft_saf",
-        "best_margin_2030": -141.41765699527056,
-        "best_margin_2060": 337.5622681784571,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -62520,7 +62246,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 2,
         "chain_steps": [
           {
@@ -62571,13 +62297,9 @@
         "ceads_peak_year": 2019,
         "ceads_peak_emissions": 69.90637884064772,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -145.0811597530385,
-        "best_margin_2060": 204.15443942588584,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -63215,7 +62937,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 2,
         "chain_steps": [
           {
@@ -63266,13 +62988,9 @@
         "ceads_peak_year": 2019,
         "ceads_peak_emissions": 41.297783193990355,
         "ceads_evidence_grade": "B",
-        "archetype": "coastal_saf_export_hub",
-        "best_pathway": "co2_h2_ft_saf",
-        "best_margin_2030": -143.65245302842013,
-        "best_margin_2060": 338.60305437582156,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -64560,7 +64278,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -64611,13 +64329,9 @@
         "ceads_peak_year": 2019,
         "ceads_peak_emissions": 20.714310620569705,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -145.38925042566106,
-        "best_margin_2060": 207.32598114379783,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -67314,7 +67028,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 2,
         "chain_steps": [
           {
@@ -67365,13 +67079,9 @@
         "ceads_peak_year": 2019,
         "ceads_peak_emissions": 52.601572392133676,
         "ceads_evidence_grade": "B",
-        "archetype": "policy_backed_chemical_hub",
-        "best_pathway": "co2_h2_ft_saf",
-        "best_margin_2030": -135.38724959042332,
-        "best_margin_2060": 327.3185130042493,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -67805,7 +67515,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 2,
         "chain_steps": [
           {
@@ -67856,13 +67566,9 @@
         "ceads_peak_year": 2015,
         "ceads_peak_emissions": 53.569667463622295,
         "ceads_evidence_grade": "B",
-        "archetype": "policy_backed_chemical_hub",
-        "best_pathway": "co2_h2_ft_saf",
-        "best_margin_2030": -135.27314851913604,
-        "best_margin_2060": 338.84778341438914,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -68336,7 +68042,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -68387,13 +68093,9 @@
         "ceads_peak_year": 2018,
         "ceads_peak_emissions": 65.52071451041843,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -139.08019275711868,
-        "best_margin_2060": 218.81910630548342,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -68775,7 +68477,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -68826,13 +68528,9 @@
         "ceads_peak_year": 2019,
         "ceads_peak_emissions": 19.946508332223562,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -142.98335620663119,
-        "best_margin_2060": 214.1017032624982,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -69202,7 +68900,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -69253,13 +68951,9 @@
         "ceads_peak_year": 2011,
         "ceads_peak_emissions": 11.174982673430819,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -141.59214382055112,
-        "best_margin_2060": 218.31682267115565,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -69633,7 +69327,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -69684,13 +69378,9 @@
         "ceads_peak_year": 2010,
         "ceads_peak_emissions": 27.95369210195822,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -136.2905123507651,
-        "best_margin_2060": 229.66164808167517,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -70048,7 +69738,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -70099,13 +69789,9 @@
         "ceads_peak_year": 2018,
         "ceads_peak_emissions": 13.529149975256193,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -139.55759943686402,
-        "best_margin_2060": 219.31955938971348,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -70467,7 +70153,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -70518,13 +70204,9 @@
         "ceads_peak_year": 2011,
         "ceads_peak_emissions": 23.369744436176124,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -163.71057142425056,
-        "best_margin_2060": 219.3018226076343,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -70910,7 +70592,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 2,
         "chain_steps": [
           {
@@ -70961,13 +70643,9 @@
         "ceads_peak_year": 2016,
         "ceads_peak_emissions": 137.1070319216829,
         "ceads_evidence_grade": "B/C",
-        "archetype": "coastal_saf_export_hub",
-        "best_pathway": "co2_h2_ft_saf",
-        "best_margin_2030": -142.89785560420734,
-        "best_margin_2060": 310.65827933251603,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -71349,7 +71027,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -71400,13 +71078,9 @@
         "ceads_peak_year": 2010,
         "ceads_peak_emissions": 68.8246074976206,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -145.2610965683803,
-        "best_margin_2060": 204.05271839973796,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -71976,7 +71650,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -72027,13 +71701,9 @@
         "ceads_peak_year": 2017,
         "ceads_peak_emissions": 97.53722744968562,
         "ceads_evidence_grade": "B",
-        "archetype": "coastal_saf_export_hub",
-        "best_pathway": "co2_h2_ft_saf",
-        "best_margin_2030": -215.0348171708375,
-        "best_margin_2060": 186.85911603623526,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -72474,13 +72144,14 @@
         "ceads_peak_year": 2011,
         "ceads_peak_emissions": 80.91273452668071,
         "ceads_evidence_grade": "B",
-        "archetype": "coastal_saf_export_hub",
-        "best_pathway": "co2_h2_ft_saf",
-        "best_margin_2030": -85.65658194807665,
-        "best_margin_2060": 1386.1589412495314,
-        "allocated_2060": 14.872370440000001,
         "allocated_mtco2_per_year_2060": 14.872,
-        "durable_mtco2_per_year_2060": 14.872
+        "durable_mtco2_per_year_2060": 14.872,
+        "archetype": "mineralization_base",
+        "best_pathway": "mineralization",
+        "best_product": "carbonate_product",
+        "best_margin_2030": null,
+        "best_margin_2060": 368.195,
+        "allocated_2060": 14.872
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -72930,7 +72601,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 2,
         "chain_steps": [
           {
@@ -72981,13 +72652,9 @@
         "ceads_peak_year": 2016,
         "ceads_peak_emissions": 149.52343406928856,
         "ceads_evidence_grade": "B",
-        "archetype": "coastal_saf_export_hub",
-        "best_pathway": "co2_h2_ft_saf",
-        "best_margin_2030": -156.14375124355206,
-        "best_margin_2060": 295.0451055136816,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -73441,7 +73108,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -73492,13 +73159,9 @@
         "ceads_peak_year": 2019,
         "ceads_peak_emissions": 57.81035735848502,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -142.9234022408318,
-        "best_margin_2060": 212.30947409842753,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -74448,7 +74111,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 2,
         "chain_steps": [
           {
@@ -74499,13 +74162,9 @@
         "ceads_peak_year": 2016,
         "ceads_peak_emissions": 80.17900272653199,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -144.62386810813433,
-        "best_margin_2060": 204.80200551489094,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -74875,7 +74534,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -74926,13 +74585,9 @@
         "ceads_peak_year": 2013,
         "ceads_peak_emissions": 85.75794645640534,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -140.5117204078405,
-        "best_margin_2060": 221.0021227867433,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -75318,7 +74973,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -75369,13 +75024,9 @@
         "ceads_peak_year": 2011,
         "ceads_peak_emissions": 57.59234883151997,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -143.66257719818793,
-        "best_margin_2060": 210.22596246896978,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -76306,7 +75957,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 2,
         "chain_steps": [
           {
@@ -76357,13 +76008,9 @@
         "ceads_peak_year": 2016,
         "ceads_peak_emissions": 69.27018134591589,
         "ceads_evidence_grade": "B",
-        "archetype": "coastal_saf_export_hub",
-        "best_pathway": "co2_h2_ft_saf",
-        "best_margin_2030": -140.62983938004356,
-        "best_margin_2060": 329.9976413751456,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -77237,13 +76884,14 @@
         "ceads_peak_year": 2019,
         "ceads_peak_emissions": 55.71703743491861,
         "ceads_evidence_grade": "B",
-        "archetype": "coastal_saf_export_hub",
-        "best_pathway": "co2_h2_ft_saf",
-        "best_margin_2030": -87.18626430260835,
-        "best_margin_2060": 840.533237183168,
-        "allocated_2060": 3.127629559999999,
         "allocated_mtco2_per_year_2060": 3.128,
-        "durable_mtco2_per_year_2060": 3.128
+        "durable_mtco2_per_year_2060": 3.128,
+        "archetype": "mineralization_base",
+        "best_pathway": "mineralization",
+        "best_product": "carbonate_product",
+        "best_margin_2030": null,
+        "best_margin_2060": 367.25,
+        "allocated_2060": 3.128
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -77605,7 +77253,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -77656,13 +77304,9 @@
         "ceads_peak_year": 2019,
         "ceads_peak_emissions": 69.3268193350881,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -141.6342869846932,
-        "best_margin_2060": 219.2987279979044,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -78140,7 +77784,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 6,
         "chain_steps": [
           {
@@ -78191,13 +77835,9 @@
         "ceads_peak_year": 2018,
         "ceads_peak_emissions": 185.55200905489323,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -142.32404310250882,
-        "best_margin_2060": 216.89049709997576,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -79016,7 +78656,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 3,
         "chain_steps": [
           {
@@ -79067,13 +78707,9 @@
         "ceads_peak_year": 2014,
         "ceads_peak_emissions": 86.89974113799947,
         "ceads_evidence_grade": "B",
-        "archetype": "policy_backed_chemical_hub",
-        "best_pathway": "co2_h2_ft_saf",
-        "best_margin_2030": -140.4238129590949,
-        "best_margin_2060": 726.0736927309251,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -79988,7 +79624,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -80039,13 +79675,9 @@
         "ceads_peak_year": 2017,
         "ceads_peak_emissions": 69.44770643318492,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -142.25937679153895,
-        "best_margin_2060": 215.95215375610152,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -80451,7 +80083,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 2,
         "chain_steps": [
           {
@@ -80502,13 +80134,9 @@
         "ceads_peak_year": 2012,
         "ceads_peak_emissions": 88.17485828307134,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -137.35421280438788,
-        "best_margin_2060": 223.69038668151632,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -80878,7 +80506,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -80929,13 +80557,9 @@
         "ceads_peak_year": 2016,
         "ceads_peak_emissions": 106.70614635881114,
         "ceads_evidence_grade": "B",
-        "archetype": "policy_backed_chemical_hub",
-        "best_pathway": "co2_h2_ft_saf",
-        "best_margin_2030": -142.48640835850097,
-        "best_margin_2060": 319.8268482347603,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -82127,7 +81751,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -82178,13 +81802,9 @@
         "ceads_peak_year": 2008,
         "ceads_peak_emissions": 49.450815434458654,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -142.45448452909778,
-        "best_margin_2060": 215.15240843256575,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -83091,7 +82711,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -83142,13 +82762,9 @@
         "ceads_peak_year": 2009,
         "ceads_peak_emissions": 39.99053719567658,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -141.29343214218858,
-        "best_margin_2060": 219.7186979659741,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -84112,7 +83728,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 2,
         "chain_steps": [
           {
@@ -84163,13 +83779,9 @@
         "ceads_peak_year": 2018,
         "ceads_peak_emissions": 31.196616102435524,
         "ceads_evidence_grade": "B",
-        "archetype": "policy_backed_chemical_hub",
-        "best_pathway": "co2_h2_ft_saf",
-        "best_margin_2030": -141.16360253870613,
-        "best_margin_2060": 719.1933285599205,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -84551,7 +84163,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 2,
         "chain_steps": [
           {
@@ -84602,13 +84214,9 @@
         "ceads_peak_year": 2009,
         "ceads_peak_emissions": 54.99564442990419,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -137.2920235341613,
-        "best_margin_2060": 222.8096279086116,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -85451,7 +85059,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -85502,13 +85110,9 @@
         "ceads_peak_year": 2009,
         "ceads_peak_emissions": 33.36025749205811,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -135.6807142122311,
-        "best_margin_2060": 229.48263660444726,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -86752,7 +86356,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -86803,13 +86407,9 @@
         "ceads_peak_year": 2015,
         "ceads_peak_emissions": 34.50263794640147,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -140.68593009642797,
-        "best_margin_2060": 222.07944570964432,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -87355,7 +86955,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 2,
         "chain_steps": [
           {
@@ -87406,13 +87006,9 @@
         "ceads_peak_year": 2019,
         "ceads_peak_emissions": 127.62235484403719,
         "ceads_evidence_grade": "B",
-        "archetype": "policy_backed_chemical_hub",
-        "best_pathway": "co2_h2_ft_saf",
-        "best_margin_2030": -131.41455283481983,
-        "best_margin_2060": 336.6962404963374,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -87834,7 +87430,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -87885,13 +87481,9 @@
         "ceads_peak_year": 2019,
         "ceads_peak_emissions": 34.70180122774383,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -134.30985871804856,
-        "best_margin_2060": 235.28188861477523,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -89479,7 +89071,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -89530,13 +89122,9 @@
         "ceads_peak_year": 2019,
         "ceads_peak_emissions": 26.664052897252425,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -136.24640595524562,
-        "best_margin_2060": 227.77407052929286,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -90094,7 +89682,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -90145,13 +89733,9 @@
         "ceads_peak_year": 2019,
         "ceads_peak_emissions": 30.91486620373912,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -132.95392272297136,
-        "best_margin_2060": 241.6645049487402,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -91218,7 +90802,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -91269,13 +90853,9 @@
         "ceads_peak_year": 2019,
         "ceads_peak_emissions": 42.398022415721165,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -133.03834613330724,
-        "best_margin_2060": 240.91862177048543,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -92190,7 +91770,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -92241,13 +91821,9 @@
         "ceads_peak_year": 2011,
         "ceads_peak_emissions": 18.710353250647472,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -133.77227722787387,
-        "best_margin_2060": 237.89307055161058,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -92685,7 +92261,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -92736,13 +92312,9 @@
         "ceads_peak_year": 2019,
         "ceads_peak_emissions": 25.776791674907685,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -134.28487809029815,
-        "best_margin_2060": 235.702381538654,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -96938,7 +96510,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 2,
         "chain_steps": [
           {
@@ -96989,13 +96561,9 @@
         "ceads_peak_year": 2017,
         "ceads_peak_emissions": 44.07138730955402,
         "ceads_evidence_grade": "B",
-        "archetype": "policy_backed_chemical_hub",
-        "best_pathway": "co2_h2_ft_saf",
-        "best_margin_2030": -136.17824808907173,
-        "best_margin_2060": 337.5040898606517,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -98191,7 +97759,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 3,
         "chain_steps": [
           {
@@ -98242,13 +97810,9 @@
         "ceads_peak_year": 2017,
         "ceads_peak_emissions": 33.57415870880631,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -135.5018476790184,
-        "best_margin_2060": 230.3705242531811,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -99508,7 +99072,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -99559,13 +99123,9 @@
         "ceads_peak_year": 2011,
         "ceads_peak_emissions": 17.40573747059519,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -137.99506844648408,
-        "best_margin_2060": 222.37446184503136,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -99955,7 +99515,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -100006,13 +99566,9 @@
         "ceads_peak_year": 2013,
         "ceads_peak_emissions": 29.741846026586703,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -144.03856741052823,
-        "best_margin_2060": 213.27248623862246,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -100374,7 +99930,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -100425,13 +99981,9 @@
         "ceads_peak_year": 2015,
         "ceads_peak_emissions": 14.0750254578857,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -144.00165675775276,
-        "best_margin_2060": 213.38775508500677,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -101309,13 +100861,9 @@
         "ceads_peak_year": null,
         "ceads_peak_emissions": null,
         "ceads_evidence_grade": null,
-        "archetype": "policy_backed_chemical_hub",
-        "best_pathway": "co2_h2_ft_saf",
-        "best_margin_2030": -136.5193050966199,
-        "best_margin_2060": 338.0974262325308,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -102503,7 +102051,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 2,
         "chain_steps": [
           {
@@ -102554,13 +102102,9 @@
         "ceads_peak_year": 2019,
         "ceads_peak_emissions": 34.526713039942834,
         "ceads_evidence_grade": "B",
-        "archetype": "coastal_saf_export_hub",
-        "best_pathway": "co2_h2_ft_saf",
-        "best_margin_2030": -142.5210435822283,
-        "best_margin_2060": 347.73367987981237,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -102981,13 +102525,14 @@
         "ceads_peak_year": 2018,
         "ceads_peak_emissions": 46.99453262577694,
         "ceads_evidence_grade": "B",
-        "archetype": "coastal_saf_export_hub",
-        "best_pathway": "co2_h2_ft_saf",
-        "best_margin_2030": -436.78388097455735,
-        "best_margin_2060": 1906.1588402091224,
-        "allocated_2060": 7.1412673440099965,
         "allocated_mtco2_per_year_2060": 12.8,
-        "durable_mtco2_per_year_2060": 5.659
+        "durable_mtco2_per_year_2060": 5.659,
+        "archetype": "policy_backed_chemical_hub",
+        "best_pathway": "rwgs_to_co",
+        "best_product": "carbon_monoxide",
+        "best_margin_2030": null,
+        "best_margin_2060": 643.708,
+        "allocated_2060": 12.8
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -103469,7 +103014,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -103520,13 +103065,9 @@
         "ceads_peak_year": 2018,
         "ceads_peak_emissions": 19.913359821091703,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -148.00666172935786,
-        "best_margin_2060": 197.34715756882056,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -104880,7 +104421,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -104931,13 +104472,9 @@
         "ceads_peak_year": 2018,
         "ceads_peak_emissions": 33.10887114694459,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -143.95259992180848,
-        "best_margin_2060": 206.2889594286707,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -105896,7 +105433,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -105947,13 +105484,9 @@
         "ceads_peak_year": 2011,
         "ceads_peak_emissions": 30.11081491571848,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -143.47798794765063,
-        "best_margin_2060": 210.00189299025433,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -106915,7 +106448,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 3,
         "chain_steps": [
           {
@@ -106966,13 +106499,9 @@
         "ceads_peak_year": 2019,
         "ceads_peak_emissions": 57.015501341818336,
         "ceads_evidence_grade": "B",
-        "archetype": "coastal_saf_export_hub",
-        "best_pathway": "co2_h2_ft_saf",
-        "best_margin_2030": -164.5101444348701,
-        "best_margin_2060": 224.46901475103869,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -108478,7 +108007,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -108529,13 +108058,9 @@
         "ceads_peak_year": 2016,
         "ceads_peak_emissions": 20.462629414323093,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -166.69471090846895,
-        "best_margin_2060": 157.35820843290588,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -109462,7 +108987,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -109513,13 +109038,9 @@
         "ceads_peak_year": 2018,
         "ceads_peak_emissions": 34.02937171530771,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -146.1267341331924,
-        "best_margin_2060": 201.15596939509868,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -110470,7 +109991,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 3,
         "chain_steps": [
           {
@@ -110521,13 +110042,9 @@
         "ceads_peak_year": 2018,
         "ceads_peak_emissions": 21.449986960769152,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -146.30750570546542,
-        "best_margin_2060": 201.2538743965194,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -111281,7 +110798,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -111332,13 +110849,9 @@
         "ceads_peak_year": 2013,
         "ceads_peak_emissions": 10.767585508231877,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -143.517306662153,
-        "best_margin_2060": 212.5751496985733,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -111736,7 +111249,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -111787,13 +111300,9 @@
         "ceads_peak_year": 2016,
         "ceads_peak_emissions": 20.694999120549348,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -155.80165576026238,
-        "best_margin_2060": 184.9909633845357,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -112315,7 +111824,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -112366,13 +111875,9 @@
         "ceads_peak_year": 2010,
         "ceads_peak_emissions": 31.805431023959706,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -144.31173681345678,
-        "best_margin_2060": 208.70143798191953,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -113920,7 +113425,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -113971,13 +113476,9 @@
         "ceads_peak_year": 2011,
         "ceads_peak_emissions": 26.266901919128248,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -145.23301798254153,
-        "best_margin_2060": 202.66195970430894,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -114471,7 +113972,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -114522,13 +114023,9 @@
         "ceads_peak_year": 2018,
         "ceads_peak_emissions": 20.156430895612402,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -145.375723967791,
-        "best_margin_2060": 205.20025098494327,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -115792,7 +115289,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -115843,13 +115340,9 @@
         "ceads_peak_year": 2019,
         "ceads_peak_emissions": 65.04387073242069,
         "ceads_evidence_grade": "B",
-        "archetype": "coastal_saf_export_hub",
-        "best_pathway": "co2_h2_ft_saf",
-        "best_margin_2030": -145.36487266539447,
-        "best_margin_2060": 340.5044857329358,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -116620,7 +116113,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -116671,13 +116164,9 @@
         "ceads_peak_year": 2009,
         "ceads_peak_emissions": 3.0591919825179907,
         "ceads_evidence_grade": "B",
-        "archetype": "coastal_saf_export_hub",
-        "best_pathway": "co2_h2_ft_saf",
-        "best_margin_2030": -147.0808310341434,
-        "best_margin_2060": 344.88469213456483,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -117047,7 +116536,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 2,
         "chain_steps": [
           {
@@ -117098,13 +116587,9 @@
         "ceads_peak_year": 2013,
         "ceads_peak_emissions": 23.599316928763603,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -168.7377110769206,
-        "best_margin_2060": 153.804622907527,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -117542,7 +117027,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 4,
         "chain_steps": [
           {
@@ -117593,13 +117078,9 @@
         "ceads_peak_year": 2018,
         "ceads_peak_emissions": 34.98217935753409,
         "ceads_evidence_grade": "B",
-        "archetype": "coastal_saf_export_hub",
-        "best_pathway": "co2_h2_ft_saf",
-        "best_margin_2030": -146.41906340150186,
-        "best_margin_2060": 733.524379322922,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -117957,7 +117438,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -118008,13 +117489,9 @@
         "ceads_peak_year": 2011,
         "ceads_peak_emissions": 21.17433082145666,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -144.39331694037574,
-        "best_margin_2060": 207.0599476154131,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -118464,7 +117941,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -118515,13 +117992,9 @@
         "ceads_peak_year": 2003,
         "ceads_peak_emissions": 31.213320475088313,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -169.7070384935421,
-        "best_margin_2060": 211.6570304083114,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -119325,7 +118798,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -119376,13 +118849,9 @@
         "ceads_peak_year": 2013,
         "ceads_peak_emissions": 26.930875988483503,
         "ceads_evidence_grade": "B",
-        "archetype": "coastal_saf_export_hub",
-        "best_pathway": "co2_h2_ft_saf",
-        "best_margin_2030": -216.0787504593116,
-        "best_margin_2060": 737.6450191527636,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -119776,7 +119245,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -119827,13 +119296,9 @@
         "ceads_peak_year": 2017,
         "ceads_peak_emissions": 9.949436228621055,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -144.55585902316318,
-        "best_margin_2060": 207.8168849387485,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -128407,7 +127872,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 5,
         "chain_steps": [
           {
@@ -128458,13 +127923,9 @@
         "ceads_peak_year": 2012,
         "ceads_peak_emissions": 171.64583670973292,
         "ceads_evidence_grade": "B",
-        "archetype": "policy_backed_chemical_hub",
-        "best_pathway": "co2_h2_ft_saf",
-        "best_margin_2030": -143.42282704945015,
-        "best_margin_2060": 855.3341680027024,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -129924,7 +129385,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -129975,13 +129436,9 @@
         "ceads_peak_year": 2017,
         "ceads_peak_emissions": 55.137432461113015,
         "ceads_evidence_grade": "B",
-        "archetype": "policy_backed_chemical_hub",
-        "best_pathway": "co2_h2_ft_saf",
-        "best_margin_2030": -149.41449483850985,
-        "best_margin_2060": 328.73221254595273,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -133640,7 +133097,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -133691,13 +133148,9 @@
         "ceads_peak_year": 2011,
         "ceads_peak_emissions": 63.47195613779094,
         "ceads_evidence_grade": "B",
-        "archetype": "policy_backed_chemical_hub",
-        "best_pathway": "co2_h2_ft_saf",
-        "best_margin_2030": -144.02049673596844,
-        "best_margin_2060": 331.53863886235195,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -136115,13 +135568,9 @@
         "ceads_peak_year": null,
         "ceads_peak_emissions": null,
         "ceads_evidence_grade": null,
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -144.17439764623896,
-        "best_margin_2060": 207.08473195002435,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -140003,13 +139452,9 @@
         "ceads_peak_year": null,
         "ceads_peak_emissions": null,
         "ceads_evidence_grade": null,
-        "archetype": "policy_backed_chemical_hub",
-        "best_pathway": "co2_h2_ft_saf",
-        "best_margin_2030": -149.9288930346607,
-        "best_margin_2060": 327.0286231844666,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -140912,7 +140357,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 2,
         "chain_steps": [
           {
@@ -140963,13 +140408,9 @@
         "ceads_peak_year": 2012,
         "ceads_peak_emissions": 90.30097132354874,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -142.863787680723,
-        "best_margin_2060": 214.1839418281436,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -142389,7 +141830,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -142440,13 +141881,9 @@
         "ceads_peak_year": 2015,
         "ceads_peak_emissions": 52.68408412506178,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -142.77042412399618,
-        "best_margin_2060": 212.67965820786176,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -144715,7 +144152,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -144766,13 +144203,9 @@
         "ceads_peak_year": 2019,
         "ceads_peak_emissions": 18.06553845520828,
         "ceads_evidence_grade": "B",
-        "archetype": "policy_backed_chemical_hub",
-        "best_pathway": "co2_h2_ft_saf",
-        "best_margin_2030": -96.84250468222459,
-        "best_margin_2060": 1386.9464071401997,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -145646,13 +145079,9 @@
         "ceads_peak_year": null,
         "ceads_peak_emissions": null,
         "ceads_evidence_grade": null,
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -147.01210800309136,
-        "best_margin_2060": 200.16996065280253,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -156556,7 +155985,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -156607,13 +156036,9 @@
         "ceads_peak_year": 2013,
         "ceads_peak_emissions": 33.217062993307316,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -143.55540369510024,
-        "best_margin_2060": 211.40300247303117,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -157508,7 +156933,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 3,
         "chain_steps": [
           {
@@ -157559,13 +156984,9 @@
         "ceads_peak_year": 2019,
         "ceads_peak_emissions": 97.49123546194349,
         "ceads_evidence_grade": "B",
-        "archetype": "policy_backed_chemical_hub",
-        "best_pathway": "co2_h2_ft_saf",
-        "best_margin_2030": -142.27834977749973,
-        "best_margin_2060": 326.2096678483349,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -158059,7 +157480,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -158110,13 +157531,9 @@
         "ceads_peak_year": 2017,
         "ceads_peak_emissions": 24.506655029924143,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -144.01557337327904,
-        "best_margin_2060": 210.12331314623552,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -159018,13 +158435,14 @@
         "ceads_peak_year": 2019,
         "ceads_peak_emissions": 457.75671126788285,
         "ceads_evidence_grade": "B",
-        "archetype": "policy_backed_chemical_hub",
-        "best_pathway": "co2_h2_ft_saf",
-        "best_margin_2030": -88.6284703115507,
-        "best_margin_2060": 846.5214083612846,
-        "allocated_2060": 4.407021959999998,
         "allocated_mtco2_per_year_2060": 4.407,
-        "durable_mtco2_per_year_2060": 4.407
+        "durable_mtco2_per_year_2060": 4.407,
+        "archetype": "mineralization_base",
+        "best_pathway": "mineralization",
+        "best_product": "carbonate_product",
+        "best_margin_2030": null,
+        "best_margin_2060": 367.136,
+        "allocated_2060": 4.407
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -160360,7 +159778,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -160411,13 +159829,9 @@
         "ceads_peak_year": 2014,
         "ceads_peak_emissions": 49.24115646036644,
         "ceads_evidence_grade": "B",
-        "archetype": "policy_backed_chemical_hub",
-        "best_pathway": "co2_h2_ft_saf",
-        "best_margin_2030": -102.92858155711758,
-        "best_margin_2060": 849.3095169926642,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -160855,7 +160269,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -160906,13 +160320,9 @@
         "ceads_peak_year": 2015,
         "ceads_peak_emissions": 43.25373748451551,
         "ceads_evidence_grade": "B",
-        "archetype": "wait_or_aggregate",
-        "best_pathway": "geological_storage",
-        "best_margin_2030": -390.9736106767526,
-        "best_margin_2060": -133.65940904871024,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -161707,7 +161117,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -161758,13 +161168,9 @@
         "ceads_peak_year": 2011,
         "ceads_peak_emissions": 22.77672843525683,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -142.00356568093096,
-        "best_margin_2060": 215.8647503571164,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -163601,7 +163007,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -163652,13 +163058,9 @@
         "ceads_peak_year": 2005,
         "ceads_peak_emissions": 5.793596534224305,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -144.02131669219173,
-        "best_margin_2060": 206.32732475455384,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -164139,13 +163541,9 @@
         "ceads_peak_year": null,
         "ceads_peak_emissions": null,
         "ceads_evidence_grade": null,
-        "archetype": "policy_backed_chemical_hub",
-        "best_pathway": "co2_h2_ft_saf",
-        "best_margin_2030": -259.94492663457623,
-        "best_margin_2060": 1535.215261136514,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -170708,13 +170106,14 @@
         "ceads_peak_year": null,
         "ceads_peak_emissions": null,
         "ceads_evidence_grade": null,
-        "archetype": "policy_backed_chemical_hub",
-        "best_pathway": "co2_h2_ft_saf",
-        "best_margin_2030": -193.41701073509415,
-        "best_margin_2060": 1542.6813242355897,
-        "allocated_2060": 0.3,
         "allocated_mtco2_per_year_2060": 13.042,
-        "durable_mtco2_per_year_2060": 1.955
+        "durable_mtco2_per_year_2060": 1.955,
+        "archetype": "policy_backed_chemical_hub",
+        "best_pathway": "electrolysis_to_formate",
+        "best_product": "formic_acid_equivalent",
+        "best_margin_2030": null,
+        "best_margin_2060": 981.825,
+        "allocated_2060": 13.042
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -171475,13 +170874,14 @@
         "ceads_peak_year": 2019,
         "ceads_peak_emissions": 135.87570552602506,
         "ceads_evidence_grade": "B",
-        "archetype": "policy_backed_chemical_hub",
-        "best_pathway": "co2_h2_ft_saf",
-        "best_margin_2030": -99.82605976727206,
-        "best_margin_2060": 1530.7586117038495,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 13.536,
-        "durable_mtco2_per_year_2060": 13.536
+        "durable_mtco2_per_year_2060": 13.536,
+        "archetype": "storage_first",
+        "best_pathway": "geological_storage",
+        "best_product": "none",
+        "best_margin_2030": null,
+        "best_margin_2060": 218.885,
+        "allocated_2060": 13.536
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -171971,7 +171371,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -172022,13 +171422,9 @@
         "ceads_peak_year": 2015,
         "ceads_peak_emissions": 64.09155130691292,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -151.50052244749264,
-        "best_margin_2060": 186.33437753364197,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -172670,7 +172066,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -172721,13 +172117,9 @@
         "ceads_peak_year": 2018,
         "ceads_peak_emissions": 39.610743485008946,
         "ceads_evidence_grade": "B",
-        "archetype": "mineralization_base",
-        "best_pathway": "mineralization",
-        "best_margin_2030": -148.17088854571304,
-        "best_margin_2060": 192.24917308061944,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -174160,7 +173552,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -174211,13 +173603,9 @@
         "ceads_peak_year": 2012,
         "ceads_peak_emissions": 92.0807282635454,
         "ceads_evidence_grade": "B",
-        "archetype": "wait_or_aggregate",
-        "best_pathway": "geological_storage",
-        "best_margin_2030": -395.362071870055,
-        "best_margin_2060": -142.49969047611188,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -175768,13 +175156,14 @@
         "ceads_peak_year": 2013,
         "ceads_peak_emissions": 15.634935199153777,
         "ceads_evidence_grade": "B",
-        "archetype": "policy_backed_chemical_hub",
-        "best_pathway": "co2_h2_ft_saf",
-        "best_margin_2030": -254.65906413218312,
-        "best_margin_2060": 1543.3458500463435,
-        "allocated_2060": 11.225367425044192,
         "allocated_mtco2_per_year_2060": 1.85,
-        "durable_mtco2_per_year_2060": 1.85
+        "durable_mtco2_per_year_2060": 1.85,
+        "archetype": "storage_first",
+        "best_pathway": "geological_storage",
+        "best_product": "none",
+        "best_margin_2030": null,
+        "best_margin_2060": 230.616,
+        "allocated_2060": 1.85
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -176176,7 +175565,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 6,
         "chain_steps": [
           {
@@ -176227,13 +175616,9 @@
         "ceads_peak_year": 2013,
         "ceads_peak_emissions": 70.53570753128861,
         "ceads_evidence_grade": "B",
-        "archetype": "wait_or_aggregate",
-        "best_pathway": "geological_storage",
-        "best_margin_2030": -474.6521715297184,
-        "best_margin_2060": -261.3895290980657,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -185044,7 +184429,7 @@
         "province_name_en": "Unknown province",
         "screened": false,
         "data_status": "emissions_only",
-        "data_status_label": "City context is retained, but the final dynamic LP does not allocate a complete route here.",
+        "data_status_label": "City emissions are retained, but the final dynamic LP does not allocate a complete route here.",
         "screened_source_count": 1,
         "chain_steps": [
           {
@@ -185095,13 +184480,9 @@
         "ceads_peak_year": 2013,
         "ceads_peak_emissions": 22.296203821303216,
         "ceads_evidence_grade": "B",
-        "archetype": "wait_or_aggregate",
-        "best_pathway": "geological_storage",
-        "best_margin_2030": -494.14576982897177,
-        "best_margin_2060": -311.3010426809389,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -185774,13 +185155,9 @@
         "ceads_peak_year": null,
         "ceads_peak_emissions": null,
         "ceads_evidence_grade": null,
-        "archetype": "wait_or_aggregate",
-        "best_pathway": "geological_storage",
-        "best_margin_2030": -475.9951478510742,
-        "best_margin_2060": -261.7173605078206,
-        "allocated_2060": 0,
         "allocated_mtco2_per_year_2060": 0.0,
-        "durable_mtco2_per_year_2060": 0.0
+        "durable_mtco2_per_year_2060": 0.0,
+        "allocated_2060": 0.0
       },
       "geometry": {
         "type": "MultiPolygon",

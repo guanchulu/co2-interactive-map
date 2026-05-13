@@ -1,9 +1,0 @@
-entity_type,entity_id,latitude,longitude,prefecture_code,prefecture_name,province_code,province_name,boundary_level,join_method,fallback_distance_km,boundary_source,evidence_grade
-hub,PORT_TIANJIN,39.033333,117.2,120000,天津市,120000,天津市,municipality,polygon_contains,0.0,DataV areas_v3 public boundary service,B
-hub,PORT_QINGDAO,36.05,120.316667,370200,青岛市,370000,山东省,city,nearest_centroid_fallback,47.02607381886193,DataV areas_v3 public boundary service,B
-hub,PORT_SHANGHAI,31.233333,121.5,310000,上海市,310000,上海市,municipality,polygon_contains,0.0,DataV areas_v3 public boundary service,B
-hub,PORT_NINGBO,29.866667,121.55,330200,宁波市,330000,浙江省,city,polygon_contains,0.0,DataV areas_v3 public boundary service,B
-hub,PORT_SHENZHEN,22.55,114.116667,440300,深圳市,440000,广东省,city,polygon_contains,0.0,DataV areas_v3 public boundary service,B
-hub,PORT_DALIAN,38.916667,121.6,210200,大连市,210000,辽宁省,city,polygon_contains,0.0,DataV areas_v3 public boundary service,B
-hub,INLAND_ORDOS,39.6086,109.7816,150600,鄂尔多斯市,150000,内蒙古自治区,city,polygon_contains,0.0,DataV areas_v3 public boundary service,B
-hub,INLAND_NW_RENEW,38.0,100.0,632200,海北藏族自治州,630000,青海省,city,polygon_contains,0.0,DataV areas_v3 public boundary service,B

@@ -1,7 +1,0 @@
-policy_id,jurisdiction,target_market,product,pathway,start_year,end_year,credit_usd_per_tco2_avoided,durable_credit_usd_per_tco2,carbon_tax_usd_per_tco2,saf_premium_usd_per_kg,clean_fuel_credit_usd_per_kg,eligibility_fraction,stacking_allowed,certificate_transfer_allowed,notes
-china_saf_dual_carbon_2030_2034,China,china,sustainable_aviation_fuel,all,2030,2034,0,0,0,0.6,0.2,0.5,true,true,Optimistic China SAF/RFNBO-style mandate proxy for dual-carbon aviation decarbonization.
-china_saf_dual_carbon_2035_2039,China,china,sustainable_aviation_fuel,all,2035,2039,0,0,0,1.2,0.35,0.6,true,true,Optimistic China SAF/RFNBO-style mandate proxy for dual-carbon aviation decarbonization.
-china_saf_dual_carbon_2040_2044,China,china,sustainable_aviation_fuel,all,2040,2044,0,0,0,1.8,0.5,0.7,true,true,Optimistic China SAF/RFNBO-style mandate proxy for dual-carbon aviation decarbonization.
-china_saf_dual_carbon_2045_2049,China,china,sustainable_aviation_fuel,all,2045,2049,0,0,0,2.2,0.65,0.78,true,true,Optimistic China SAF/RFNBO-style mandate proxy for dual-carbon aviation decarbonization.
-china_saf_dual_carbon_2050_2054,China,china,sustainable_aviation_fuel,all,2050,2054,0,0,0,2.5,0.8,0.82,true,true,Optimistic China SAF/RFNBO-style mandate proxy for dual-carbon aviation decarbonization.
-china_saf_dual_carbon_2055_2060,China,china,sustainable_aviation_fuel,all,2055,2060,0,0,0,2.8,0.9,0.85,true,true,Optimistic China SAF/RFNBO-style mandate proxy for dual-carbon aviation decarbonization.

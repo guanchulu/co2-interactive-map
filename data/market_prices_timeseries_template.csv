@@ -1,5 +1,0 @@
-date,region,product,grade,market_type,price,currency,unit,currency_year,source,source_url,access_type,evidence_grade,notes
-2023-12-31,China,methanol,chemical_grade,spot,,,,,to_be_filled,,required,A/B,Replace scenario product price with dated market series.
-2023-12-31,China,formic_acid_equivalent,industrial_grade,spot,,,,,to_be_filled,,required,A/B,Specialty chemical price series needed.
-2023-12-31,China,carbon_monoxide,chemical_grade,contract,,,,,to_be_filled,,required,B/C,CO is often internal transfer price; document basis.
-2023-12-31,EU,sustainable_aviation_fuel,astm_blending_component,contract,,,,,to_be_filled,,required,A/B,SAF premium and contract vintage required.

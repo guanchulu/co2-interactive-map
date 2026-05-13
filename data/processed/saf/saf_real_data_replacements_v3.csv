@@ -1,6 +1,0 @@
-item,status,value,unit,source_url,local_path,evidence_grade,model_use
-china_saf_pilot,found_official,"12 flights from Beijing Daxing, Chengdu Shuangliu, Zhengzhou Xinzheng and Ningbo Lishe in pilot phase",pilot deployment record,https://www.caac.gov.cn/English/News/202409/t20240927_225510.html,,A/B,SAF policy/location eligibility and airport demand anchoring.
-china_saf_capacity_2025_news,found_industry_news,1.375,Mt/year certified production capacity,https://www.spglobal.com/energy/en/news-research/latest-news/refined-products/122525-shandong-haike-certified-for-saf-boosts-chinas-capacity-to-138-mil-mty,,C_news,"Upper bound for current HEFA-like China SAF supply, not PtL e-SAF."
-china_saf_report_icet_2024,downloaded,China SAF industry report,PDF,https://www.icet.org.cn/admin/upload/iCET%20SAF%20Report%202024.pdf,data/raw/saf/iCET_SAF_Report_2024.pdf,B/C,"China-specific SAF policy, supply-chain and e-fuel narrative cross-check."
-ptl_saf_aspen_benchmark_eyberg_2024,found_peer_reviewed,Aspen Plus V12 FT and MtJ benchmark,process/TEA article,https://doi.org/10.1016/j.enconman.2024.118728,,B,SAF process mass/energy/CAPEX/OPEX benchmark until our own flowsheet is built.
-nrel_ft_saf_82703,found_downloadable,NREL FT-SAF techno-economic benchmark,PDF report,https://www.nrel.gov/docs/fy22osti/82703.pdf,,B,"FT product slate, upgrading, TRL and cost sanity check."

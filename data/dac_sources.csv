@@ -1,7 +1,0 @@
-source_id,region,source_type,latitude,longitude,co2_available_mtpa,capture_cost_usd_per_tco2,capture_emissions_kgco2e_per_tco2,capture_energy_kwh_per_tco2,co2_purity_fraction,capture_pressure_bar,sox_ppm,nox_ppm,h2s_ppm,o2_percent,water_ppm,annual_capacity_factor,source_name,sector,subsector,year,province_abbr
-DAC_ORDOS,Inner Mongolia,dac,39.6086,109.7816,2.0,260,5,1900,0.995,1.1,0,0,0,0.02,50,0.85,Ordos DAC screening hub,engineered_removal,direct_air_capture,2030,NM
-DAC_HAMI,Xinjiang,dac,42.8185,93.5150,1.5,250,5,1800,0.995,1.1,0,0,0,0.02,50,0.85,Hami DAC screening hub,engineered_removal,direct_air_capture,2030,XJ
-DAC_JIUQUAN,Gansu,dac,39.7326,98.4943,1.2,265,5,1900,0.995,1.1,0,0,0,0.02,50,0.85,Jiuquan DAC screening hub,engineered_removal,direct_air_capture,2030,GS
-DAC_HAIXI,Qinghai,dac,37.3747,97.3609,1.0,255,5,1850,0.995,1.1,0,0,0,0.02,50,0.85,Haixi DAC screening hub,engineered_removal,direct_air_capture,2030,QH
-DAC_NINGXIA,Ningxia,dac,38.4872,106.2309,1.0,270,5,1950,0.995,1.1,0,0,0,0.02,50,0.85,Ningxia DAC screening hub,engineered_removal,direct_air_capture,2030,NX
-DAC_GUANGDONG_PORT,Guangdong,dac,22.5431,114.0579,0.8,330,5,2400,0.995,1.1,0,0,0,0.02,50,0.80,Guangdong port DAC stress-test hub,engineered_removal,direct_air_capture,2030,GD
