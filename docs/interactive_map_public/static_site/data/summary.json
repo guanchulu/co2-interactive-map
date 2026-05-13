@@ -1,6 +1,6 @@
 {
   "model_version": "final_multiscenario_regression_2030_2060",
-  "map_updated_utc": "2026-05-13T09:45:10.093456+00:00",
+  "map_updated_utc": "2026-05-13T15:33:16.143717+00:00",
   "data_source": "output/final_multiscenario_regression",
   "policy_case": "policy_supported_effort",
   "objective": "climate_constrained_profit_max",
@@ -42,13 +42,13 @@
   "prefecture_boundary_count": 370,
   "allocated_cities_2060": 9,
   "positive_2030": 0,
-  "positive_2060": 153,
+  "positive_2060": 9,
   "managed_mtco2_2060": 86.204,
   "durable_mtco2_2060": 54.617,
   "profit_busd_2060": 49.716,
   "net_avoided_mtco2e_2060": 72.157,
-  "emissions_only_city_count": 134,
-  "boundary_only_city_count": 69,
+  "emissions_only_city_count": 280,
+  "boundary_only_city_count": 81,
   "annual_summary": [
     {
       "year": 2030,
